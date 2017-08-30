@@ -10,14 +10,18 @@ body{
     position: absolute;
     top: 0;
     bottom: 0;
-    left: 8.3%;
+    left: 5%;
     right: 0;
 }
 .menu{
     background-color: #263238;
-    padding-top: 10px !important;
     min-height: 100vh !important;
-    width: 10%;
+    max-width: 5% !important; 
+    min-width: 30px !important;
+    
+}
+.menu > ul > li{
+    padding-bottom: 10px;
 }
 .ace_content{padding-top: 10px !important;}
 .ace_gutter-layer{padding-top: 10px !important;}
