@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <link type="text/css" rel="stylesheet" href="css/materialize.css" media="screen,projection" />
+  <link type="text/css" rel="stylesheet" href="css/main.css" media="screen,projection" />
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+  <title>Compilador</title>
+</head>
+<body>
+  <header>
+              
+  </header>
+  <main>
+    <div class="row">
+      <div class="col s1 menu center z-depth-3">
+          yyyy
+      </div>    
+      <div class="col s10 area">
+          <textarea onkeydown="if(event.keyCode===9){var v=this.value,s=this.selectionStart,e=this.selectionEnd;this.value=v.substring(0, s)+'\t'+v.substring(e);this.selectionStart=this.selectionEnd=s+1;return false;}" id="textarea1" class="materialize-textarea"></textarea>
+      </div> 
+    </div>
+  </main>
+</body>
+<script>
+  require('./src/renderer.js');
+
+</script>
+<script type="text/javascript" src="node_modules/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="node_modules/hammer/hammer-min.js"></script>
+<script type="text/javascript" src="node_modules/materialize/materialize.js"></script>
+</html>

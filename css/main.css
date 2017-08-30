@@ -1,0 +1,11 @@
+body{
+    font-family: Consolas, monaco, monospace !important;
+    font-size: 11px;
+    background-color:#37474f;
+    color:#b0bec5;
+}
+.menu{
+    background-color: #263238;
+    padding-top: 10px !important;
+    min-height: 100vh !important;
+}
