@@ -6,22 +6,31 @@ body{
     overflow: hidden;
 }
 #editor {
-    margin: 0;
+    margin-top: 4%;
+    margin-bottom: 20px;
     position: absolute;
     top: 0;
     bottom: 0;
-    left: 5%;
+    left: 0;
     right: 0;
 }
 .menu{
     background-color: #263238;
-    min-height: 100vh !important;
-    max-width: 5% !important; 
-    min-width: 30px !important;
-    
+    padding-left: 2.5% !important;
 }
 .menu > ul > li{
-    padding-bottom: 10px;
+    padding-right: 30px;
+    display: inline;
 }
-.ace_content{padding-top: 10px !important;}
-.ace_gutter-layer{padding-top: 10px !important;}
+.rodape{
+    bottom: 0;
+    background-color: #37474f;
+    height: 20px;
+    width: 100%;
+    position: fixed;
+}
+.rodape > span{
+    float:right;
+    padding-right: 10px;
+    padding-top: 2px;
+}

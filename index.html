@@ -12,35 +12,27 @@
   <title>Compilador</title>
 </head>
 <body>
-  <header>
-              
-  </header>
   <main>
     <div class="row">
-      <div class="col s1 menu center z-depth-3">
+      <div class="col s12 menu z-depth-3">
         <ul>
-          <li> <i class="small material-icons" style="color:#ffe082">create_new_folder</i>
-          <li> <i class="small material-icons" style="color:#81d4fa">save</i>
-          <li> <i class="small material-icons" style="color:#a5d6a7">spellcheck</i>
-          <li> <i class="small material-icons" style="color:#ef9a9a">delete_sweep</i>
+          <li> <a href="#" class="tooltipped" id="novo"    data-position="bottom" data-delay="50" data-tooltip="Abrir novo documento"><i class="material-icons" style="color:#ffe082">create_new_folder</i></a>
+          <li> <a href="#" class="tooltipped" id="salva"   data-position="bottom" data-delay="50" data-tooltip="Salvar Arquivo"><i class="material-icons" style="color:#81d4fa">save</i></a>
+          <li> <a href="#" class="tooltipped" id="analisa" data-position="bottom" data-delay="50" data-tooltip="Análise Léxica"><i class="material-icons" style="color:#a5d6a7">spellcheck</i></a>
+          <li> <a href="#" class="tooltipped" id="limpa"   data-position="bottom" data-delay="50" data-tooltip="Limpar código"><i class="material-icons" style="color:#ef9a9a">delete_sweep</i></a>
         </ul>
       </div>    
       <div class="col s10 area">
-          <pre id="editor">//COMPILADOR DESENVOLVIDO POR THIAGO MARTINS</pre>          
+          <pre id="editor"></pre>          
       </div> 
     </div>
   </main>
+  <footer class="rodape">
+    <span>Desenvolvido por <strong>Thiago Pereira Martins</span>
+  </footer>
 </body>
-<script>
-  require('./src/renderer.js');
-
-</script>
+<script>require('./src/renderer.js');</script>
 <script src="node_modules/ace-builds/src-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
-<script>
-    var editor = ace.edit("editor");
-    editor.setTheme("ace/theme/monokai");
-    editor.session.setMode("ace/mode/javascript");
-</script>
 <script type="text/javascript" src="node_modules/jquery/dist/jquery.min.js"></script>
 <script type="text/javascript" src="node_modules/hammer/hammer-min.js"></script>
 <script type="text/javascript" src="node_modules/materialize/materialize.js"></script>
