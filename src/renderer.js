@@ -18,8 +18,9 @@ window.onload = function(){
 };
 $('#novo').onclick = () =>{
     event.preventDefault();
-    dialog.showOpenDialog( (fileNames) => { 
-        properties: [ 'openFile', 'openDirectory', 'multiSelections' ];
+    dialog.showOpenDialog({
+        properties: ['openFile']
+    },(fileNames) => { 
         if (fileNames === undefined) return;         
         let fileName = fileNames[0]; 
         $('#nomeTexto').innerHTML = 'Arquivo: ' + fileNames[0];   
@@ -27,13 +28,10 @@ $('#novo').onclick = () =>{
             editor.setValue(data); 
             conteudo = data; 
             $('#salva').classList.add('disabled');           
-        });            
-        
+        });              
     });
 }; 
 $('#editor').onkeyup = () =>{
-    console.log(conteudo);
-    console.log(editor.getValue());
     if(conteudo == editor.getValue())
         $('#salva').classList.add('disabled'); 
     else
@@ -43,10 +41,13 @@ $('#salva').onclick = (event) =>{
     console.log('teste');
 };    
 $('#analisa').onclick = () =>{
-    console.log(editor.getValue());
+    console.log(JSON.parse(editor.getValue()));
 };    
 $('#limpa').onclick = () =>{
     editor.setValue("");
     editor.focus();
-    conteudo = "";
+    if(conteudo == editor.getValue())
+        $('#salva').classList.add('disabled'); 
+    else
+       $('#salva').classList.remove('disabled');       
 };  

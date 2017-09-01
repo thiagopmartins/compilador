@@ -19,7 +19,7 @@ body{
     padding-left: 2.5% !important;
 }
 .menu > ul > li{
-    padding-right: 20px;
+    padding-right: 10px;
     display: inline;
 }
 .rodape{
@@ -43,6 +43,4 @@ body{
 #novo{color:#ffe082 !important;}
 #analisa{color:#a5d6a7 !important;}
 #limpa{color:#ef9a9a !important;}
-ul{
-    margin-top: 7px !important;
-}
+ul{margin-top: 7px !important;}
