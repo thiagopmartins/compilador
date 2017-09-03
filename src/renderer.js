@@ -14,7 +14,7 @@ window.onload = function(){
     editor.session.setMode("ace/mode/javascript");    
     editor.focus();
     conteudo = editor.getValue();
-    $('#nomeTexto').innerHTML = 'Arquivo: Novo Texto';              
+    $('#nomeTexto').innerHTML = 'Arquivo: Novo Texto';            
 };
 $('#novo').onclick = () =>{
     event.preventDefault();
@@ -38,10 +38,17 @@ $('#editor').onkeyup = () =>{
        $('#salva').classList.remove('disabled');   
 };
 $('#salva').onclick = (event) =>{
-    console.log('teste');
+    dialog.showSaveDialog((fileName) => {
+        fs.writeFileSync(fileName, editor.getValue());
+        conteudo = editor.getValue();
+        $('#salva').classList.add('disabled'); 
+        Materialize.toast('Arquivo salvo com sucesso!', 4000);
+        $('#nomeTexto').innerHTML = 'Arquivo: ' + fileName; 
+    });
 };    
 $('#analisa').onclick = () =>{
     console.log(JSON.parse(editor.getValue()));
+    Materialize.toast('Análise realizada.', 4000);
 };    
 $('#limpa').onclick = () =>{
     editor.setValue("");
@@ -49,5 +56,5 @@ $('#limpa').onclick = () =>{
     if(conteudo == editor.getValue())
         $('#salva').classList.add('disabled'); 
     else
-       $('#salva').classList.remove('disabled');       
-};  
+       $('#salva').classList.remove('disabled');     
+}; 

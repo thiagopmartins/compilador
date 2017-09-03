@@ -1,4 +1,4 @@
-const { app, BrowserWindow, ipcMain } = require('electron')
+const { app, BrowserWindow, ipcMain, globalShortcut } = require('electron')
 
 const path = require('path')
 const url = require('url')
@@ -24,8 +24,10 @@ function createWindow () {
   mainWindow.on('closed', () => {
     mainWindow = null;
   });
- // mainWindow.openDevTools();
   mainWindow.maximize();
+  const ret = globalShortcut.register('CommandOrControl+x', () => {
+    console.log('Função de salvar');
+  });  
 }
 
 

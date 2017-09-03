@@ -44,3 +44,10 @@ body{
 #analisa{color:#a5d6a7 !important;}
 #limpa{color:#ef9a9a !important;}
 ul{margin-top: 7px !important;}
+
+#toast-container {
+    top: auto !important;
+    right: auto !important;
+    bottom: 94%;
+    left:30%;
+  }

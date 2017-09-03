@@ -4943,22 +4943,20 @@ small {
 }
 
 .toast {
-  border-radius: 2px;
+  border-radius: 1px;
   top: 35px;
   width: auto;
-  margin-top: 10px;
   position: relative;
   max-width: 100%;
   height: auto;
-  min-height: 48px;
   line-height: 1.5em;
   word-break: break-all;
-  background-color: #CEC037 !important;
+  background-color: #c8e6c9 !important;
   color: white;
-  padding: 10px 25px;
-  font-size: 1.1rem;
-  font-weight: 500;
-  color: #fff;
+  padding: 5px 15px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #4caf50;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
