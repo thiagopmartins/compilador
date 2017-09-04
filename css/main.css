@@ -46,8 +46,8 @@ body{
 ul{margin-top: 7px !important;}
 
 #toast-container {
-    top: auto !important;
+    position:fixed;
+    top: 15px !important;
     right: auto !important;
-    bottom: 94%;
-    left:30%;
+    left:300px;
   }

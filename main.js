@@ -25,9 +25,9 @@ function createWindow () {
     mainWindow = null;
   });
   mainWindow.maximize();
-  const ret = globalShortcut.register('CommandOrControl+x', () => {
+  /*const ret = globalShortcut.register('CommandOrControl+x', () => {
     console.log('Função de salvar');
-  });  
+  });*/  
 }
 
 

@@ -1,14 +1,21 @@
 const { ipcRenderer } = require('electron');
 const fs = require('fs');
+const Log = require('./Log.js');
+const Analisador = require('./Analisador.js');
 const { dialog } = require('electron').remote;
 
-let fileOpen = false;
+
+
 let conteudo;
 let $ = document.querySelector.bind(document);
 let editor;
+let fileName;
+let logger;
 
 window.onload = function(){
-    console.log("Carregando aplicação!!!");
+    let data = new Date();
+    logger = new Log();
+    logger.escreve = 'Iniciando apligação ' + data.toLocaleString();
     editor = ace.edit("editor");
     editor.setTheme("ace/theme/monokai");
     editor.session.setMode("ace/mode/javascript");    
@@ -22,8 +29,8 @@ $('#novo').onclick = () =>{
         properties: ['openFile']
     },(fileNames) => { 
         if (fileNames === undefined) return;         
-        let fileName = fileNames[0]; 
-        $('#nomeTexto').innerHTML = 'Arquivo: ' + fileNames[0];   
+        fileName = fileNames[0];
+        $('#nomeTexto').innerHTML = 'Arquivo: ' + fileName;
         fs.readFile(fileName, 'utf-8', function (err, data) {
             editor.setValue(data); 
             conteudo = data; 
@@ -38,17 +45,25 @@ $('#editor').onkeyup = () =>{
        $('#salva').classList.remove('disabled');   
 };
 $('#salva').onclick = (event) =>{
-    dialog.showSaveDialog((fileName) => {
-        fs.writeFileSync(fileName, editor.getValue());
+    dialog.showSaveDialog((file) => {
+        fs.writeFileSync(file, editor.getValue());
+        fileName = file;
         conteudo = editor.getValue();
         $('#salva').classList.add('disabled'); 
         Materialize.toast('Arquivo salvo com sucesso!', 4000);
-        $('#nomeTexto').innerHTML = 'Arquivo: ' + fileName; 
+        $('#nomeTexto').innerHTML = 'Arquivo: ' + fileName;
     });
 };    
 $('#analisa').onclick = () =>{
-    console.log(JSON.parse(editor.getValue()));
-    Materialize.toast('Análise realizada.', 4000);
+    if(fileName === undefined)
+        fileName = 'Desconhecido';
+    let timeInicio = new Date().getTime();
+    logger.escreve = 'Iniciando análise léxica arquivo: ' + fileName;
+    let analise = new Analisador();
+    analise.analiseLexica(editor.getValue());
+    let timeFinal = new Date().getTime();
+    logger.escreve = 'Finalizando análise em ' + (timeFinal - timeInicio) + ' ms';
+    Materialize.toast('Análise realizada.', 4000);         
 };    
 $('#limpa').onclick = () =>{
     editor.setValue("");
