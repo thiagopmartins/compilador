@@ -1,49 +1,66 @@
 const Log = require('./Log.js');
+const Editor = require('./Editor.js');
 
 let logger;
-
-const tokenTypes = [
-    { regex: /^\s+/, tokenType: 'WHITESPACE' },
-    { regex: /^[{}]/, tokenType: 'BRACE' },
-    { regex: /^[\[\]]/, tokenType: 'BRACKET' },
-    { regex: /^:/, tokenType: 'COLON' },
-    { regex: /^,/, tokenType: 'COMMA' },
-    { regex: /^-?\d+(?:\.\d+)?(?:e[+\-]?\d+)?/i, tokenType: 'NUMBER_LITERAL' },
-    { regex: /^"(?:\\.|[^"])*"(?=:)/, tokenType: 'STRING_KEY'},
-    { regex: /^"(?:\\.|[^"])*"/, tokenType: 'STRING_LITERAL'},
-    { regex: /^true|false/, tokenType: 'BOOLEAN_LITERAL' },
-    { regex: /^null/, tokenType: 'NULL' }
-  ];
+let str;
 
 class Analisador{
     analiseLexica(conteudo){
         logger = new Log();
-        logger.escreve = 'Analisando...';
-        var input = JSON.stringify(conteudo);
-        
-        var tokens = [];
-        var foundToken = false;
-    
-        var match;
-        var i;
-        var numTokenTypes = tokenTypes.length;
-    
-        do {
-            for (i = 0; i < numTokenTypes; i++) {
-                
-                match = tokenTypes[i].regex.exec(input);
-                console.log(tokenTypes[i]);
-                if (match) {
-                    
-                    tokens.push({ type: tokenTypes[i].tokenType, value: match[0] });
-                    input = input.substring(match[0].length);
-                    foundToken = true;
-                    break;
-                } 
-            }
-        } while (input.length > 0 && foundToken);
-    
-        console.log(tokens);          
+        let editor = new Editor();
+        str = conteudo.split(/[\s\t\n]/i);
+        this.texto;
+        this.numeros;
     }
+    get texto(){
+        let reg = /(')(.*)(')|(")(.*)(")/;
+        let string = [];
+        for (let key in str) {
+            if(reg.test(str[key])){
+                let txt = reg.exec(str[key]);
+                str[key] = str[key].replace(reg,'');
+                string.push(txt[0]);
+            }
+        }
+        logger.escreve = 'Textos: [' + string + ']';
+        console.log('Textos: [' + string + ']');
+    }
+    get numeros(){
+        let reg = /\d+/;
+        let dec = /[.]+/;
+        let inteiros = [];
+        let decimais = [];
+        for (let key in str) {
+            if(reg.test(str[key])){
+                if(dec.test(str[key])){
+                    decimais.push(str[key]); 
+                    str[key] = str[key].replace(str[key],'');
+                }
+                else{
+                    let txt = reg.exec(str[key]);
+                    str[key] = str[key].replace(reg,'');
+                    inteiros.push(txt);                    
+                }
+
+            }
+        }
+        logger.escreve = 'Numeros: [' + inteiros + ']';
+        console.log('Numeros: [' + inteiros + ']');
+        logger.escreve = 'Decimais: [' + decimais + ']';
+        console.log('Decimais: [' + decimais + ']');        
+    }    
+    get comentarios(){
+        let reg = 1;
+        let string = [];
+        for (let key in str) {
+            if(reg.test(str[key])){
+                let txt = reg.exec(str[key]);
+                str[key] = str[key].replace(reg,'');
+                string.push(txt[0]);
+            }
+        }
+        logger.escreve = 'Comentarios: [' + string + ']';
+        console.log('Comentarios: [' + string + ']');
+    }    
 }
 module.exports = Analisador;

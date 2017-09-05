@@ -1,26 +1,24 @@
 const { ipcRenderer } = require('electron');
 const fs = require('fs');
 const Log = require('./Log.js');
-const Analisador = require('./Analisador.js');
+const Editor = require('./Editor.js');
+const Analisador = require('./analisador.js');
 const { dialog } = require('electron').remote;
 
 
 
 let conteudo;
 let $ = document.querySelector.bind(document);
-let editor;
 let fileName;
 let logger;
+let editor
 
 window.onload = function(){
     let data = new Date();
     logger = new Log();
     logger.escreve = 'Iniciando apligação ' + data.toLocaleString();
-    editor = ace.edit("editor");
-    editor.setTheme("ace/theme/monokai");
-    editor.session.setMode("ace/mode/javascript");    
-    editor.focus();
-    conteudo = editor.getValue();
+    editor = new Editor();
+    conteudo = "";
     $('#nomeTexto').innerHTML = 'Arquivo: Novo Texto';            
 };
 $('#novo').onclick = () =>{
@@ -32,23 +30,23 @@ $('#novo').onclick = () =>{
         fileName = fileNames[0];
         $('#nomeTexto').innerHTML = 'Arquivo: ' + fileName;
         fs.readFile(fileName, 'utf-8', function (err, data) {
-            editor.setValue(data); 
+            editor.conteudo = data; 
             conteudo = data; 
             $('#salva').classList.add('disabled');           
         });              
     });
 }; 
 $('#editor').onkeyup = () =>{
-    if(conteudo == editor.getValue())
+    if(conteudo == editor.conteudo)
         $('#salva').classList.add('disabled'); 
     else
        $('#salva').classList.remove('disabled');   
 };
 $('#salva').onclick = (event) =>{
     dialog.showSaveDialog((file) => {
-        fs.writeFileSync(file, editor.getValue());
+        fs.writeFileSync(file, editor.conteudo);
         fileName = file;
-        conteudo = editor.getValue();
+        conteudo = editor.conteudo;
         $('#salva').classList.add('disabled'); 
         Materialize.toast('Arquivo salvo com sucesso!', 4000);
         $('#nomeTexto').innerHTML = 'Arquivo: ' + fileName;
@@ -60,15 +58,14 @@ $('#analisa').onclick = () =>{
     let timeInicio = new Date().getTime();
     logger.escreve = 'Iniciando análise léxica arquivo: ' + fileName;
     let analise = new Analisador();
-    analise.analiseLexica(editor.getValue());
+    analise.analiseLexica(editor.conteudo);
     let timeFinal = new Date().getTime();
     logger.escreve = 'Finalizando análise em ' + (timeFinal - timeInicio) + ' ms';
     Materialize.toast('Análise realizada.', 4000);         
 };    
 $('#limpa').onclick = () =>{
-    editor.setValue("");
-    editor.focus();
-    if(conteudo == editor.getValue())
+    editor.conteudo = "";
+    if(conteudo == editor.conteudo)
         $('#salva').classList.add('disabled'); 
     else
        $('#salva').classList.remove('disabled');     
