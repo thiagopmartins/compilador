@@ -8,20 +8,25 @@ class Analisador{
     analiseLexica(conteudo){
         logger = new Log();
         let editor = new Editor();
-        str = conteudo.split(/[\s\t\n]/i);
+        str = conteudo;
+        this.comentarios;
         this.texto;
+        str = str.split(/\s+/g);
+        
         this.numeros;
     }
     get texto(){
-        let reg = /(')(.*)(')|(")(.*)(")/;
+        let reg = /^(')(.+)(')$|(")(.*\s*)(")/;
         let string = [];
-        for (let key in str) {
-            if(reg.test(str[key])){
-                let txt = reg.exec(str[key]);
-                str[key] = str[key].replace(reg,'');
-                string.push(txt[0]);
-            }
+        do{
+            
+            let txt = reg.exec(str);
+            console.log(str);
+            str = str.replace(txt[2],'');
+            console.log(str);
+            string.push(txt[2]);
         }
+        while(reg.test(str));
         logger.escreve = 'Textos: [' + string + ']';
         console.log('Textos: [' + string + ']');
     }
@@ -50,14 +55,14 @@ class Analisador{
         console.log('Decimais: [' + decimais + ']');        
     }    
     get comentarios(){
-        let reg = 1;
+        let reg = /\/+\w+\s?/;
         let string = [];
-        for (let key in str) {
-            if(reg.test(str[key])){
-                let txt = reg.exec(str[key]);
-                str[key] = str[key].replace(reg,'');
-                string.push(txt[0]);
-            }
+        
+        if(reg.test(str)){
+            let txt = reg.exec(str);
+            string.push(txt);
+            str = str.replace(txt,'');
+            
         }
         logger.escreve = 'Comentarios: [' + string + ']';
         console.log('Comentarios: [' + string + ']');
