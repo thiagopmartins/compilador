@@ -16,29 +16,24 @@ class Analisador{
         this.numeros;
         this.operadores;
     }
+    static set conteudoStr(valor){
+        this.str = valor;
+    }
     get operadores(){
-        let string = [];
-        for(let i = 0; i < Operadores.token.length; i++){
-            let reg = Operadores.token[i].regex;
-            for (let key in str) {
-                if(reg.test(str[key])){
-                    string.push(str[key]);
-                    str[key] = str[key].replace(str[key],' ');
-                }
-            }            
-        }
+        
+        let string = Operadores.valores(str);
         logger.escreve = 'Operadores: [' + string + ']';
         console.log('Operadores: [' + string + ']');        
     }
     get texto(){
-        let reg = /^(')+(.+)(')+$|(")(.*\s*)(")/;
+        let reg = /^"([\w])+?"$/;
         let string = [];
-            
-        let txt = reg.exec(str);
-        console.log(txt);
-        // str = str.replace(txt[2],'');
-        //console.log(str);
-        // string.push(txt[2]);
+        while(reg.test(str)){ 
+            let txt = reg.exec(str);
+           
+            str = str.replace(txt,'');
+            string.push(txt);
+        }
         logger.escreve = 'Textos: [' + string + ']';
         console.log('Textos: [' + string + ']');
     }
@@ -70,12 +65,10 @@ class Analisador{
         let reg = /\/{2}.*|\/\*[\s\w]+?\*\//;
         let string = [];
         
-        if(reg.test(str)){
-            
+        while(reg.test(str)){       
             let txt = reg.exec(str);
             string.push(txt);
             str = str.replace(txt,'');
-            console.log(str); 
         }
         logger.escreve = 'Comentarios: [' + string + ']';
         console.log('Comentarios: [' + string + ']');
