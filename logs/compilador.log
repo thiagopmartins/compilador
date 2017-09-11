@@ -1511,3 +1511,1177 @@
 [2017-09-06 17:39:40.979] [INFO] compilador - Comentarios: []
 [2017-09-06 17:39:52.402] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
 [2017-09-06 17:39:52.409] [INFO] compilador - Comentarios: []
+[2017-09-10 18:01:37.895] [INFO] compilador - Iniciando apligação 10/09/2017 18:01:37
+[2017-09-10 18:01:49.449] [INFO] compilador - Iniciando análise léxica arquivo: E:\Compilador\main.js
+[2017-09-10 18:01:49.505] [INFO] compilador - Comentarios: [/logo]
+[2017-09-10 18:03:56.229] [INFO] compilador - Iniciando apligação 10/09/2017 18:03:56
+[2017-09-10 18:04:07.615] [INFO] compilador - Iniciando análise léxica arquivo: E:\Compilador\teste.txt
+[2017-09-10 18:04:22.469] [INFO] compilador - Iniciando apligação 10/09/2017 18:04:22
+[2017-09-10 18:04:31.584] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:04:31.610] [INFO] compilador - Comentarios: [//teste1
+]
+[2017-09-10 18:04:31.613] [INFO] compilador - Numeros: [2,12]
+[2017-09-10 18:04:31.613] [INFO] compilador - Decimais: []
+[2017-09-10 18:04:31.613] [INFO] compilador - Finalizando análise em 30 ms
+[2017-09-10 18:05:09.271] [INFO] compilador - Iniciando apligação 10/09/2017 18:05:09
+[2017-09-10 18:05:15.153] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:05:15.161] [INFO] compilador - Comentarios: [//teste1
+,//teste2]
+[2017-09-10 18:05:15.163] [INFO] compilador - Numeros: []
+[2017-09-10 18:05:15.163] [INFO] compilador - Decimais: []
+[2017-09-10 18:05:15.164] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-10 18:05:20.627] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:05:20.634] [INFO] compilador - Comentarios: [//teste1
+,//teste2
+]
+[2017-09-10 18:05:20.635] [INFO] compilador - Numeros: [21]
+[2017-09-10 18:05:20.635] [INFO] compilador - Decimais: []
+[2017-09-10 18:05:20.635] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 18:06:41.136] [INFO] compilador - Iniciando apligação 10/09/2017 18:06:41
+[2017-09-10 18:06:48.967] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:07:45.201] [INFO] compilador - Iniciando apligação 10/09/2017 18:07:45
+[2017-09-10 18:07:57.122] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:07:57.155] [INFO] compilador - Comentarios: [//teste1]
+[2017-09-10 18:07:57.162] [INFO] compilador - Numeros: []
+[2017-09-10 18:07:57.162] [INFO] compilador - Decimais: []
+[2017-09-10 18:07:57.162] [INFO] compilador - Finalizando análise em 40 ms
+[2017-09-10 18:08:35.295] [INFO] compilador - Iniciando apligação 10/09/2017 18:08:35
+[2017-09-10 18:08:38.828] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:08:38.834] [INFO] compilador - Comentarios: [//d]
+[2017-09-10 18:08:38.836] [INFO] compilador - Numeros: []
+[2017-09-10 18:08:38.836] [INFO] compilador - Decimais: []
+[2017-09-10 18:08:38.837] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 18:09:09.903] [INFO] compilador - Iniciando apligação 10/09/2017 18:09:09
+[2017-09-10 18:09:14.991] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:09:14.999] [INFO] compilador - Comentarios: [/*teste]
+[2017-09-10 18:09:15.001] [INFO] compilador - Numeros: []
+[2017-09-10 18:09:15.001] [INFO] compilador - Decimais: []
+[2017-09-10 18:09:15.001] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 18:09:36.524] [INFO] compilador - Iniciando apligação 10/09/2017 18:09:36
+[2017-09-10 18:09:39.682] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:09:39.688] [INFO] compilador - Comentarios: [/*teste]
+[2017-09-10 18:09:39.690] [INFO] compilador - Numeros: []
+[2017-09-10 18:09:39.690] [INFO] compilador - Decimais: []
+[2017-09-10 18:09:39.690] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 18:09:43.787] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:09:43.792] [INFO] compilador - Comentarios: []
+[2017-09-10 18:09:43.793] [INFO] compilador - Numeros: []
+[2017-09-10 18:09:43.793] [INFO] compilador - Decimais: []
+[2017-09-10 18:09:43.794] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 18:09:48.380] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:09:48.387] [INFO] compilador - Comentarios: [//teste]
+[2017-09-10 18:09:48.387] [INFO] compilador - Numeros: []
+[2017-09-10 18:09:48.387] [INFO] compilador - Decimais: []
+[2017-09-10 18:09:48.388] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 18:10:46.204] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:10:46.212] [INFO] compilador - Comentarios: [/*dsadsa]
+[2017-09-10 18:10:46.213] [INFO] compilador - Numeros: []
+[2017-09-10 18:10:46.213] [INFO] compilador - Decimais: []
+[2017-09-10 18:10:46.213] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 18:10:58.102] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:10:58.109] [INFO] compilador - Comentarios: [/*dsadsa]
+[2017-09-10 18:10:58.110] [INFO] compilador - Numeros: []
+[2017-09-10 18:10:58.110] [INFO] compilador - Decimais: []
+[2017-09-10 18:10:58.111] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 18:10:58.319] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:10:58.327] [INFO] compilador - Comentarios: [/*dsadsa]
+[2017-09-10 18:10:58.327] [INFO] compilador - Numeros: []
+[2017-09-10 18:10:58.328] [INFO] compilador - Decimais: []
+[2017-09-10 18:10:58.328] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 18:11:01.785] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:11:01.791] [INFO] compilador - Comentarios: [/*dsadsa
+]
+[2017-09-10 18:11:01.791] [INFO] compilador - Numeros: []
+[2017-09-10 18:11:01.791] [INFO] compilador - Decimais: []
+[2017-09-10 18:11:01.792] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 18:11:07.964] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:11:07.970] [INFO] compilador - Comentarios: [/*dsadsa
+]
+[2017-09-10 18:11:07.970] [INFO] compilador - Numeros: []
+[2017-09-10 18:11:07.971] [INFO] compilador - Decimais: []
+[2017-09-10 18:11:07.971] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 18:11:27.705] [INFO] compilador - Iniciando apligação 10/09/2017 18:11:27
+[2017-09-10 18:11:35.759] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:11:35.765] [INFO] compilador - Comentarios: []
+[2017-09-10 18:11:35.768] [INFO] compilador - Numeros: []
+[2017-09-10 18:11:35.768] [INFO] compilador - Decimais: []
+[2017-09-10 18:11:35.769] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 18:11:41.545] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:11:41.553] [INFO] compilador - Comentarios: []
+[2017-09-10 18:11:41.553] [INFO] compilador - Numeros: []
+[2017-09-10 18:11:41.554] [INFO] compilador - Decimais: []
+[2017-09-10 18:11:41.554] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 18:12:12.123] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:12:12.130] [INFO] compilador - Comentarios: []
+[2017-09-10 18:12:12.130] [INFO] compilador - Numeros: []
+[2017-09-10 18:12:12.131] [INFO] compilador - Decimais: []
+[2017-09-10 18:12:12.131] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 18:12:16.934] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:12:16.939] [INFO] compilador - Comentarios: []
+[2017-09-10 18:12:16.939] [INFO] compilador - Numeros: []
+[2017-09-10 18:12:16.940] [INFO] compilador - Decimais: []
+[2017-09-10 18:12:16.941] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 18:12:22.335] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:12:22.343] [INFO] compilador - Comentarios: []
+[2017-09-10 18:12:22.343] [INFO] compilador - Numeros: []
+[2017-09-10 18:12:22.343] [INFO] compilador - Decimais: []
+[2017-09-10 18:12:22.344] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 18:12:52.334] [INFO] compilador - Iniciando apligação 10/09/2017 18:12:52
+[2017-09-10 18:12:58.980] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:12:58.986] [INFO] compilador - Comentarios: [/*dasdassdasd
+*/]
+[2017-09-10 18:12:58.988] [INFO] compilador - Numeros: []
+[2017-09-10 18:12:58.988] [INFO] compilador - Decimais: []
+[2017-09-10 18:12:58.989] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 18:13:07.277] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:13:07.281] [INFO] compilador - Comentarios: []
+[2017-09-10 18:13:07.282] [INFO] compilador - Numeros: []
+[2017-09-10 18:13:07.282] [INFO] compilador - Decimais: []
+[2017-09-10 18:13:07.282] [INFO] compilador - Finalizando análise em 5 ms
+[2017-09-10 18:13:18.321] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:13:18.327] [INFO] compilador - Comentarios: []
+[2017-09-10 18:13:18.327] [INFO] compilador - Numeros: []
+[2017-09-10 18:13:18.327] [INFO] compilador - Decimais: []
+[2017-09-10 18:13:18.328] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 18:13:23.692] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:13:23.698] [INFO] compilador - Comentarios: []
+[2017-09-10 18:13:23.698] [INFO] compilador - Numeros: []
+[2017-09-10 18:13:23.698] [INFO] compilador - Decimais: []
+[2017-09-10 18:13:23.699] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 18:13:28.535] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:13:28.541] [INFO] compilador - Comentarios: []
+[2017-09-10 18:13:28.542] [INFO] compilador - Numeros: []
+[2017-09-10 18:13:28.542] [INFO] compilador - Decimais: []
+[2017-09-10 18:13:28.543] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 18:13:35.063] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:13:35.071] [INFO] compilador - Comentarios: [/*dasdassdasd*/]
+[2017-09-10 18:13:35.071] [INFO] compilador - Numeros: []
+[2017-09-10 18:13:35.071] [INFO] compilador - Decimais: []
+[2017-09-10 18:13:35.071] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 18:14:01.957] [INFO] compilador - Iniciando apligação 10/09/2017 18:14:01
+[2017-09-10 18:14:08.877] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:14:08.881] [INFO] compilador - Comentarios: []
+[2017-09-10 18:14:08.883] [INFO] compilador - Numeros: []
+[2017-09-10 18:14:08.883] [INFO] compilador - Decimais: []
+[2017-09-10 18:14:08.884] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 18:14:16.278] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:14:16.282] [INFO] compilador - Comentarios: []
+[2017-09-10 18:14:16.283] [INFO] compilador - Numeros: []
+[2017-09-10 18:14:16.283] [INFO] compilador - Decimais: []
+[2017-09-10 18:14:16.284] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 18:14:51.804] [INFO] compilador - Iniciando apligação 10/09/2017 18:14:51
+[2017-09-10 18:15:00.030] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:15:47.347] [INFO] compilador - Iniciando apligação 10/09/2017 18:15:47
+[2017-09-10 18:15:58.427] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:15:58.645] [INFO] compilador - Comentarios: []
+[2017-09-10 18:15:58.686] [INFO] compilador - Numeros: []
+[2017-09-10 18:15:58.686] [INFO] compilador - Decimais: []
+[2017-09-10 18:15:58.686] [INFO] compilador - Finalizando análise em 259 ms
+[2017-09-10 18:16:04.477] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 18:16:04.483] [INFO] compilador - Comentarios: []
+[2017-09-10 18:16:04.483] [INFO] compilador - Numeros: []
+[2017-09-10 18:16:04.484] [INFO] compilador - Decimais: []
+[2017-09-10 18:16:04.484] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 20:47:20.823] [INFO] compilador - Iniciando apligação 10/09/2017 20:47:20
+[2017-09-10 20:47:42.125] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:47:42.167] [INFO] compilador - Comentarios: []
+[2017-09-10 20:47:42.280] [INFO] compilador - Numeros: []
+[2017-09-10 20:47:42.280] [INFO] compilador - Decimais: []
+[2017-09-10 20:47:42.281] [INFO] compilador - Finalizando análise em 156 ms
+[2017-09-10 20:47:45.942] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:47:45.947] [INFO] compilador - Comentarios: []
+[2017-09-10 20:47:45.947] [INFO] compilador - Numeros: [423]
+[2017-09-10 20:47:45.947] [INFO] compilador - Decimais: []
+[2017-09-10 20:47:45.948] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 20:47:48.991] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:47:48.996] [INFO] compilador - Comentarios: []
+[2017-09-10 20:47:48.996] [INFO] compilador - Numeros: [423]
+[2017-09-10 20:47:48.996] [INFO] compilador - Decimais: []
+[2017-09-10 20:47:48.997] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 20:48:40.342] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:49:15.600] [INFO] compilador - Iniciando apligação 10/09/2017 20:49:15
+[2017-09-10 20:49:23.989] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:49:24.016] [INFO] compilador - Comentarios: [//43423]
+[2017-09-10 20:49:24.018] [INFO] compilador - Numeros: []
+[2017-09-10 20:49:24.019] [INFO] compilador - Decimais: []
+[2017-09-10 20:49:24.019] [INFO] compilador - Finalizando análise em 30 ms
+[2017-09-10 20:49:28.186] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:49:28.191] [INFO] compilador - Comentarios: [//43423]
+[2017-09-10 20:49:28.191] [INFO] compilador - Numeros: []
+[2017-09-10 20:49:28.192] [INFO] compilador - Decimais: []
+[2017-09-10 20:49:28.192] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 20:49:32.840] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:49:32.846] [INFO] compilador - Comentarios: [//43423 eq]
+[2017-09-10 20:49:32.846] [INFO] compilador - Numeros: []
+[2017-09-10 20:49:32.847] [INFO] compilador - Decimais: []
+[2017-09-10 20:49:32.847] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 20:49:39.186] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:49:39.192] [INFO] compilador - Comentarios: [//43423 eq,//434234sdsd]
+[2017-09-10 20:49:39.192] [INFO] compilador - Numeros: []
+[2017-09-10 20:49:39.192] [INFO] compilador - Decimais: []
+[2017-09-10 20:49:39.193] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 20:49:46.229] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:49:46.235] [INFO] compilador - Comentarios: [//43423 eq,//434234sdsd                               ]
+[2017-09-10 20:49:46.235] [INFO] compilador - Numeros: []
+[2017-09-10 20:49:46.235] [INFO] compilador - Decimais: []
+[2017-09-10 20:49:46.235] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 20:50:46.527] [INFO] compilador - Iniciando apligação 10/09/2017 20:50:46
+[2017-09-10 20:50:50.490] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:50:50.496] [INFO] compilador - Comentarios: [/*dasdas]
+[2017-09-10 20:50:50.498] [INFO] compilador - Numeros: []
+[2017-09-10 20:50:50.499] [INFO] compilador - Decimais: []
+[2017-09-10 20:50:50.499] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 20:50:53.651] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:50:53.658] [INFO] compilador - Comentarios: [/*dasdas]
+[2017-09-10 20:50:53.658] [INFO] compilador - Numeros: []
+[2017-09-10 20:50:53.659] [INFO] compilador - Decimais: []
+[2017-09-10 20:50:53.659] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 20:50:59.654] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:50:59.659] [INFO] compilador - Comentarios: [/*dasdas]
+[2017-09-10 20:50:59.660] [INFO] compilador - Numeros: []
+[2017-09-10 20:50:59.660] [INFO] compilador - Decimais: []
+[2017-09-10 20:50:59.660] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 20:51:21.679] [INFO] compilador - Iniciando apligação 10/09/2017 20:51:21
+[2017-09-10 20:51:26.038] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:51:26.044] [INFO] compilador - Comentarios: [/*dasds
+]
+[2017-09-10 20:51:26.046] [INFO] compilador - Numeros: []
+[2017-09-10 20:51:26.046] [INFO] compilador - Decimais: []
+[2017-09-10 20:51:26.046] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 20:51:30.754] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:51:30.760] [INFO] compilador - Comentarios: [/*dasds
+]
+[2017-09-10 20:51:30.760] [INFO] compilador - Numeros: []
+[2017-09-10 20:51:30.761] [INFO] compilador - Decimais: []
+[2017-09-10 20:51:30.761] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 20:51:30.929] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:51:30.935] [INFO] compilador - Comentarios: [/*dasds
+]
+[2017-09-10 20:51:30.935] [INFO] compilador - Numeros: []
+[2017-09-10 20:51:30.935] [INFO] compilador - Decimais: []
+[2017-09-10 20:51:30.936] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 20:51:31.122] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:51:31.128] [INFO] compilador - Comentarios: [/*dasds
+]
+[2017-09-10 20:51:31.128] [INFO] compilador - Numeros: []
+[2017-09-10 20:51:31.128] [INFO] compilador - Decimais: []
+[2017-09-10 20:51:31.129] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 20:51:34.703] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:51:34.708] [INFO] compilador - Comentarios: [/*dasds
+]
+[2017-09-10 20:51:34.708] [INFO] compilador - Numeros: []
+[2017-09-10 20:51:34.709] [INFO] compilador - Decimais: []
+[2017-09-10 20:51:34.709] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 20:51:36.145] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:51:36.150] [INFO] compilador - Comentarios: [/*dasds
+]
+[2017-09-10 20:51:36.150] [INFO] compilador - Numeros: []
+[2017-09-10 20:51:36.151] [INFO] compilador - Decimais: []
+[2017-09-10 20:51:36.151] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 20:51:38.490] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:51:38.496] [INFO] compilador - Comentarios: [/*dasds
+]
+[2017-09-10 20:51:38.497] [INFO] compilador - Numeros: []
+[2017-09-10 20:51:38.497] [INFO] compilador - Decimais: []
+[2017-09-10 20:51:38.498] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 20:52:03.136] [INFO] compilador - Iniciando apligação 10/09/2017 20:52:03
+[2017-09-10 20:52:07.506] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:52:07.512] [INFO] compilador - Comentarios: [/*dasdsa 
+]
+[2017-09-10 20:52:07.513] [INFO] compilador - Numeros: []
+[2017-09-10 20:52:07.513] [INFO] compilador - Decimais: []
+[2017-09-10 20:52:07.513] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 20:52:19.446] [INFO] compilador - Iniciando apligação 10/09/2017 20:52:19
+[2017-09-10 20:52:22.648] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:52:22.656] [INFO] compilador - Comentarios: [/*dasdsa
+]
+[2017-09-10 20:52:22.656] [INFO] compilador - Numeros: []
+[2017-09-10 20:52:22.657] [INFO] compilador - Decimais: []
+[2017-09-10 20:52:22.657] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 20:52:50.789] [INFO] compilador - Iniciando apligação 10/09/2017 20:52:50
+[2017-09-10 20:52:55.331] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:52:55.340] [INFO] compilador - Comentarios: [/*dsadas
+das]
+[2017-09-10 20:52:55.340] [INFO] compilador - Numeros: []
+[2017-09-10 20:52:55.341] [INFO] compilador - Decimais: []
+[2017-09-10 20:52:55.341] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 20:52:59.179] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:52:59.184] [INFO] compilador - Comentarios: [/*dsadas
+das]
+[2017-09-10 20:52:59.185] [INFO] compilador - Numeros: []
+[2017-09-10 20:52:59.185] [INFO] compilador - Decimais: []
+[2017-09-10 20:52:59.185] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 20:53:06.878] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:53:06.885] [INFO] compilador - Comentarios: [/*dsadas
+das]
+[2017-09-10 20:53:06.885] [INFO] compilador - Numeros: []
+[2017-09-10 20:53:06.885] [INFO] compilador - Decimais: []
+[2017-09-10 20:53:06.886] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 20:53:28.868] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:53:28.874] [INFO] compilador - Comentarios: [/*dsadas
+das234234]
+[2017-09-10 20:53:28.874] [INFO] compilador - Numeros: []
+[2017-09-10 20:53:28.875] [INFO] compilador - Decimais: []
+[2017-09-10 20:53:28.875] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 20:53:43.249] [INFO] compilador - Iniciando apligação 10/09/2017 20:53:43
+[2017-09-10 20:53:47.653] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:53:47.661] [INFO] compilador - Comentarios: [/*4
+4]
+[2017-09-10 20:53:47.662] [INFO] compilador - Numeros: [3]
+[2017-09-10 20:53:47.662] [INFO] compilador - Decimais: []
+[2017-09-10 20:53:47.663] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-10 20:58:30.768] [INFO] compilador - Iniciando apligação 10/09/2017 20:58:30
+[2017-09-10 20:58:33.954] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:58:33.960] [INFO] compilador - Comentarios: []
+[2017-09-10 20:58:33.961] [INFO] compilador - Numeros: []
+[2017-09-10 20:58:33.962] [INFO] compilador - Decimais: []
+[2017-09-10 20:58:33.962] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 20:58:42.419] [INFO] compilador - Iniciando apligação 10/09/2017 20:58:42
+[2017-09-10 20:58:46.246] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:59:07.225] [INFO] compilador - Iniciando apligação 10/09/2017 20:59:07
+[2017-09-10 20:59:15.104] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:59:36.474] [INFO] compilador - Iniciando apligação 10/09/2017 20:59:36
+[2017-09-10 20:59:41.680] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:59:41.686] [INFO] compilador - Comentarios: [/*,]
+[2017-09-10 20:59:41.686] [INFO] compilador - Numeros: []
+[2017-09-10 20:59:41.687] [INFO] compilador - Decimais: []
+[2017-09-10 20:59:41.687] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 20:59:54.986] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:59:54.986] [INFO] compilador - Comentarios: [/*,]
+[2017-09-10 20:59:54.986] [INFO] compilador - Numeros: []
+[2017-09-10 20:59:54.994] [INFO] compilador - Decimais: []
+[2017-09-10 20:59:54.994] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 20:59:57.989] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 20:59:57.995] [INFO] compilador - Comentarios: [/*,]
+[2017-09-10 20:59:57.995] [INFO] compilador - Numeros: []
+[2017-09-10 20:59:57.996] [INFO] compilador - Decimais: []
+[2017-09-10 20:59:57.996] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 21:08:15.414] [INFO] compilador - Iniciando apligação 10/09/2017 21:08:15
+[2017-09-10 21:08:43.491] [INFO] compilador - Iniciando apligação 10/09/2017 21:08:43
+[2017-09-10 21:08:47.967] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:08:48.001] [INFO] compilador - Comentarios: []
+[2017-09-10 21:08:48.003] [INFO] compilador - Numeros: []
+[2017-09-10 21:08:48.003] [INFO] compilador - Decimais: []
+[2017-09-10 21:08:48.014] [INFO] compilador - Finalizando análise em 47 ms
+[2017-09-10 21:12:23.022] [INFO] compilador - Iniciando apligação 10/09/2017 21:12:22
+[2017-09-10 21:12:24.377] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:12:24.409] [INFO] compilador - Comentarios: []
+[2017-09-10 21:12:24.411] [INFO] compilador - Numeros: []
+[2017-09-10 21:12:24.412] [INFO] compilador - Decimais: []
+[2017-09-10 21:12:24.414] [INFO] compilador - Finalizando análise em 35 ms
+[2017-09-10 21:12:36.506] [INFO] compilador - Iniciando apligação 10/09/2017 21:12:36
+[2017-09-10 21:12:37.151] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:12:37.157] [INFO] compilador - Comentarios: []
+[2017-09-10 21:12:37.160] [INFO] compilador - Numeros: []
+[2017-09-10 21:12:37.160] [INFO] compilador - Decimais: []
+[2017-09-10 21:12:37.161] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 21:13:09.176] [INFO] compilador - Iniciando apligação 10/09/2017 21:13:09
+[2017-09-10 21:13:10.234] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:13:10.238] [INFO] compilador - Comentarios: []
+[2017-09-10 21:13:10.243] [INFO] compilador - Numeros: []
+[2017-09-10 21:13:10.245] [INFO] compilador - Decimais: []
+[2017-09-10 21:13:10.248] [INFO] compilador - Finalizando análise em 14 ms
+[2017-09-10 21:14:15.353] [INFO] compilador - Iniciando apligação 10/09/2017 21:14:15
+[2017-09-10 21:14:15.919] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:14:15.944] [INFO] compilador - Comentarios: []
+[2017-09-10 21:14:15.961] [INFO] compilador - Numeros: []
+[2017-09-10 21:14:15.962] [INFO] compilador - Decimais: []
+[2017-09-10 21:14:15.962] [INFO] compilador - Finalizando análise em 43 ms
+[2017-09-10 21:14:51.842] [INFO] compilador - Iniciando apligação 10/09/2017 21:14:51
+[2017-09-10 21:14:52.397] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:14:52.443] [INFO] compilador - Comentarios: []
+[2017-09-10 21:20:01.925] [INFO] compilador - Iniciando apligação 10/09/2017 21:20:01
+[2017-09-10 21:20:02.898] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:20:02.928] [INFO] compilador - Comentarios: []
+[2017-09-10 21:20:14.229] [INFO] compilador - Iniciando apligação 10/09/2017 21:20:14
+[2017-09-10 21:22:01.754] [INFO] compilador - Iniciando apligação 10/09/2017 21:22:01
+[2017-09-10 21:22:01.851] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:22:01.882] [INFO] compilador - Comentarios: []
+[2017-09-10 21:22:01.885] [INFO] compilador - Numeros: []
+[2017-09-10 21:22:01.886] [INFO] compilador - Decimais: []
+[2017-09-10 21:22:01.886] [INFO] compilador - Finalizando análise em 35 ms
+[2017-09-10 21:22:21.844] [INFO] compilador - Iniciando apligação 10/09/2017 21:22:21
+[2017-09-10 21:22:22.048] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:22:22.054] [INFO] compilador - Comentarios: []
+[2017-09-10 21:22:22.056] [INFO] compilador - Numeros: []
+[2017-09-10 21:22:22.057] [INFO] compilador - Decimais: []
+[2017-09-10 21:22:22.057] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 21:24:29.605] [INFO] compilador - Iniciando apligação 10/09/2017 21:24:29
+[2017-09-10 21:24:31.525] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:24:31.531] [INFO] compilador - Comentarios: []
+[2017-09-10 21:24:31.533] [INFO] compilador - Numeros: []
+[2017-09-10 21:24:31.534] [INFO] compilador - Decimais: []
+[2017-09-10 21:24:31.534] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 21:24:41.359] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:24:41.363] [INFO] compilador - Comentarios: []
+[2017-09-10 21:24:41.364] [INFO] compilador - Numeros: []
+[2017-09-10 21:24:41.364] [INFO] compilador - Decimais: []
+[2017-09-10 21:24:41.364] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 21:24:49.026] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:24:49.031] [INFO] compilador - Comentarios: []
+[2017-09-10 21:24:49.031] [INFO] compilador - Numeros: []
+[2017-09-10 21:24:49.031] [INFO] compilador - Decimais: []
+[2017-09-10 21:24:49.032] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 21:43:32.251] [INFO] compilador - Iniciando apligação 10/09/2017 21:43:32
+[2017-09-10 21:43:33.279] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:43:33.285] [INFO] compilador - Comentarios: []
+[2017-09-10 21:43:33.288] [INFO] compilador - Numeros: []
+[2017-09-10 21:43:33.288] [INFO] compilador - Decimais: []
+[2017-09-10 21:43:33.289] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 21:43:35.784] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:43:35.788] [INFO] compilador - Comentarios: []
+[2017-09-10 21:43:35.788] [INFO] compilador - Numeros: []
+[2017-09-10 21:43:35.789] [INFO] compilador - Decimais: []
+[2017-09-10 21:43:35.789] [INFO] compilador - Finalizando análise em 5 ms
+[2017-09-10 21:43:41.458] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:43:41.479] [INFO] compilador - Comentarios: []
+[2017-09-10 21:43:41.480] [INFO] compilador - Numeros: []
+[2017-09-10 21:43:41.480] [INFO] compilador - Decimais: []
+[2017-09-10 21:43:41.481] [INFO] compilador - Finalizando análise em 23 ms
+[2017-09-10 21:43:44.635] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:43:44.639] [INFO] compilador - Comentarios: []
+[2017-09-10 21:43:44.640] [INFO] compilador - Numeros: [432]
+[2017-09-10 21:43:44.640] [INFO] compilador - Decimais: []
+[2017-09-10 21:43:44.640] [INFO] compilador - Finalizando análise em 5 ms
+[2017-09-10 21:45:22.886] [INFO] compilador - Iniciando apligação 10/09/2017 21:45:22
+[2017-09-10 21:45:23.792] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:45:23.802] [INFO] compilador - Comentarios: []
+[2017-09-10 21:45:23.805] [INFO] compilador - Operadores: []
+[2017-09-10 21:45:23.805] [INFO] compilador - Numeros: []
+[2017-09-10 21:45:23.806] [INFO] compilador - Decimais: []
+[2017-09-10 21:45:23.806] [INFO] compilador - Finalizando análise em 14 ms
+[2017-09-10 21:45:27.201] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:45:27.204] [INFO] compilador - Comentarios: []
+[2017-09-10 21:45:27.205] [INFO] compilador - Operadores: []
+[2017-09-10 21:45:27.205] [INFO] compilador - Numeros: [312]
+[2017-09-10 21:45:27.206] [INFO] compilador - Decimais: []
+[2017-09-10 21:45:27.206] [INFO] compilador - Finalizando análise em 5 ms
+[2017-09-10 21:45:31.075] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:45:31.080] [INFO] compilador - Comentarios: []
+[2017-09-10 21:45:31.081] [INFO] compilador - Operadores: []
+[2017-09-10 21:45:31.081] [INFO] compilador - Numeros: [312]
+[2017-09-10 21:45:31.081] [INFO] compilador - Decimais: []
+[2017-09-10 21:45:31.082] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 21:45:40.326] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:45:40.331] [INFO] compilador - Comentarios: []
+[2017-09-10 21:45:40.332] [INFO] compilador - Operadores: []
+[2017-09-10 21:45:40.332] [INFO] compilador - Numeros: [312]
+[2017-09-10 21:45:40.332] [INFO] compilador - Decimais: []
+[2017-09-10 21:45:40.332] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 21:45:42.704] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:45:42.707] [INFO] compilador - Comentarios: []
+[2017-09-10 21:45:42.708] [INFO] compilador - Operadores: []
+[2017-09-10 21:45:42.708] [INFO] compilador - Numeros: [312]
+[2017-09-10 21:45:42.709] [INFO] compilador - Decimais: []
+[2017-09-10 21:45:42.710] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 21:46:04.210] [INFO] compilador - Iniciando apligação 10/09/2017 21:46:04
+[2017-09-10 21:46:07.048] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:46:07.054] [INFO] compilador - Comentarios: []
+[2017-09-10 21:46:07.057] [INFO] compilador - Operadores: [+]
+[2017-09-10 21:46:07.058] [INFO] compilador - Numeros: [321]
+[2017-09-10 21:46:07.059] [INFO] compilador - Decimais: []
+[2017-09-10 21:46:07.060] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-10 21:46:11.561] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:46:11.567] [INFO] compilador - Comentarios: []
+[2017-09-10 21:46:11.567] [INFO] compilador - Operadores: [+-]
+[2017-09-10 21:46:11.567] [INFO] compilador - Numeros: [321]
+[2017-09-10 21:46:11.568] [INFO] compilador - Decimais: []
+[2017-09-10 21:46:11.568] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 21:46:16.363] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:46:16.369] [INFO] compilador - Comentarios: []
+[2017-09-10 21:46:16.370] [INFO] compilador - Operadores: [+-,-]
+[2017-09-10 21:46:16.370] [INFO] compilador - Numeros: [321]
+[2017-09-10 21:46:16.370] [INFO] compilador - Decimais: []
+[2017-09-10 21:46:16.371] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 21:47:01.767] [INFO] compilador - Iniciando apligação 10/09/2017 21:47:01
+[2017-09-10 21:47:06.182] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:47:06.189] [INFO] compilador - Comentarios: []
+[2017-09-10 21:47:06.191] [INFO] compilador - Operadores: [+-]
+[2017-09-10 21:47:06.191] [INFO] compilador - Numeros: []
+[2017-09-10 21:47:06.192] [INFO] compilador - Decimais: []
+[2017-09-10 21:47:06.192] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 21:47:29.484] [INFO] compilador - Iniciando apligação 10/09/2017 21:47:29
+[2017-09-10 21:47:31.606] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:47:31.626] [INFO] compilador - Comentarios: []
+[2017-09-10 21:47:31.628] [INFO] compilador - Operadores: [+-]
+[2017-09-10 21:47:31.628] [INFO] compilador - Numeros: []
+[2017-09-10 21:47:31.628] [INFO] compilador - Decimais: []
+[2017-09-10 21:47:31.629] [INFO] compilador - Finalizando análise em 23 ms
+[2017-09-10 21:48:19.534] [INFO] compilador - Iniciando apligação 10/09/2017 21:48:19
+[2017-09-10 21:48:21.760] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:48:21.787] [INFO] compilador - Comentarios: []
+[2017-09-10 21:48:21.789] [INFO] compilador - Operadores: [+-]
+[2017-09-10 21:48:21.789] [INFO] compilador - Numeros: []
+[2017-09-10 21:48:21.790] [INFO] compilador - Decimais: []
+[2017-09-10 21:48:21.790] [INFO] compilador - Finalizando análise em 30 ms
+[2017-09-10 21:49:06.540] [INFO] compilador - Iniciando apligação 10/09/2017 21:49:06
+[2017-09-10 21:49:08.808] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:49:08.814] [INFO] compilador - Comentarios: []
+[2017-09-10 21:49:08.816] [INFO] compilador - Operadores: [+-]
+[2017-09-10 21:49:08.816] [INFO] compilador - Numeros: []
+[2017-09-10 21:49:08.817] [INFO] compilador - Decimais: []
+[2017-09-10 21:49:08.817] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 21:49:25.754] [INFO] compilador - Iniciando apligação 10/09/2017 21:49:25
+[2017-09-10 21:49:28.223] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:49:28.229] [INFO] compilador - Comentarios: []
+[2017-09-10 21:49:28.231] [INFO] compilador - Operadores: []
+[2017-09-10 21:49:28.232] [INFO] compilador - Numeros: []
+[2017-09-10 21:49:28.232] [INFO] compilador - Decimais: []
+[2017-09-10 21:49:28.232] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 21:50:57.605] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:50:57.612] [INFO] compilador - Comentarios: []
+[2017-09-10 21:50:57.612] [INFO] compilador - Operadores: [*,/]
+[2017-09-10 21:50:57.613] [INFO] compilador - Numeros: []
+[2017-09-10 21:50:57.613] [INFO] compilador - Decimais: []
+[2017-09-10 21:50:57.613] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 21:51:02.334] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:51:02.346] [INFO] compilador - Comentarios: []
+[2017-09-10 21:51:02.347] [INFO] compilador - Operadores: [*,/]
+[2017-09-10 21:51:02.347] [INFO] compilador - Numeros: []
+[2017-09-10 21:51:02.348] [INFO] compilador - Decimais: []
+[2017-09-10 21:51:02.348] [INFO] compilador - Finalizando análise em 14 ms
+[2017-09-10 21:51:32.553] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:51:32.560] [INFO] compilador - Comentarios: []
+[2017-09-10 21:51:32.560] [INFO] compilador - Operadores: [*,/,%]
+[2017-09-10 21:51:32.561] [INFO] compilador - Numeros: []
+[2017-09-10 21:51:32.561] [INFO] compilador - Decimais: []
+[2017-09-10 21:51:32.562] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 21:51:39.927] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:51:39.932] [INFO] compilador - Comentarios: []
+[2017-09-10 21:51:39.933] [INFO] compilador - Operadores: [*,/,%]
+[2017-09-10 21:51:39.933] [INFO] compilador - Numeros: []
+[2017-09-10 21:51:39.934] [INFO] compilador - Decimais: []
+[2017-09-10 21:51:39.935] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 21:52:02.163] [INFO] compilador - Iniciando apligação 10/09/2017 21:52:02
+[2017-09-10 21:52:04.424] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:52:04.434] [INFO] compilador - Comentarios: []
+[2017-09-10 21:52:04.436] [INFO] compilador - Operadores: []
+[2017-09-10 21:52:04.436] [INFO] compilador - Numeros: []
+[2017-09-10 21:52:04.437] [INFO] compilador - Decimais: []
+[2017-09-10 21:52:04.438] [INFO] compilador - Finalizando análise em 13 ms
+[2017-09-10 21:52:07.671] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:52:07.677] [INFO] compilador - Comentarios: []
+[2017-09-10 21:52:07.677] [INFO] compilador - Operadores: []
+[2017-09-10 21:52:07.677] [INFO] compilador - Numeros: []
+[2017-09-10 21:52:07.678] [INFO] compilador - Decimais: []
+[2017-09-10 21:52:07.678] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 21:52:40.362] [INFO] compilador - Iniciando apligação 10/09/2017 21:52:40
+[2017-09-10 21:52:42.427] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:52:42.432] [INFO] compilador - Comentarios: []
+[2017-09-10 21:52:42.435] [INFO] compilador - Operadores: []
+[2017-09-10 21:52:42.435] [INFO] compilador - Numeros: []
+[2017-09-10 21:52:42.436] [INFO] compilador - Decimais: []
+[2017-09-10 21:52:42.436] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 21:52:47.317] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:52:47.323] [INFO] compilador - Comentarios: []
+[2017-09-10 21:52:47.324] [INFO] compilador - Operadores: []
+[2017-09-10 21:52:47.324] [INFO] compilador - Numeros: []
+[2017-09-10 21:52:47.325] [INFO] compilador - Decimais: []
+[2017-09-10 21:52:47.325] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 21:52:51.006] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:52:51.016] [INFO] compilador - Comentarios: []
+[2017-09-10 21:52:51.017] [INFO] compilador - Operadores: []
+[2017-09-10 21:52:51.020] [INFO] compilador - Numeros: []
+[2017-09-10 21:52:51.021] [INFO] compilador - Decimais: []
+[2017-09-10 21:52:51.022] [INFO] compilador - Finalizando análise em 16 ms
+[2017-09-10 21:53:00.673] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:53:00.678] [INFO] compilador - Comentarios: []
+[2017-09-10 21:53:00.678] [INFO] compilador - Operadores: []
+[2017-09-10 21:53:00.679] [INFO] compilador - Numeros: []
+[2017-09-10 21:53:00.679] [INFO] compilador - Decimais: []
+[2017-09-10 21:53:00.679] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 21:53:01.977] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:53:01.984] [INFO] compilador - Comentarios: []
+[2017-09-10 21:53:01.986] [INFO] compilador - Operadores: []
+[2017-09-10 21:53:01.986] [INFO] compilador - Numeros: []
+[2017-09-10 21:53:01.987] [INFO] compilador - Decimais: []
+[2017-09-10 21:53:01.988] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-10 21:53:09.172] [INFO] compilador - Iniciando apligação 10/09/2017 21:53:09
+[2017-09-10 21:53:11.336] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:53:11.342] [INFO] compilador - Comentarios: []
+[2017-09-10 21:53:11.344] [INFO] compilador - Operadores: []
+[2017-09-10 21:53:11.344] [INFO] compilador - Numeros: []
+[2017-09-10 21:53:11.345] [INFO] compilador - Decimais: []
+[2017-09-10 21:53:11.345] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 21:53:14.305] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:53:14.349] [INFO] compilador - Comentarios: []
+[2017-09-10 21:53:14.350] [INFO] compilador - Operadores: []
+[2017-09-10 21:53:14.351] [INFO] compilador - Numeros: []
+[2017-09-10 21:53:14.352] [INFO] compilador - Decimais: []
+[2017-09-10 21:53:14.353] [INFO] compilador - Finalizando análise em 49 ms
+[2017-09-10 21:53:16.431] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:53:16.439] [INFO] compilador - Comentarios: []
+[2017-09-10 21:53:16.440] [INFO] compilador - Operadores: []
+[2017-09-10 21:53:16.440] [INFO] compilador - Numeros: []
+[2017-09-10 21:53:16.441] [INFO] compilador - Decimais: []
+[2017-09-10 21:53:16.441] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 21:53:20.320] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:53:20.326] [INFO] compilador - Comentarios: []
+[2017-09-10 21:53:20.326] [INFO] compilador - Operadores: []
+[2017-09-10 21:53:20.327] [INFO] compilador - Numeros: []
+[2017-09-10 21:53:20.327] [INFO] compilador - Decimais: []
+[2017-09-10 21:53:20.328] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 21:53:21.337] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:53:21.343] [INFO] compilador - Comentarios: []
+[2017-09-10 21:53:21.344] [INFO] compilador - Operadores: []
+[2017-09-10 21:53:21.344] [INFO] compilador - Numeros: []
+[2017-09-10 21:53:21.345] [INFO] compilador - Decimais: []
+[2017-09-10 21:53:21.345] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 21:53:30.285] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:53:30.292] [INFO] compilador - Comentarios: []
+[2017-09-10 21:53:30.292] [INFO] compilador - Operadores: []
+[2017-09-10 21:53:30.292] [INFO] compilador - Numeros: []
+[2017-09-10 21:53:30.293] [INFO] compilador - Decimais: []
+[2017-09-10 21:53:30.293] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 21:54:07.425] [INFO] compilador - Iniciando apligação 10/09/2017 21:54:07
+[2017-09-10 21:54:09.369] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:54:09.375] [INFO] compilador - Comentarios: []
+[2017-09-10 21:54:09.377] [INFO] compilador - Operadores: [+-]
+[2017-09-10 21:54:09.378] [INFO] compilador - Numeros: []
+[2017-09-10 21:54:09.379] [INFO] compilador - Decimais: []
+[2017-09-10 21:54:09.380] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-10 21:54:12.099] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:54:12.105] [INFO] compilador - Comentarios: []
+[2017-09-10 21:54:12.105] [INFO] compilador - Operadores: [+-,-]
+[2017-09-10 21:54:12.106] [INFO] compilador - Numeros: []
+[2017-09-10 21:54:12.106] [INFO] compilador - Decimais: []
+[2017-09-10 21:54:12.106] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 21:54:15.084] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:54:15.090] [INFO] compilador - Comentarios: []
+[2017-09-10 21:54:15.090] [INFO] compilador - Operadores: [+-,+,-]
+[2017-09-10 21:54:15.090] [INFO] compilador - Numeros: []
+[2017-09-10 21:54:15.091] [INFO] compilador - Decimais: []
+[2017-09-10 21:54:15.091] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 21:54:20.166] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:54:20.172] [INFO] compilador - Comentarios: []
+[2017-09-10 21:54:20.172] [INFO] compilador - Operadores: [+-,+,+7,-]
+[2017-09-10 21:54:20.172] [INFO] compilador - Numeros: []
+[2017-09-10 21:54:20.173] [INFO] compilador - Decimais: []
+[2017-09-10 21:54:20.173] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 21:54:55.217] [INFO] compilador - Iniciando apligação 10/09/2017 21:54:55
+[2017-09-10 21:55:07.288] [INFO] compilador - Iniciando apligação 10/09/2017 21:55:07
+[2017-09-10 21:55:10.430] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:55:10.435] [INFO] compilador - Comentarios: []
+[2017-09-10 21:55:10.437] [INFO] compilador - Numeros: []
+[2017-09-10 21:55:10.438] [INFO] compilador - Decimais: []
+[2017-09-10 21:55:10.438] [INFO] compilador - Operadores: [+9]
+[2017-09-10 21:55:10.439] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 21:58:27.160] [INFO] compilador - Iniciando apligação 10/09/2017 21:58:27
+[2017-09-10 21:58:30.376] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:58:30.381] [INFO] compilador - Comentarios: []
+[2017-09-10 21:58:30.383] [INFO] compilador - Numeros: []
+[2017-09-10 21:58:30.384] [INFO] compilador - Decimais: []
+[2017-09-10 21:58:30.385] [INFO] compilador - Operadores: []
+[2017-09-10 21:58:30.385] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 21:58:34.082] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:58:34.091] [INFO] compilador - Comentarios: []
+[2017-09-10 21:58:34.091] [INFO] compilador - Numeros: []
+[2017-09-10 21:58:34.092] [INFO] compilador - Decimais: []
+[2017-09-10 21:58:34.092] [INFO] compilador - Operadores: []
+[2017-09-10 21:58:34.092] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 21:58:37.379] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:58:37.385] [INFO] compilador - Comentarios: []
+[2017-09-10 21:58:37.386] [INFO] compilador - Numeros: []
+[2017-09-10 21:58:37.386] [INFO] compilador - Decimais: []
+[2017-09-10 21:58:37.386] [INFO] compilador - Operadores: []
+[2017-09-10 21:58:37.387] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 21:58:49.216] [INFO] compilador - Iniciando apligação 10/09/2017 21:58:49
+[2017-09-10 21:58:51.078] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:58:51.084] [INFO] compilador - Comentarios: []
+[2017-09-10 21:58:51.086] [INFO] compilador - Numeros: []
+[2017-09-10 21:58:51.087] [INFO] compilador - Decimais: []
+[2017-09-10 21:58:51.087] [INFO] compilador - Operadores: []
+[2017-09-10 21:58:51.088] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 21:59:24.541] [INFO] compilador - Iniciando apligação 10/09/2017 21:59:24
+[2017-09-10 21:59:27.084] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:59:27.111] [INFO] compilador - Comentarios: []
+[2017-09-10 21:59:27.113] [INFO] compilador - Numeros: []
+[2017-09-10 21:59:27.114] [INFO] compilador - Decimais: []
+[2017-09-10 21:59:27.115] [INFO] compilador - Operadores: []
+[2017-09-10 21:59:27.115] [INFO] compilador - Finalizando análise em 31 ms
+[2017-09-10 21:59:34.821] [INFO] compilador - Iniciando apligação 10/09/2017 21:59:34
+[2017-09-10 21:59:37.254] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:59:37.259] [INFO] compilador - Comentarios: []
+[2017-09-10 21:59:37.261] [INFO] compilador - Numeros: []
+[2017-09-10 21:59:37.261] [INFO] compilador - Decimais: []
+[2017-09-10 21:59:37.262] [INFO] compilador - Operadores: []
+[2017-09-10 21:59:37.262] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 21:59:51.536] [INFO] compilador - Iniciando apligação 10/09/2017 21:59:51
+[2017-09-10 21:59:53.580] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:59:53.587] [INFO] compilador - Comentarios: []
+[2017-09-10 21:59:53.589] [INFO] compilador - Numeros: [7]
+[2017-09-10 21:59:53.589] [INFO] compilador - Decimais: []
+[2017-09-10 21:59:53.590] [INFO] compilador - Operadores: []
+[2017-09-10 21:59:53.590] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 21:59:56.172] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 21:59:56.179] [INFO] compilador - Comentarios: []
+[2017-09-10 21:59:56.180] [INFO] compilador - Numeros: []
+[2017-09-10 21:59:56.180] [INFO] compilador - Decimais: []
+[2017-09-10 21:59:56.181] [INFO] compilador - Operadores: []
+[2017-09-10 21:59:56.181] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 22:00:00.414] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:00:00.419] [INFO] compilador - Comentarios: []
+[2017-09-10 22:00:00.419] [INFO] compilador - Numeros: []
+[2017-09-10 22:00:00.419] [INFO] compilador - Decimais: []
+[2017-09-10 22:00:00.420] [INFO] compilador - Operadores: [+7]
+[2017-09-10 22:00:00.420] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:00:13.586] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:00:13.590] [INFO] compilador - Comentarios: []
+[2017-09-10 22:00:13.590] [INFO] compilador - Numeros: []
+[2017-09-10 22:00:13.591] [INFO] compilador - Decimais: []
+[2017-09-10 22:00:13.591] [INFO] compilador - Operadores: [+7]
+[2017-09-10 22:00:13.592] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 22:00:16.227] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:00:16.232] [INFO] compilador - Comentarios: []
+[2017-09-10 22:00:16.233] [INFO] compilador - Numeros: [7]
+[2017-09-10 22:00:16.233] [INFO] compilador - Decimais: []
+[2017-09-10 22:00:16.234] [INFO] compilador - Operadores: [+]
+[2017-09-10 22:00:16.235] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:02:40.922] [INFO] compilador - Iniciando apligação 10/09/2017 22:02:40
+[2017-09-10 22:02:41.459] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:02:41.465] [INFO] compilador - Comentarios: []
+[2017-09-10 22:02:41.467] [INFO] compilador - Numeros: []
+[2017-09-10 22:02:41.467] [INFO] compilador - Decimais: []
+[2017-09-10 22:02:41.468] [INFO] compilador - Operadores: []
+[2017-09-10 22:02:41.468] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 22:02:44.172] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:02:44.178] [INFO] compilador - Comentarios: []
+[2017-09-10 22:02:44.178] [INFO] compilador - Numeros: []
+[2017-09-10 22:02:44.178] [INFO] compilador - Decimais: []
+[2017-09-10 22:02:44.179] [INFO] compilador - Operadores: []
+[2017-09-10 22:02:44.179] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:03:21.521] [INFO] compilador - Iniciando apligação 10/09/2017 22:03:21
+[2017-09-10 22:03:22.025] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:03:22.033] [INFO] compilador - Comentarios: []
+[2017-09-10 22:03:22.035] [INFO] compilador - Numeros: []
+[2017-09-10 22:03:22.036] [INFO] compilador - Decimais: []
+[2017-09-10 22:03:22.041] [INFO] compilador - Operadores: []
+[2017-09-10 22:03:22.042] [INFO] compilador - Finalizando análise em 17 ms
+[2017-09-10 22:03:27.907] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:03:27.911] [INFO] compilador - Comentarios: []
+[2017-09-10 22:03:27.911] [INFO] compilador - Numeros: []
+[2017-09-10 22:03:27.911] [INFO] compilador - Decimais: []
+[2017-09-10 22:03:27.915] [INFO] compilador - Operadores: []
+[2017-09-10 22:03:27.915] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 22:03:28.491] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:03:28.496] [INFO] compilador - Comentarios: []
+[2017-09-10 22:03:28.496] [INFO] compilador - Numeros: []
+[2017-09-10 22:03:28.496] [INFO] compilador - Decimais: []
+[2017-09-10 22:03:28.499] [INFO] compilador - Operadores: []
+[2017-09-10 22:03:28.499] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 22:03:28.659] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:03:28.666] [INFO] compilador - Comentarios: []
+[2017-09-10 22:03:28.667] [INFO] compilador - Numeros: []
+[2017-09-10 22:03:28.667] [INFO] compilador - Decimais: []
+[2017-09-10 22:03:28.670] [INFO] compilador - Operadores: []
+[2017-09-10 22:03:28.670] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-10 22:03:28.818] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:03:28.826] [INFO] compilador - Comentarios: []
+[2017-09-10 22:03:28.827] [INFO] compilador - Numeros: []
+[2017-09-10 22:03:28.827] [INFO] compilador - Decimais: []
+[2017-09-10 22:03:28.830] [INFO] compilador - Operadores: []
+[2017-09-10 22:03:28.831] [INFO] compilador - Finalizando análise em 13 ms
+[2017-09-10 22:03:49.439] [INFO] compilador - Iniciando apligação 10/09/2017 22:03:49
+[2017-09-10 22:03:52.339] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:03:52.346] [INFO] compilador - Comentarios: []
+[2017-09-10 22:03:52.348] [INFO] compilador - Numeros: []
+[2017-09-10 22:03:52.348] [INFO] compilador - Decimais: []
+[2017-09-10 22:03:52.353] [INFO] compilador - Operadores: [-]
+[2017-09-10 22:03:52.354] [INFO] compilador - Finalizando análise em 15 ms
+[2017-09-10 22:03:57.901] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:03:57.939] [INFO] compilador - Comentarios: []
+[2017-09-10 22:03:57.939] [INFO] compilador - Numeros: []
+[2017-09-10 22:03:57.940] [INFO] compilador - Decimais: []
+[2017-09-10 22:03:57.942] [INFO] compilador - Operadores: [-,--]
+[2017-09-10 22:03:57.943] [INFO] compilador - Finalizando análise em 42 ms
+[2017-09-10 22:04:03.911] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:04:03.916] [INFO] compilador - Comentarios: []
+[2017-09-10 22:04:03.916] [INFO] compilador - Numeros: []
+[2017-09-10 22:04:03.917] [INFO] compilador - Decimais: []
+[2017-09-10 22:04:03.920] [INFO] compilador - Operadores: [-,--]
+[2017-09-10 22:04:03.920] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 22:04:35.353] [INFO] compilador - Iniciando apligação 10/09/2017 22:04:35
+[2017-09-10 22:04:38.682] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:04:38.695] [INFO] compilador - Comentarios: []
+[2017-09-10 22:04:38.697] [INFO] compilador - Numeros: []
+[2017-09-10 22:04:38.697] [INFO] compilador - Decimais: []
+[2017-09-10 22:04:38.702] [INFO] compilador - Operadores: [+]
+[2017-09-10 22:04:38.702] [INFO] compilador - Finalizando análise em 20 ms
+[2017-09-10 22:04:42.339] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:04:42.345] [INFO] compilador - Comentarios: []
+[2017-09-10 22:04:42.346] [INFO] compilador - Numeros: []
+[2017-09-10 22:04:42.346] [INFO] compilador - Decimais: []
+[2017-09-10 22:04:42.349] [INFO] compilador - Operadores: [+,-]
+[2017-09-10 22:04:42.349] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 22:11:08.800] [INFO] compilador - Iniciando apligação 10/09/2017 22:11:08
+[2017-09-10 22:11:11.401] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:11:11.408] [INFO] compilador - Comentarios: []
+[2017-09-10 22:11:11.410] [INFO] compilador - Numeros: []
+[2017-09-10 22:11:11.410] [INFO] compilador - Decimais: []
+[2017-09-10 22:11:11.414] [INFO] compilador - Operadores: [+-]
+[2017-09-10 22:11:11.415] [INFO] compilador - Finalizando análise em 14 ms
+[2017-09-10 22:11:51.340] [INFO] compilador - Iniciando apligação 10/09/2017 22:11:51
+[2017-09-10 22:11:54.039] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:11:54.044] [INFO] compilador - Comentarios: []
+[2017-09-10 22:11:54.046] [INFO] compilador - Numeros: []
+[2017-09-10 22:11:54.047] [INFO] compilador - Decimais: []
+[2017-09-10 22:11:54.051] [INFO] compilador - Operadores: [+-]
+[2017-09-10 22:11:54.052] [INFO] compilador - Finalizando análise em 13 ms
+[2017-09-10 22:12:05.115] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:12:05.120] [INFO] compilador - Comentarios: []
+[2017-09-10 22:12:05.121] [INFO] compilador - Numeros: []
+[2017-09-10 22:12:05.121] [INFO] compilador - Decimais: []
+[2017-09-10 22:12:05.124] [INFO] compilador - Operadores: [++-]
+[2017-09-10 22:12:05.124] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 22:12:16.407] [INFO] compilador - Iniciando apligação 10/09/2017 22:12:16
+[2017-09-10 22:12:19.024] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:12:19.029] [INFO] compilador - Comentarios: []
+[2017-09-10 22:12:19.031] [INFO] compilador - Numeros: []
+[2017-09-10 22:12:19.032] [INFO] compilador - Decimais: []
+[2017-09-10 22:12:19.038] [INFO] compilador - Operadores: [++]
+[2017-09-10 22:12:19.038] [INFO] compilador - Finalizando análise em 14 ms
+[2017-09-10 22:14:13.757] [INFO] compilador - Iniciando apligação 10/09/2017 22:14:13
+[2017-09-10 22:14:18.712] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:14:18.724] [INFO] compilador - Comentarios: [/*sdsda*/]
+[2017-09-10 22:14:18.725] [INFO] compilador - Numeros: []
+[2017-09-10 22:14:18.725] [INFO] compilador - Decimais: []
+[2017-09-10 22:14:18.730] [INFO] compilador - Operadores: []
+[2017-09-10 22:14:18.730] [INFO] compilador - Finalizando análise em 18 ms
+[2017-09-10 22:14:28.628] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:14:28.634] [INFO] compilador - Comentarios: [/*sdsda
+j*/]
+[2017-09-10 22:14:28.634] [INFO] compilador - Numeros: []
+[2017-09-10 22:14:28.635] [INFO] compilador - Decimais: []
+[2017-09-10 22:14:28.638] [INFO] compilador - Operadores: []
+[2017-09-10 22:14:28.638] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 22:14:33.306] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:14:33.314] [INFO] compilador - Comentarios: [/*sdsda
+j*/]
+[2017-09-10 22:14:33.314] [INFO] compilador - Numeros: []
+[2017-09-10 22:14:33.314] [INFO] compilador - Decimais: []
+[2017-09-10 22:14:33.317] [INFO] compilador - Operadores: []
+[2017-09-10 22:14:33.317] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-10 22:14:38.095] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:14:38.100] [INFO] compilador - Comentarios: [/*sdsda
+j
+d*/]
+[2017-09-10 22:14:38.101] [INFO] compilador - Numeros: []
+[2017-09-10 22:14:38.101] [INFO] compilador - Decimais: []
+[2017-09-10 22:14:38.104] [INFO] compilador - Operadores: []
+[2017-09-10 22:14:38.105] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 22:14:43.076] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:14:43.082] [INFO] compilador - Comentarios: [/*sdsda
+j
+d*/]
+[2017-09-10 22:14:43.083] [INFO] compilador - Numeros: [4]
+[2017-09-10 22:14:43.083] [INFO] compilador - Decimais: []
+[2017-09-10 22:14:43.085] [INFO] compilador - Operadores: []
+[2017-09-10 22:14:43.085] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 22:18:54.789] [INFO] compilador - Iniciando apligação 10/09/2017 22:18:54
+[2017-09-10 22:18:59.566] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:18:59.574] [INFO] compilador - Comentarios: []
+[2017-09-10 22:18:59.574] [INFO] compilador - Numeros: []
+[2017-09-10 22:18:59.575] [INFO] compilador - Decimais: []
+[2017-09-10 22:18:59.579] [INFO] compilador - Operadores: [/*dsa*/]
+[2017-09-10 22:18:59.579] [INFO] compilador - Finalizando análise em 13 ms
+[2017-09-10 22:19:51.711] [INFO] compilador - Iniciando apligação 10/09/2017 22:19:51
+[2017-09-10 22:19:53.745] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:19:53.777] [INFO] compilador - Comentarios: [eqweqw]
+[2017-09-10 22:19:53.778] [INFO] compilador - Numeros: []
+[2017-09-10 22:19:53.778] [INFO] compilador - Decimais: []
+[2017-09-10 22:19:53.782] [INFO] compilador - Operadores: [//]
+[2017-09-10 22:19:53.782] [INFO] compilador - Finalizando análise em 38 ms
+[2017-09-10 22:20:52.102] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:20:52.109] [INFO] compilador - Comentarios: []
+[2017-09-10 22:20:52.110] [INFO] compilador - Numeros: []
+[2017-09-10 22:20:52.110] [INFO] compilador - Decimais: []
+[2017-09-10 22:20:52.112] [INFO] compilador - Operadores: [/*rrr*/]
+[2017-09-10 22:20:52.113] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-10 22:21:41.228] [INFO] compilador - Iniciando apligação 10/09/2017 22:21:41
+[2017-09-10 22:21:43.184] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:21:43.190] [INFO] compilador - Comentarios: []
+[2017-09-10 22:21:43.192] [INFO] compilador - Numeros: []
+[2017-09-10 22:21:43.192] [INFO] compilador - Decimais: []
+[2017-09-10 22:21:43.197] [INFO] compilador - Operadores: [--]
+[2017-09-10 22:21:43.197] [INFO] compilador - Finalizando análise em 13 ms
+[2017-09-10 22:22:54.265] [INFO] compilador - Iniciando apligação 10/09/2017 22:22:54
+[2017-09-10 22:22:56.773] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:22:56.780] [INFO] compilador - Comentarios: []
+[2017-09-10 22:22:56.782] [INFO] compilador - Numeros: []
+[2017-09-10 22:22:56.783] [INFO] compilador - Decimais: []
+[2017-09-10 22:22:56.787] [INFO] compilador - Operadores: []
+[2017-09-10 22:22:56.787] [INFO] compilador - Finalizando análise em 14 ms
+[2017-09-10 22:23:18.040] [INFO] compilador - Iniciando apligação 10/09/2017 22:23:17
+[2017-09-10 22:23:19.767] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:23:19.775] [INFO] compilador - Comentarios: []
+[2017-09-10 22:23:19.777] [INFO] compilador - Numeros: []
+[2017-09-10 22:23:19.778] [INFO] compilador - Decimais: []
+[2017-09-10 22:23:19.778] [INFO] compilador - Operadores: []
+[2017-09-10 22:23:19.778] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-10 22:24:28.542] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:24:28.548] [INFO] compilador - Comentarios: []
+[2017-09-10 22:24:28.548] [INFO] compilador - Numeros: []
+[2017-09-10 22:24:28.549] [INFO] compilador - Decimais: []
+[2017-09-10 22:24:28.549] [INFO] compilador - Operadores: []
+[2017-09-10 22:24:28.549] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:29:36.455] [INFO] compilador - Iniciando apligação 10/09/2017 22:29:36
+[2017-09-10 22:29:39.243] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:29:39.250] [INFO] compilador - Comentarios: []
+[2017-09-10 22:29:39.251] [INFO] compilador - Numeros: []
+[2017-09-10 22:29:39.252] [INFO] compilador - Decimais: []
+[2017-09-10 22:29:39.252] [INFO] compilador - Operadores: [=]
+[2017-09-10 22:29:39.253] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 22:29:43.924] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:29:43.930] [INFO] compilador - Comentarios: []
+[2017-09-10 22:29:43.930] [INFO] compilador - Numeros: []
+[2017-09-10 22:29:43.931] [INFO] compilador - Decimais: []
+[2017-09-10 22:29:43.931] [INFO] compilador - Operadores: [+,-,=]
+[2017-09-10 22:29:43.931] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 22:30:32.331] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:30:32.338] [INFO] compilador - Comentarios: []
+[2017-09-10 22:30:32.338] [INFO] compilador - Numeros: []
+[2017-09-10 22:30:32.339] [INFO] compilador - Decimais: []
+[2017-09-10 22:30:32.339] [INFO] compilador - Operadores: [+9]
+[2017-09-10 22:30:32.339] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 22:30:44.910] [INFO] compilador - Iniciando apligação 10/09/2017 22:30:44
+[2017-09-10 22:30:47.594] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:30:47.601] [INFO] compilador - Comentarios: []
+[2017-09-10 22:30:47.603] [INFO] compilador - Numeros: [9]
+[2017-09-10 22:30:47.603] [INFO] compilador - Decimais: []
+[2017-09-10 22:30:47.604] [INFO] compilador - Operadores: [+]
+[2017-09-10 22:30:47.604] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 22:31:19.259] [INFO] compilador - Iniciando apligação 10/09/2017 22:31:19
+[2017-09-10 22:31:21.614] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:31:21.621] [INFO] compilador - Comentarios: []
+[2017-09-10 22:31:41.237] [INFO] compilador - Iniciando apligação 10/09/2017 22:31:41
+[2017-09-10 22:31:44.092] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:31:44.098] [INFO] compilador - Comentarios: []
+[2017-09-10 22:31:44.099] [INFO] compilador - Numeros: []
+[2017-09-10 22:31:44.100] [INFO] compilador - Decimais: []
+[2017-09-10 22:31:44.100] [INFO] compilador - Operadores: [+8]
+[2017-09-10 22:31:44.101] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 22:31:48.221] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:31:48.228] [INFO] compilador - Comentarios: []
+[2017-09-10 22:31:48.228] [INFO] compilador - Numeros: [99]
+[2017-09-10 22:31:48.229] [INFO] compilador - Decimais: []
+[2017-09-10 22:31:48.229] [INFO] compilador - Operadores: []
+[2017-09-10 22:31:48.229] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 22:31:57.831] [INFO] compilador - Iniciando apligação 10/09/2017 22:31:57
+[2017-09-10 22:32:00.307] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:32:00.313] [INFO] compilador - Comentarios: []
+[2017-09-10 22:32:00.315] [INFO] compilador - Numeros: []
+[2017-09-10 22:32:00.315] [INFO] compilador - Decimais: []
+[2017-09-10 22:32:00.316] [INFO] compilador - Operadores: [+9]
+[2017-09-10 22:32:00.316] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 22:32:13.492] [INFO] compilador - Iniciando apligação 10/09/2017 22:32:13
+[2017-09-10 22:32:16.367] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:32:16.373] [INFO] compilador - Comentarios: []
+[2017-09-10 22:32:16.376] [INFO] compilador - Numeros: [9]
+[2017-09-10 22:32:16.376] [INFO] compilador - Decimais: []
+[2017-09-10 22:32:16.377] [INFO] compilador - Operadores: [+]
+[2017-09-10 22:32:16.377] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 22:32:23.193] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:32:23.199] [INFO] compilador - Comentarios: []
+[2017-09-10 22:32:23.199] [INFO] compilador - Numeros: [9]
+[2017-09-10 22:32:23.199] [INFO] compilador - Decimais: []
+[2017-09-10 22:32:23.200] [INFO] compilador - Operadores: []
+[2017-09-10 22:32:23.200] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:34:31.793] [INFO] compilador - Iniciando apligação 10/09/2017 22:34:31
+[2017-09-10 22:34:34.164] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:34:34.182] [INFO] compilador - Comentarios: []
+[2017-09-10 22:34:34.185] [INFO] compilador - Numeros: []
+[2017-09-10 22:34:34.185] [INFO] compilador - Decimais: []
+[2017-09-10 22:34:34.186] [INFO] compilador - Operadores: []
+[2017-09-10 22:34:34.186] [INFO] compilador - Finalizando análise em 22 ms
+[2017-09-10 22:34:39.685] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:34:39.690] [INFO] compilador - Comentarios: []
+[2017-09-10 22:34:39.691] [INFO] compilador - Numeros: []
+[2017-09-10 22:34:39.691] [INFO] compilador - Decimais: []
+[2017-09-10 22:34:39.691] [INFO] compilador - Operadores: []
+[2017-09-10 22:34:39.692] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:34:44.006] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:34:44.011] [INFO] compilador - Comentarios: []
+[2017-09-10 22:34:44.011] [INFO] compilador - Numeros: [+5]
+[2017-09-10 22:34:44.011] [INFO] compilador - Decimais: []
+[2017-09-10 22:34:44.012] [INFO] compilador - Operadores: []
+[2017-09-10 22:34:44.012] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 22:40:03.971] [INFO] compilador - Iniciando apligação 10/09/2017 22:40:03
+[2017-09-10 22:40:05.403] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:40:05.409] [INFO] compilador - Comentarios: []
+[2017-09-10 22:40:05.410] [INFO] compilador - Numeros: []
+[2017-09-10 22:40:05.411] [INFO] compilador - Decimais: []
+[2017-09-10 22:40:05.411] [INFO] compilador - Operadores: []
+[2017-09-10 22:40:05.412] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 22:40:11.909] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:40:11.914] [INFO] compilador - Comentarios: []
+[2017-09-10 22:40:11.914] [INFO] compilador - Numeros: []
+[2017-09-10 22:40:11.914] [INFO] compilador - Decimais: []
+[2017-09-10 22:40:11.915] [INFO] compilador - Operadores: []
+[2017-09-10 22:40:11.915] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 22:41:19.111] [INFO] compilador - Iniciando apligação 10/09/2017 22:41:19
+[2017-09-10 22:41:27.611] [INFO] compilador - Iniciando apligação 10/09/2017 22:41:27
+[2017-09-10 22:41:28.855] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:41:28.861] [INFO] compilador - Comentarios: []
+[2017-09-10 22:41:28.863] [INFO] compilador - Numeros: []
+[2017-09-10 22:41:28.863] [INFO] compilador - Decimais: []
+[2017-09-10 22:41:28.864] [INFO] compilador - Operadores: []
+[2017-09-10 22:41:28.864] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 22:41:30.662] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:41:30.668] [INFO] compilador - Comentarios: []
+[2017-09-10 22:41:30.668] [INFO] compilador - Numeros: []
+[2017-09-10 22:41:30.669] [INFO] compilador - Decimais: []
+[2017-09-10 22:41:30.669] [INFO] compilador - Operadores: []
+[2017-09-10 22:41:30.669] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:41:32.455] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:41:32.461] [INFO] compilador - Comentarios: []
+[2017-09-10 22:41:32.461] [INFO] compilador - Numeros: []
+[2017-09-10 22:41:32.462] [INFO] compilador - Decimais: []
+[2017-09-10 22:41:32.462] [INFO] compilador - Operadores: []
+[2017-09-10 22:41:32.462] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:41:36.649] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:41:36.655] [INFO] compilador - Comentarios: []
+[2017-09-10 22:41:36.655] [INFO] compilador - Numeros: [3333]
+[2017-09-10 22:41:36.656] [INFO] compilador - Decimais: []
+[2017-09-10 22:41:36.656] [INFO] compilador - Operadores: []
+[2017-09-10 22:41:36.657] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:41:41.363] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:41:41.367] [INFO] compilador - Comentarios: []
+[2017-09-10 22:41:41.367] [INFO] compilador - Numeros: []
+[2017-09-10 22:41:41.368] [INFO] compilador - Decimais: []
+[2017-09-10 22:41:41.368] [INFO] compilador - Operadores: []
+[2017-09-10 22:41:41.369] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 22:41:52.340] [INFO] compilador - Iniciando apligação 10/09/2017 22:41:52
+[2017-09-10 22:41:53.903] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:41:53.910] [INFO] compilador - Comentarios: []
+[2017-09-10 22:41:53.912] [INFO] compilador - Numeros: [4]
+[2017-09-10 22:41:53.913] [INFO] compilador - Decimais: []
+[2017-09-10 22:41:53.913] [INFO] compilador - Operadores: []
+[2017-09-10 22:41:53.914] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-10 22:41:56.295] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:41:56.302] [INFO] compilador - Comentarios: []
+[2017-09-10 22:41:56.302] [INFO] compilador - Numeros: []
+[2017-09-10 22:41:56.303] [INFO] compilador - Decimais: []
+[2017-09-10 22:41:56.303] [INFO] compilador - Operadores: []
+[2017-09-10 22:41:56.303] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 22:42:05.569] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:42:05.574] [INFO] compilador - Comentarios: []
+[2017-09-10 22:42:05.574] [INFO] compilador - Numeros: [-8]
+[2017-09-10 22:42:05.575] [INFO] compilador - Decimais: []
+[2017-09-10 22:42:05.575] [INFO] compilador - Operadores: []
+[2017-09-10 22:42:05.576] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:43:21.273] [INFO] compilador - Iniciando apligação 10/09/2017 22:43:21
+[2017-09-10 22:43:23.437] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:43:23.442] [INFO] compilador - Comentarios: []
+[2017-09-10 22:43:23.444] [INFO] compilador - Numeros: [9]
+[2017-09-10 22:43:23.445] [INFO] compilador - Decimais: []
+[2017-09-10 22:43:23.445] [INFO] compilador - Operadores: [-]
+[2017-09-10 22:43:23.446] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 22:43:29.982] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:43:29.987] [INFO] compilador - Comentarios: []
+[2017-09-10 22:43:29.987] [INFO] compilador - Numeros: [9]
+[2017-09-10 22:43:29.987] [INFO] compilador - Decimais: []
+[2017-09-10 22:43:29.988] [INFO] compilador - Operadores: [--]
+[2017-09-10 22:43:29.988] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 22:44:00.251] [INFO] compilador - Iniciando apligação 10/09/2017 22:44:00
+[2017-09-10 22:44:03.728] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:44:03.736] [INFO] compilador - Comentarios: []
+[2017-09-10 22:44:03.738] [INFO] compilador - Numeros: [9]
+[2017-09-10 22:44:03.738] [INFO] compilador - Decimais: []
+[2017-09-10 22:44:03.739] [INFO] compilador - Operadores: [+ +]
+[2017-09-10 22:44:03.740] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-10 22:44:32.662] [INFO] compilador - Iniciando apligação 10/09/2017 22:44:32
+[2017-09-10 22:44:35.219] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:44:35.225] [INFO] compilador - Comentarios: []
+[2017-09-10 22:44:35.227] [INFO] compilador - Numeros: [9]
+[2017-09-10 22:44:35.227] [INFO] compilador - Decimais: []
+[2017-09-10 22:45:06.748] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:45:06.756] [INFO] compilador - Comentarios: []
+[2017-09-10 22:45:06.756] [INFO] compilador - Numeros: [9]
+[2017-09-10 22:45:06.756] [INFO] compilador - Decimais: []
+[2017-09-10 22:46:48.053] [INFO] compilador - Iniciando apligação 10/09/2017 22:46:48
+[2017-09-10 22:46:50.994] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:46:50.999] [INFO] compilador - Comentarios: []
+[2017-09-10 22:46:51.001] [INFO] compilador - Numeros: [9]
+[2017-09-10 22:46:51.002] [INFO] compilador - Decimais: []
+[2017-09-10 22:46:51.002] [INFO] compilador - Operadores: [+9]
+[2017-09-10 22:46:51.003] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 22:47:01.435] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:47:01.442] [INFO] compilador - Comentarios: []
+[2017-09-10 22:47:01.442] [INFO] compilador - Numeros: [9,9]
+[2017-09-10 22:47:01.442] [INFO] compilador - Decimais: []
+[2017-09-10 22:47:01.443] [INFO] compilador - Operadores: [+]
+[2017-09-10 22:47:01.443] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 22:47:26.087] [INFO] compilador - Iniciando apligação 10/09/2017 22:47:26
+[2017-09-10 22:47:28.540] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:47:28.547] [INFO] compilador - Comentarios: []
+[2017-09-10 22:47:28.549] [INFO] compilador - Numeros: [99]
+[2017-09-10 22:47:28.549] [INFO] compilador - Decimais: []
+[2017-09-10 22:47:28.550] [INFO] compilador - Operadores: []
+[2017-09-10 22:47:28.550] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 22:47:32.039] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:47:32.044] [INFO] compilador - Comentarios: []
+[2017-09-10 22:47:32.045] [INFO] compilador - Numeros: [99]
+[2017-09-10 22:47:32.045] [INFO] compilador - Decimais: []
+[2017-09-10 22:47:32.045] [INFO] compilador - Operadores: []
+[2017-09-10 22:47:32.046] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:47:40.840] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:47:40.846] [INFO] compilador - Comentarios: []
+[2017-09-10 22:47:40.846] [INFO] compilador - Numeros: [99]
+[2017-09-10 22:47:40.846] [INFO] compilador - Decimais: []
+[2017-09-10 22:47:40.847] [INFO] compilador - Operadores: []
+[2017-09-10 22:47:40.847] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:47:43.338] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:47:43.343] [INFO] compilador - Comentarios: []
+[2017-09-10 22:47:43.343] [INFO] compilador - Numeros: [99]
+[2017-09-10 22:47:43.344] [INFO] compilador - Decimais: []
+[2017-09-10 22:47:43.345] [INFO] compilador - Operadores: []
+[2017-09-10 22:47:43.345] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:47:53.038] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:47:53.044] [INFO] compilador - Comentarios: []
+[2017-09-10 22:47:53.045] [INFO] compilador - Numeros: [99]
+[2017-09-10 22:47:53.045] [INFO] compilador - Decimais: []
+[2017-09-10 22:47:53.046] [INFO] compilador - Operadores: []
+[2017-09-10 22:47:53.047] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-10 22:47:59.134] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:47:59.140] [INFO] compilador - Comentarios: []
+[2017-09-10 22:47:59.140] [INFO] compilador - Numeros: [99,9]
+[2017-09-10 22:47:59.141] [INFO] compilador - Decimais: []
+[2017-09-10 22:47:59.141] [INFO] compilador - Operadores: [ +]
+[2017-09-10 22:47:59.141] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:48:34.939] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:48:34.944] [INFO] compilador - Comentarios: []
+[2017-09-10 22:48:34.944] [INFO] compilador - Numeros: [9]
+[2017-09-10 22:48:34.944] [INFO] compilador - Decimais: []
+[2017-09-10 22:48:34.945] [INFO] compilador - Operadores: [ +]
+[2017-09-10 22:48:34.945] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 22:48:46.254] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:48:46.258] [INFO] compilador - Comentarios: []
+[2017-09-10 22:48:46.259] [INFO] compilador - Numeros: []
+[2017-09-10 22:48:46.259] [INFO] compilador - Decimais: []
+[2017-09-10 22:48:46.259] [INFO] compilador - Operadores: [+, +]
+[2017-09-10 22:48:46.260] [INFO] compilador - Finalizando análise em 6 ms
+[2017-09-10 22:48:51.920] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:48:51.925] [INFO] compilador - Comentarios: []
+[2017-09-10 22:48:51.926] [INFO] compilador - Numeros: []
+[2017-09-10 22:48:51.926] [INFO] compilador - Decimais: []
+[2017-09-10 22:48:51.926] [INFO] compilador - Operadores: [+, +]
+[2017-09-10 22:48:51.927] [INFO] compilador - Finalizando análise em 7 ms
+[2017-09-10 22:48:57.783] [INFO] compilador - Iniciando apligação 10/09/2017 22:48:57
+[2017-09-10 22:49:00.843] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:49:00.849] [INFO] compilador - Comentarios: []
+[2017-09-10 22:49:00.852] [INFO] compilador - Numeros: [9]
+[2017-09-10 22:49:00.852] [INFO] compilador - Decimais: []
+[2017-09-10 22:49:00.853] [INFO] compilador - Operadores: [+,+]
+[2017-09-10 22:49:00.853] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-10 22:49:54.755] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:49:54.761] [INFO] compilador - Comentarios: []
+[2017-09-10 22:49:54.761] [INFO] compilador - Numeros: [9,9]
+[2017-09-10 22:49:54.762] [INFO] compilador - Decimais: []
+[2017-09-10 22:49:54.763] [INFO] compilador - Operadores: [+]
+[2017-09-10 22:49:54.763] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-10 22:49:58.998] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-10 22:49:59.003] [INFO] compilador - Comentarios: []
+[2017-09-10 22:49:59.004] [INFO] compilador - Numeros: [9]
+[2017-09-10 22:49:59.004] [INFO] compilador - Decimais: []
+[2017-09-10 22:49:59.004] [INFO] compilador - Operadores: [+9]
+[2017-09-10 22:49:59.004] [INFO] compilador - Finalizando análise em 6 ms
