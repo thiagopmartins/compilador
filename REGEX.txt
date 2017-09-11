@@ -6,3 +6,6 @@
 * = ZERO OU MAIS VEZES
 + = UMA OU MAIS VEZES
 
+
+OPERADORES: +-*/%= == != > < >= <= && || " *= /= += -= & | ++ -- ? :
+
