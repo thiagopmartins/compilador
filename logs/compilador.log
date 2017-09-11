@@ -1511,3 +1511,61 @@
 [2017-09-06 17:39:40.979] [INFO] compilador - Comentarios: []
 [2017-09-06 17:39:52.402] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
 [2017-09-06 17:39:52.409] [INFO] compilador - Comentarios: []
+[2017-09-06 17:40:58.858] [INFO] compilador - Iniciando apligação 06/09/2017 17:40:58
+[2017-09-06 17:41:03.762] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-06 17:41:03.770] [INFO] compilador - Comentarios: [/logo]
+[2017-09-06 17:41:48.676] [INFO] compilador - Iniciando apligação 06/09/2017 17:41:48
+[2017-09-06 17:41:55.557] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-06 17:42:23.566] [INFO] compilador - Iniciando apligação 06/09/2017 17:42:23
+[2017-09-06 17:42:30.700] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-06 17:42:30.705] [INFO] compilador - Comentarios: []
+[2017-09-06 17:44:00.982] [INFO] compilador - Iniciando apligação 06/09/2017 17:44:00
+[2017-09-06 17:44:02.721] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-06 17:44:02.747] [INFO] compilador - Comentarios: []
+[2017-09-06 17:44:02.753] [INFO] compilador - Textos: []
+[2017-09-06 17:44:02.754] [INFO] compilador - Numeros: []
+[2017-09-06 17:44:02.755] [INFO] compilador - Decimais: []
+[2017-09-06 17:44:02.755] [INFO] compilador - Finalizando análise em 35 ms
+[2017-09-06 17:44:10.777] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-06 17:44:10.786] [INFO] compilador - Comentarios: []
+[2017-09-06 17:44:10.786] [INFO] compilador - Textos: []
+[2017-09-06 17:44:10.787] [INFO] compilador - Numeros: [3213]
+[2017-09-06 17:44:10.787] [INFO] compilador - Decimais: []
+[2017-09-06 17:44:10.787] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-06 17:44:36.177] [INFO] compilador - Iniciando apligação 06/09/2017 17:44:36
+[2017-09-06 17:44:40.645] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-06 17:44:40.653] [INFO] compilador - Comentarios: []
+[2017-09-06 17:44:40.659] [INFO] compilador - Textos: []
+[2017-09-06 17:44:40.660] [INFO] compilador - Numeros: []
+[2017-09-06 17:44:40.660] [INFO] compilador - Decimais: []
+[2017-09-06 17:44:40.660] [INFO] compilador - Finalizando análise em 15 ms
+[2017-09-06 17:44:44.852] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-06 17:44:44.860] [INFO] compilador - Comentarios: []
+[2017-09-06 17:44:44.860] [INFO] compilador - Textos: []
+[2017-09-06 17:44:44.861] [INFO] compilador - Numeros: [312321]
+[2017-09-06 17:44:44.861] [INFO] compilador - Decimais: []
+[2017-09-06 17:44:44.861] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-06 17:44:51.557] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-06 17:44:51.566] [INFO] compilador - Comentarios: []
+[2017-09-06 17:44:51.567] [INFO] compilador - Textos: []
+[2017-09-06 17:44:51.567] [INFO] compilador - Numeros: []
+[2017-09-06 17:44:51.568] [INFO] compilador - Decimais: []
+[2017-09-06 17:44:51.568] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-06 17:44:52.340] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-06 17:44:52.366] [INFO] compilador - Comentarios: []
+[2017-09-06 17:44:52.368] [INFO] compilador - Textos: []
+[2017-09-06 17:44:52.368] [INFO] compilador - Numeros: []
+[2017-09-06 17:44:52.369] [INFO] compilador - Decimais: []
+[2017-09-06 17:44:52.369] [INFO] compilador - Finalizando análise em 29 ms
+[2017-09-06 17:44:56.588] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-06 17:44:56.593] [INFO] compilador - Comentarios: []
+[2017-09-06 17:44:56.595] [INFO] compilador - Textos: []
+[2017-09-06 17:44:56.595] [INFO] compilador - Numeros: [3]
+[2017-09-06 17:44:56.595] [INFO] compilador - Decimais: []
+[2017-09-06 17:44:56.596] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-06 17:45:05.605] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-06 17:45:05.613] [INFO] compilador - Comentarios: []
+[2017-09-06 17:45:05.615] [INFO] compilador - Textos: []
+[2017-09-06 17:45:05.615] [INFO] compilador - Numeros: [312321]
+[2017-09-06 17:45:05.615] [INFO] compilador - Decimais: []
+[2017-09-06 17:45:05.615] [INFO] compilador - Finalizando análise em 10 ms

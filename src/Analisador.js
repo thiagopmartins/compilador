@@ -16,17 +16,14 @@ class Analisador{
         this.numeros;
     }
     get texto(){
-        let reg = /^(')(.+)(')$|(")(.*\s*)(")/;
+        let reg = /^(')+(.+)(')+$|(")(.*\s*)(")/;
         let string = [];
-        do{
             
-            let txt = reg.exec(str);
-            console.log(str);
-            str = str.replace(txt[2],'');
-            console.log(str);
-            string.push(txt[2]);
-        }
-        while(reg.test(str));
+        let txt = reg.exec(str);
+        console.log(txt);
+        // str = str.replace(txt[2],'');
+        //console.log(str);
+        // string.push(txt[2]);
         logger.escreve = 'Textos: [' + string + ']';
         console.log('Textos: [' + string + ']');
     }
