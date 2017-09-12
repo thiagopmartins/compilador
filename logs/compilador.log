@@ -1286,3 +1286,410 @@ d]
 [2017-09-11 17:34:47.753] [INFO] compilador - Decimais: []
 [2017-09-11 17:34:47.754] [INFO] compilador - Operadores: [++,+]
 [2017-09-11 17:34:47.755] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-12 08:28:16.808] [INFO] compilador - Iniciando apligação 12/09/2017 08:28:16
+[2017-09-12 08:28:26.304] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:28:26.356] [INFO] compilador - Comentarios: []
+[2017-09-12 08:28:26.357] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:28:26.358] [INFO] compilador - Decimais: []
+[2017-09-12 08:28:26.360] [INFO] compilador - Operadores: [!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:28:26.360] [INFO] compilador - Finalizando análise em 57 ms
+[2017-09-12 08:29:54.511] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:29:54.519] [INFO] compilador - Comentarios: []
+[2017-09-12 08:29:54.519] [INFO] compilador - Numeros: [900,750]
+[2017-09-12 08:29:54.520] [INFO] compilador - Decimais: []
+[2017-09-12 08:29:54.521] [INFO] compilador - Operadores: [!=,!=,!=,!=,!=,!=,!=,!=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,:,:,:,:,/,=,=,=,=,=,=,=,=]
+[2017-09-12 08:29:54.521] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-12 08:30:41.440] [INFO] compilador - Iniciando apligação 12/09/2017 08:30:41
+[2017-09-12 08:30:44.655] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:30:44.661] [INFO] compilador - Comentarios: []
+[2017-09-12 08:30:44.662] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:30:44.662] [INFO] compilador - Decimais: []
+[2017-09-12 08:30:44.664] [INFO] compilador - Operadores: [!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:30:44.665] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-12 08:31:20.212] [INFO] compilador - Iniciando apligação 12/09/2017 08:31:20
+[2017-09-12 08:31:23.020] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:31:23.027] [INFO] compilador - Comentarios: []
+[2017-09-12 08:31:23.028] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:31:23.029] [INFO] compilador - Decimais: []
+[2017-09-12 08:31:23.110] [INFO] compilador - Operadores: [!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:31:23.111] [INFO] compilador - Finalizando análise em 90 ms
+[2017-09-12 08:32:06.046] [INFO] compilador - Iniciando apligação 12/09/2017 08:32:05
+[2017-09-12 08:32:15.964] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:32:15.971] [INFO] compilador - Comentarios: []
+[2017-09-12 08:32:15.972] [INFO] compilador - Numeros: [900,750]
+[2017-09-12 08:32:15.972] [INFO] compilador - Decimais: []
+[2017-09-12 08:32:16.057] [INFO] compilador - Operadores: [!=,!=,!=,!=,!=,!=,!=,!=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,:,:,:,:,:,:,:,:,/,=,=,=,=,=,=,=,=]
+[2017-09-12 08:32:16.058] [INFO] compilador - Finalizando análise em 94 ms
+[2017-09-12 08:32:34.271] [INFO] compilador - Iniciando apligação 12/09/2017 08:32:34
+[2017-09-12 08:32:37.931] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:32:37.939] [INFO] compilador - Comentarios: []
+[2017-09-12 08:32:37.940] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:32:37.941] [INFO] compilador - Decimais: []
+[2017-09-12 08:32:38.150] [INFO] compilador - Operadores: [!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,==,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:32:38.150] [INFO] compilador - Finalizando análise em 219 ms
+[2017-09-12 08:33:16.312] [INFO] compilador - Iniciando apligação 12/09/2017 08:33:16
+[2017-09-12 08:33:19.220] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:33:19.227] [INFO] compilador - Comentarios: []
+[2017-09-12 08:33:19.229] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:33:19.229] [INFO] compilador - Decimais: []
+[2017-09-12 08:33:19.403] [INFO] compilador - Operadores: [!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:33:19.404] [INFO] compilador - Finalizando análise em 184 ms
+[2017-09-12 08:34:20.163] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:34:20.169] [INFO] compilador - Comentarios: []
+[2017-09-12 08:34:20.170] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:34:20.170] [INFO] compilador - Decimais: []
+[2017-09-12 08:34:20.332] [INFO] compilador - Operadores: [!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:34:20.332] [INFO] compilador - Finalizando análise em 169 ms
+[2017-09-12 08:34:22.469] [INFO] compilador - Iniciando apligação 12/09/2017 08:34:22
+[2017-09-12 08:34:25.379] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:34:25.389] [INFO] compilador - Comentarios: []
+[2017-09-12 08:34:25.390] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:34:25.391] [INFO] compilador - Decimais: []
+[2017-09-12 08:34:25.564] [INFO] compilador - Operadores: [!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:34:25.564] [INFO] compilador - Finalizando análise em 185 ms
+[2017-09-12 08:34:51.228] [INFO] compilador - Iniciando apligação 12/09/2017 08:34:51
+[2017-09-12 08:34:53.547] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:34:53.555] [INFO] compilador - Comentarios: []
+[2017-09-12 08:34:53.556] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:34:53.556] [INFO] compilador - Decimais: []
+[2017-09-12 08:34:53.744] [INFO] compilador - Operadores: [!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:34:53.744] [INFO] compilador - Finalizando análise em 197 ms
+[2017-09-12 08:35:06.328] [INFO] compilador - Iniciando apligação 12/09/2017 08:35:06
+[2017-09-12 08:35:09.260] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:35:09.266] [INFO] compilador - Comentarios: []
+[2017-09-12 08:35:09.267] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:35:09.268] [INFO] compilador - Decimais: []
+[2017-09-12 08:35:09.429] [INFO] compilador - Operadores: [!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:35:09.430] [INFO] compilador - Finalizando análise em 171 ms
+[2017-09-12 08:35:57.771] [INFO] compilador - Iniciando apligação 12/09/2017 08:35:57
+[2017-09-12 08:35:58.387] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:35:58.396] [INFO] compilador - Comentarios: []
+[2017-09-12 08:35:58.398] [INFO] compilador - Numeros: []
+[2017-09-12 08:35:58.399] [INFO] compilador - Decimais: []
+[2017-09-12 08:35:58.399] [INFO] compilador - Operadores: []
+[2017-09-12 08:35:58.400] [INFO] compilador - Finalizando análise em 13 ms
+[2017-09-12 08:36:02.138] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:36:02.147] [INFO] compilador - Comentarios: []
+[2017-09-12 08:36:02.148] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:36:02.148] [INFO] compilador - Decimais: []
+[2017-09-12 08:36:02.328] [INFO] compilador - Operadores: [!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,==,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:36:02.328] [INFO] compilador - Finalizando análise em 190 ms
+[2017-09-12 08:36:24.947] [INFO] compilador - Iniciando apligação 12/09/2017 08:36:24
+[2017-09-12 08:36:27.881] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:36:27.888] [INFO] compilador - Comentarios: []
+[2017-09-12 08:36:27.889] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:36:27.890] [INFO] compilador - Decimais: []
+[2017-09-12 08:36:28.047] [INFO] compilador - Operadores: [!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,==,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:36:28.048] [INFO] compilador - Finalizando análise em 167 ms
+[2017-09-12 08:39:19.552] [INFO] compilador - Iniciando apligação 12/09/2017 08:39:19
+[2017-09-12 08:39:22.120] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:39:46.446] [INFO] compilador - Iniciando apligação 12/09/2017 08:39:46
+[2017-09-12 08:41:01.120] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:41:31.672] [INFO] compilador - Iniciando apligação 12/09/2017 08:41:31
+[2017-09-12 08:41:45.247] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:41:45.254] [INFO] compilador - Comentarios: []
+[2017-09-12 08:41:45.257] [INFO] compilador - Numeros: []
+[2017-09-12 08:41:45.257] [INFO] compilador - Decimais: []
+[2017-09-12 08:41:45.258] [INFO] compilador - Operadores: []
+[2017-09-12 08:41:45.258] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-12 08:41:53.031] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:41:53.037] [INFO] compilador - Comentarios: []
+[2017-09-12 08:41:53.038] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:41:53.038] [INFO] compilador - Decimais: []
+[2017-09-12 08:41:53.061] [INFO] compilador - Operadores: [==,==,=,=,=,=,=,=,=,=,=,=,=,=,=,=]
+[2017-09-12 08:41:53.061] [INFO] compilador - Finalizando análise em 30 ms
+[2017-09-12 08:44:09.221] [INFO] compilador - Iniciando apligação 12/09/2017 08:44:09
+[2017-09-12 08:44:12.253] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:44:12.263] [INFO] compilador - Comentarios: []
+[2017-09-12 08:44:12.264] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:44:12.265] [INFO] compilador - Decimais: []
+[2017-09-12 08:44:30.188] [INFO] compilador - Iniciando apligação 12/09/2017 08:44:30
+[2017-09-12 08:44:32.268] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:46:02.321] [INFO] compilador - Iniciando apligação 12/09/2017 08:46:02
+[2017-09-12 08:46:12.900] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:46:45.804] [INFO] compilador - Iniciando apligação 12/09/2017 08:46:45
+[2017-09-12 08:46:49.901] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:46:49.911] [INFO] compilador - Comentarios: []
+[2017-09-12 08:46:49.914] [INFO] compilador - Numeros: []
+[2017-09-12 08:46:49.915] [INFO] compilador - Decimais: []
+[2017-09-12 08:46:49.925] [INFO] compilador - Operadores: [!=,<=,>=,*=,/=,=]
+[2017-09-12 08:46:49.926] [INFO] compilador - Finalizando análise em 25 ms
+[2017-09-12 08:47:28.114] [INFO] compilador - Iniciando apligação 12/09/2017 08:47:28
+[2017-09-12 08:47:30.042] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:47:30.049] [INFO] compilador - Comentarios: []
+[2017-09-12 08:47:30.051] [INFO] compilador - Numeros: []
+[2017-09-12 08:47:30.052] [INFO] compilador - Decimais: []
+[2017-09-12 08:47:30.060] [INFO] compilador - Operadores: [!=,<=,>=,*=,/=,=]
+[2017-09-12 08:47:30.061] [INFO] compilador - Finalizando análise em 19 ms
+[2017-09-12 08:47:48.681] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:47:48.688] [INFO] compilador - Comentarios: []
+[2017-09-12 08:47:48.688] [INFO] compilador - Numeros: []
+[2017-09-12 08:47:48.689] [INFO] compilador - Decimais: []
+[2017-09-12 08:47:48.690] [INFO] compilador - Operadores: [!=]
+[2017-09-12 08:47:48.690] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-12 08:48:11.661] [INFO] compilador - Iniciando apligação 12/09/2017 08:48:11
+[2017-09-12 08:48:15.634] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:48:15.641] [INFO] compilador - Comentarios: []
+[2017-09-12 08:48:15.644] [INFO] compilador - Numeros: []
+[2017-09-12 08:48:15.644] [INFO] compilador - Decimais: []
+[2017-09-12 08:48:15.653] [INFO] compilador - Operadores: [!=,<=,>=,*=,/=,=]
+[2017-09-12 08:48:15.653] [INFO] compilador - Finalizando análise em 19 ms
+[2017-09-12 08:49:17.267] [INFO] compilador - Iniciando apligação 12/09/2017 08:49:17
+[2017-09-12 08:49:19.777] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:49:19.784] [INFO] compilador - Comentarios: []
+[2017-09-12 08:49:19.785] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:49:19.786] [INFO] compilador - Decimais: []
+[2017-09-12 08:49:19.856] [INFO] compilador - Operadores: [==,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:49:19.857] [INFO] compilador - Finalizando análise em 80 ms
+[2017-09-12 08:51:02.049] [INFO] compilador - Iniciando apligação 12/09/2017 08:51:02
+[2017-09-12 08:51:05.040] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:51:05.048] [INFO] compilador - Comentarios: []
+[2017-09-12 08:51:05.048] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:51:05.049] [INFO] compilador - Decimais: []
+[2017-09-12 08:51:05.202] [INFO] compilador - Operadores: [!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,!=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,==,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:51:05.202] [INFO] compilador - Finalizando análise em 162 ms
+[2017-09-12 08:52:32.958] [INFO] compilador - Iniciando apligação 12/09/2017 08:52:32
+[2017-09-12 08:52:34.918] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:52:34.925] [INFO] compilador - Comentarios: []
+[2017-09-12 08:52:34.926] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:52:34.927] [INFO] compilador - Decimais: []
+[2017-09-12 08:52:35.173] [INFO] compilador - Operadores: [<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,<=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,>=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,*=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,/=,==,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:52:35.173] [INFO] compilador - Finalizando análise em 255 ms
+[2017-09-12 08:52:44.174] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:52:44.182] [INFO] compilador - Comentarios: []
+[2017-09-12 08:52:44.182] [INFO] compilador - Numeros: []
+[2017-09-12 08:52:44.182] [INFO] compilador - Decimais: []
+[2017-09-12 08:52:44.187] [INFO] compilador - Operadores: [<=,>=,*=,/=,=]
+[2017-09-12 08:52:44.188] [INFO] compilador - Finalizando análise em 14 ms
+[2017-09-12 08:53:13.157] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:53:13.164] [INFO] compilador - Comentarios: []
+[2017-09-12 08:53:13.164] [INFO] compilador - Numeros: []
+[2017-09-12 08:53:13.165] [INFO] compilador - Decimais: []
+[2017-09-12 08:53:13.169] [INFO] compilador - Operadores: [<=,>=,*=,/=,=]
+[2017-09-12 08:53:13.169] [INFO] compilador - Finalizando análise em 12 ms
+[2017-09-12 08:53:42.426] [INFO] compilador - Iniciando apligação 12/09/2017 08:53:42
+[2017-09-12 08:53:46.654] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:53:46.660] [INFO] compilador - Comentarios: []
+[2017-09-12 08:53:46.663] [INFO] compilador - Numeros: []
+[2017-09-12 08:53:46.664] [INFO] compilador - Decimais: []
+[2017-09-12 08:53:46.672] [INFO] compilador - Operadores: [<=,>=,*=,/=,=]
+[2017-09-12 08:53:46.672] [INFO] compilador - Finalizando análise em 19 ms
+[2017-09-12 08:54:00.973] [INFO] compilador - Iniciando apligação 12/09/2017 08:54:00
+[2017-09-12 08:54:05.662] [INFO] compilador - Iniciando apligação 12/09/2017 08:54:05
+[2017-09-12 08:54:10.982] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:54:10.991] [INFO] compilador - Comentarios: []
+[2017-09-12 08:54:10.995] [INFO] compilador - Numeros: []
+[2017-09-12 08:54:10.998] [INFO] compilador - Decimais: []
+[2017-09-12 08:54:11.003] [INFO] compilador - Operadores: [!=]
+[2017-09-12 08:54:11.003] [INFO] compilador - Finalizando análise em 21 ms
+[2017-09-12 08:54:16.685] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:54:16.691] [INFO] compilador - Comentarios: []
+[2017-09-12 08:54:16.692] [INFO] compilador - Numeros: []
+[2017-09-12 08:54:16.692] [INFO] compilador - Decimais: []
+[2017-09-12 08:54:16.693] [INFO] compilador - Operadores: [!=]
+[2017-09-12 08:54:16.694] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-12 08:54:22.262] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:54:22.268] [INFO] compilador - Comentarios: []
+[2017-09-12 08:54:22.269] [INFO] compilador - Numeros: [4]
+[2017-09-12 08:54:22.269] [INFO] compilador - Decimais: []
+[2017-09-12 08:54:22.270] [INFO] compilador - Operadores: [!=]
+[2017-09-12 08:54:22.271] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-12 08:54:28.421] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:54:28.428] [INFO] compilador - Comentarios: []
+[2017-09-12 08:54:28.429] [INFO] compilador - Numeros: []
+[2017-09-12 08:54:28.429] [INFO] compilador - Decimais: []
+[2017-09-12 08:54:28.436] [INFO] compilador - Operadores: [!=,!=,<=,>=,*=,/=,=]
+[2017-09-12 08:54:28.436] [INFO] compilador - Finalizando análise em 15 ms
+[2017-09-12 08:54:46.352] [INFO] compilador - Iniciando apligação 12/09/2017 08:54:46
+[2017-09-12 08:54:48.733] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:54:48.740] [INFO] compilador - Comentarios: []
+[2017-09-12 08:54:48.744] [INFO] compilador - Numeros: []
+[2017-09-12 08:54:48.744] [INFO] compilador - Decimais: []
+[2017-09-12 08:54:48.748] [INFO] compilador - Operadores: [!=]
+[2017-09-12 08:54:48.749] [INFO] compilador - Finalizando análise em 16 ms
+[2017-09-12 08:54:52.333] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:54:52.339] [INFO] compilador - Comentarios: []
+[2017-09-12 08:54:52.339] [INFO] compilador - Numeros: []
+[2017-09-12 08:54:52.340] [INFO] compilador - Decimais: []
+[2017-09-12 08:54:52.347] [INFO] compilador - Operadores: [!=,<=,>=,*=,/=,=]
+[2017-09-12 08:54:52.348] [INFO] compilador - Finalizando análise em 15 ms
+[2017-09-12 08:55:05.643] [INFO] compilador - Iniciando apligação 12/09/2017 08:55:05
+[2017-09-12 08:55:14.356] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:55:14.365] [INFO] compilador - Comentarios: []
+[2017-09-12 08:55:14.367] [INFO] compilador - Numeros: []
+[2017-09-12 08:55:14.368] [INFO] compilador - Decimais: []
+[2017-09-12 08:55:14.372] [INFO] compilador - Operadores: [!=]
+[2017-09-12 08:55:14.372] [INFO] compilador - Finalizando análise em 16 ms
+[2017-09-12 08:55:20.860] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:55:20.866] [INFO] compilador - Comentarios: []
+[2017-09-12 08:55:20.867] [INFO] compilador - Numeros: []
+[2017-09-12 08:55:20.867] [INFO] compilador - Decimais: []
+[2017-09-12 08:55:20.873] [INFO] compilador - Operadores: [!=,<=,>=,*=,/=,=]
+[2017-09-12 08:55:20.874] [INFO] compilador - Finalizando análise em 14 ms
+[2017-09-12 08:58:45.323] [INFO] compilador - Iniciando apligação 12/09/2017 08:58:45
+[2017-09-12 08:58:49.331] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:58:49.339] [INFO] compilador - Comentarios: []
+[2017-09-12 08:58:49.342] [INFO] compilador - Numeros: []
+[2017-09-12 08:58:49.342] [INFO] compilador - Decimais: []
+[2017-09-12 08:58:49.343] [INFO] compilador - Operadores: [!=]
+[2017-09-12 08:58:49.343] [INFO] compilador - Finalizando análise em 13 ms
+[2017-09-12 08:58:54.378] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 08:58:54.385] [INFO] compilador - Comentarios: []
+[2017-09-12 08:58:54.386] [INFO] compilador - Numeros: []
+[2017-09-12 08:58:54.386] [INFO] compilador - Decimais: []
+[2017-09-12 08:58:54.386] [INFO] compilador - Operadores: [=]
+[2017-09-12 08:58:54.387] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-12 08:58:59.849] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:58:59.857] [INFO] compilador - Comentarios: []
+[2017-09-12 08:58:59.858] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:58:59.858] [INFO] compilador - Decimais: []
+[2017-09-12 08:58:59.860] [INFO] compilador - Operadores: [!=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,-,/,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:58:59.861] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-12 08:59:41.417] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 08:59:41.425] [INFO] compilador - Comentarios: []
+[2017-09-12 08:59:41.425] [INFO] compilador - Numeros: [900,750,700,500,770,500]
+[2017-09-12 08:59:41.425] [INFO] compilador - Decimais: []
+[2017-09-12 08:59:41.427] [INFO] compilador - Operadores: [!=,<=,>=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,-,/,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>]
+[2017-09-12 08:59:41.427] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-12 13:18:02.161] [INFO] compilador - Iniciando apligação 12/09/2017 13:18:00
+[2017-09-12 13:19:14.023] [INFO] compilador - Iniciando apligação 12/09/2017 13:19:13
+[2017-09-12 13:19:18.835] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:19:18.890] [INFO] compilador - Comentarios: []
+[2017-09-12 13:19:18.913] [INFO] compilador - Numeros: []
+[2017-09-12 13:19:18.915] [INFO] compilador - Decimais: []
+[2017-09-12 13:19:18.916] [INFO] compilador - Operadores: []
+[2017-09-12 13:19:18.918] [INFO] compilador - Delimitadores: [[,]]
+[2017-09-12 13:19:18.918] [INFO] compilador - Finalizando análise em 83 ms
+[2017-09-12 13:19:23.674] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:19:23.681] [INFO] compilador - Comentarios: []
+[2017-09-12 13:19:23.681] [INFO] compilador - Numeros: []
+[2017-09-12 13:19:23.681] [INFO] compilador - Decimais: []
+[2017-09-12 13:19:23.682] [INFO] compilador - Operadores: []
+[2017-09-12 13:19:23.682] [INFO] compilador - Delimitadores: [[]
+[2017-09-12 13:19:23.682] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-12 13:19:27.651] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:19:27.657] [INFO] compilador - Comentarios: []
+[2017-09-12 13:19:27.658] [INFO] compilador - Numeros: []
+[2017-09-12 13:19:27.658] [INFO] compilador - Decimais: []
+[2017-09-12 13:19:27.658] [INFO] compilador - Operadores: []
+[2017-09-12 13:19:27.659] [INFO] compilador - Delimitadores: []]
+[2017-09-12 13:19:27.659] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-12 13:19:32.050] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:19:32.057] [INFO] compilador - Comentarios: []
+[2017-09-12 13:19:32.057] [INFO] compilador - Numeros: []
+[2017-09-12 13:19:32.058] [INFO] compilador - Decimais: []
+[2017-09-12 13:19:32.058] [INFO] compilador - Operadores: [+,-]
+[2017-09-12 13:19:32.059] [INFO] compilador - Delimitadores: []]
+[2017-09-12 13:19:32.059] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-12 13:19:39.292] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:19:39.298] [INFO] compilador - Comentarios: []
+[2017-09-12 13:19:39.299] [INFO] compilador - Numeros: []
+[2017-09-12 13:19:39.299] [INFO] compilador - Decimais: []
+[2017-09-12 13:19:39.300] [INFO] compilador - Operadores: [+,-]
+[2017-09-12 13:19:39.300] [INFO] compilador - Delimitadores: [(,]]
+[2017-09-12 13:19:39.300] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-12 13:19:53.042] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:19:53.050] [INFO] compilador - Comentarios: []
+[2017-09-12 13:19:53.050] [INFO] compilador - Numeros: []
+[2017-09-12 13:19:53.050] [INFO] compilador - Decimais: []
+[2017-09-12 13:19:53.051] [INFO] compilador - Operadores: [+,-]
+[2017-09-12 13:19:53.051] [INFO] compilador - Delimitadores: [(,;,]]
+[2017-09-12 13:19:53.052] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-12 13:21:15.137] [INFO] compilador - Iniciando apligação 12/09/2017 13:21:15
+[2017-09-12 13:21:15.459] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:21:15.523] [INFO] compilador - Comentarios: 
+[2017-09-12 13:21:15.526] [INFO] compilador - Numeros: 
+[2017-09-12 13:21:15.527] [INFO] compilador - Decimais: 
+[2017-09-12 13:21:15.528] [INFO] compilador - Operadores: 
+[2017-09-12 13:21:15.529] [INFO] compilador - Delimitadores: 
+[2017-09-12 13:21:15.530] [INFO] compilador - Finalizando análise em 71 ms
+[2017-09-12 13:21:20.937] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 13:21:20.944] [INFO] compilador - Comentarios: 
+[2017-09-12 13:21:20.945] [INFO] compilador - Numeros: 900,750,700,500,770,500
+[2017-09-12 13:21:20.945] [INFO] compilador - Decimais: 
+[2017-09-12 13:21:20.946] [INFO] compilador - Operadores: !=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,-,/,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>
+[2017-09-12 13:21:20.948] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;
+[2017-09-12 13:21:20.948] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-12 13:24:01.095] [INFO] compilador - Iniciando apligação 12/09/2017 13:24:00
+[2017-09-12 13:24:04.973] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 13:24:05.021] [INFO] compilador - Comentarios: 
+[2017-09-12 13:24:05.022] [INFO] compilador - Numeros: 900,750,700,500,770,500
+[2017-09-12 13:24:05.022] [INFO] compilador - Decimais: 
+[2017-09-12 13:24:05.024] [INFO] compilador - Operadores: !=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,-,/,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>
+[2017-09-12 13:24:05.025] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',','
+[2017-09-12 13:24:05.025] [INFO] compilador - Finalizando análise em 52 ms
+[2017-09-12 13:26:06.271] [INFO] compilador - Iniciando apligação 12/09/2017 13:26:06
+[2017-09-12 13:26:06.949] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:26:07.007] [INFO] compilador - Comentarios: 
+[2017-09-12 13:26:07.010] [INFO] compilador - Numeros: 
+[2017-09-12 13:26:07.014] [INFO] compilador - Decimais: 
+[2017-09-12 13:26:07.015] [INFO] compilador - Operadores: 
+[2017-09-12 13:26:07.023] [INFO] compilador - Delimitadores: 
+[2017-09-12 13:26:07.025] [INFO] compilador - Finalizando análise em 76 ms
+[2017-09-12 13:26:10.948] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 13:26:10.954] [INFO] compilador - Comentarios: 
+[2017-09-12 13:26:10.955] [INFO] compilador - Numeros: 900,750,700,500,770,500
+[2017-09-12 13:26:10.955] [INFO] compilador - Decimais: 
+[2017-09-12 13:26:10.957] [INFO] compilador - Operadores: !=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,-,/,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>
+[2017-09-12 13:26:10.958] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2017-09-12 13:26:10.958] [INFO] compilador - Finalizando análise em 10 ms
+[2017-09-12 13:26:40.827] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-12 13:26:40.835] [INFO] compilador - Comentarios: //asdsadsdsd
+[2017-09-12 13:26:40.836] [INFO] compilador - Numeros: 900,750,700,500,770,500
+[2017-09-12 13:26:40.836] [INFO] compilador - Decimais: 
+[2017-09-12 13:26:40.838] [INFO] compilador - Operadores: !=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,-,/,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>
+[2017-09-12 13:26:40.839] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2017-09-12 13:26:40.839] [INFO] compilador - Finalizando análise em 12 ms
+[2017-09-12 13:27:55.257] [INFO] compilador - Iniciando apligação 12/09/2017 13:27:55
+[2017-09-12 13:27:57.074] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:27:57.104] [INFO] compilador - Comentarios: //
+[2017-09-12 13:27:57.107] [INFO] compilador - Numeros: 
+[2017-09-12 13:27:57.107] [INFO] compilador - Decimais: 
+[2017-09-12 13:27:57.108] [INFO] compilador - Delimitadores: 
+[2017-09-12 13:27:57.109] [INFO] compilador - Operadores: 
+[2017-09-12 13:27:57.109] [INFO] compilador - Finalizando análise em 35 ms
+[2017-09-12 13:28:02.449] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:28:02.455] [INFO] compilador - Comentarios: //ewqewq
+[2017-09-12 13:28:02.456] [INFO] compilador - Numeros: 
+[2017-09-12 13:28:02.456] [INFO] compilador - Decimais: 
+[2017-09-12 13:28:02.456] [INFO] compilador - Delimitadores: 
+[2017-09-12 13:28:02.457] [INFO] compilador - Operadores: 
+[2017-09-12 13:28:02.457] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-12 13:28:29.837] [INFO] compilador - Iniciando apligação 12/09/2017 13:28:29
+[2017-09-12 13:28:31.541] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:28:31.547] [INFO] compilador - Numeros: 
+[2017-09-12 13:28:31.550] [INFO] compilador - Decimais: 
+[2017-09-12 13:28:31.551] [INFO] compilador - Delimitadores: //
+[2017-09-12 13:28:31.552] [INFO] compilador - Operadores: 
+[2017-09-12 13:28:31.553] [INFO] compilador - Finalizando análise em 12 ms
+[2017-09-12 13:28:35.413] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:28:35.420] [INFO] compilador - Numeros: 
+[2017-09-12 13:28:35.420] [INFO] compilador - Decimais: 
+[2017-09-12 13:28:35.420] [INFO] compilador - Delimitadores: //
+[2017-09-12 13:28:35.421] [INFO] compilador - Operadores: /
+[2017-09-12 13:28:35.421] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-12 13:28:37.641] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:28:37.647] [INFO] compilador - Numeros: 
+[2017-09-12 13:28:37.648] [INFO] compilador - Decimais: 
+[2017-09-12 13:28:37.648] [INFO] compilador - Delimitadores: //
+[2017-09-12 13:28:37.649] [INFO] compilador - Operadores: /
+[2017-09-12 13:28:37.649] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-12 13:28:37.768] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:28:37.775] [INFO] compilador - Numeros: 
+[2017-09-12 13:28:37.775] [INFO] compilador - Decimais: 
+[2017-09-12 13:28:37.776] [INFO] compilador - Delimitadores: //
+[2017-09-12 13:28:37.776] [INFO] compilador - Operadores: /
+[2017-09-12 13:28:37.777] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-12 13:28:42.389] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-12 13:28:42.395] [INFO] compilador - Numeros: 
+[2017-09-12 13:28:42.396] [INFO] compilador - Decimais: 
+[2017-09-12 13:28:42.396] [INFO] compilador - Delimitadores: //,//
+[2017-09-12 13:28:42.397] [INFO] compilador - Operadores: /
+[2017-09-12 13:28:42.397] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-12 13:51:29.589] [INFO] compilador - Iniciando apligação 12/09/2017 13:51:28
+[2017-09-12 13:51:37.746] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\index.html
+[2017-09-12 13:51:37.816] [INFO] compilador - Numeros: 8,1,6,6,9,3,12,12,4,25,1,1,1,2,8,1,1,50,1,12,1,3,1,3,3,1,9,0,3,1,10,2,12,5,5,2,1,3,12,6,6,12,12,12
+[2017-09-12 13:51:37.816] [INFO] compilador - Decimais: initial-scale=1.0"
+[2017-09-12 13:51:37.820] [INFO] compilador - Delimitadores: (,),;,",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,//
+[2017-09-12 13:51:37.825] [INFO] compilador - Operadores: --,--,:,:,:,?,+,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<
+[2017-09-12 13:51:37.826] [INFO] compilador - Finalizando análise em 80 ms

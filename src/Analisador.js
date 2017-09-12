@@ -1,6 +1,7 @@
 const Log = require('./Log.js');
 const Editor = require('./Editor.js');
 const Operadores = require('./Operadores.js');
+const Delimitadores = require('./Delimitadores.js');
 
 let logger;
 let str;
@@ -10,20 +11,28 @@ class Analisador{
         logger = new Log();
         let editor = new Editor();
         str = conteudo;
-        this.comentarios;
+        //this.comentarios;
         //this.texto;
         str = str.split(/\s+/g);
         this.numeros;
+        this.delimitadores;
         this.operadores;
+        
     }
     static set conteudoStr(valor){
         this.str = valor;
     }
+    get delimitadores(){
+        
+        let string = Delimitadores.valores(str);
+        logger.escreve = 'Delimitadores: ' + string ;
+        console.log('Delimitadores: ' + string + '');        
+    }    
     get operadores(){
         
         let string = Operadores.valores(str);
-        logger.escreve = 'Operadores: [' + string + ']';
-        console.log('Operadores: [' + string + ']');        
+        logger.escreve = 'Operadores: ' + string + '';
+        console.log('Operadores: ' + string + '');        
     }
     get texto(){
         let reg = /^"([\w])+?"$/;
@@ -34,8 +43,8 @@ class Analisador{
             str = str.replace(txt,'');
             string.push(txt);
         }
-        logger.escreve = 'Textos: [' + string + ']';
-        console.log('Textos: [' + string + ']');
+        logger.escreve = 'Textos: ' + string;
+        console.log('Textos: ' + string);
     }
     get numeros(){
         let reg = /\d+/;
@@ -56,10 +65,10 @@ class Analisador{
 
             }
         }
-        logger.escreve = 'Numeros: [' + inteiros + ']';
-        console.log('Numeros: [' + inteiros + ']');
-        logger.escreve = 'Decimais: [' + decimais + ']';
-        console.log('Decimais: [' + decimais + ']');     
+        logger.escreve = 'Numeros: ' + inteiros;
+        console.log('Numeros: ' + inteiros);
+        logger.escreve = 'Decimais: ' + decimais;
+        console.log('Decimais: ' + decimais);     
     }    
     get comentarios(){
         let reg = /\/{2}.*|\/\*[\s\w]+?\*\//;
@@ -70,8 +79,8 @@ class Analisador{
             string.push(txt);
             str = str.replace(txt,'');
         }
-        logger.escreve = 'Comentarios: [' + string + ']';
-        console.log('Comentarios: [' + string + ']');
+        logger.escreve = 'Comentarios: ' + string;
+        console.log('Comentarios: ' + string);
     }    
 }
 module.exports = Analisador;

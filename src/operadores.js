@@ -1,24 +1,30 @@
 
 const Analisador = require('./Analisador.js');
 const tokens = [
-    {regex: /([+]{2})(\d*)/,value: '++'},
-    {regex: /([=]{2})(\d*)/,value: '=='},
     {regex: /([!=]{1})(\d*)/,value: '!='},
+    {regex: /([<=]{1})(\d*)/,value: '<='},
+    {regex: /([>=]{1})(\d*)/,value: '>='},
+    {regex: /([*=]{1})(\d*)/,value: '*='},
+    {regex: /([/=]{1})(\d*)/,value: '/='},
+    {regex: /([&]{2})(\d*)/,value: '&&'},
+    {regex: /([|]{2})(\d*)/,value: '||'},
+    {regex: /([+]{2})(\d*)/,value: '++'},
+    {regex: /([-]{2})(\d*)/,value: '--'},
+    {regex: /([=]{2})(\d*)/,value: '=='},
+    {regex: /([&]{1})(\d*)/,value: '&'},
+    {regex: /([|]{1})(\d*)/,value: '|'},
+    {regex: /([:]{1})(\d*)/,value: ':'},
+    {regex: /([?]{1})(\d*)/,value: '?'},
     {regex: /([+]{1})(\d*)/,value: '+'},
     {regex: /([-]{1})(\d*)/,value: '-'},
     {regex: /([*]{1})(\d*)/,value: '*'},
     {regex: /([/]{1})(\d*)/,value: '/'},
     {regex: /([%]{1})(\d*)/,value: '%'},
     {regex: /([=]{1})(\d*)/,value: '='},
-    {regex: />/},
-    {regex: /</},
-    {regex: />=/},
-    {regex: /<=/},
-    {regex: /&&/},
-    {regex: /^([||]{2})$/},
-    {regex: /\b"\b/}
+    {regex: /([>]{1})(\d*)/,value: '>'},
+    {regex: /([<]{1})(\d*)/,value: '<'},
+    {regex: /(["]{1})(\d*)/,value: '"'}
 ];
-//'+, -, *, /, %, =, ==, !=, >, <, >=, <=, &&, ||, ", *=, /=, +=, -=, &, |, ++, --, ?, :'
 class Operadores{
     static get token(){
         return tokens;
@@ -28,9 +34,17 @@ class Operadores{
         for(let i = 0; i < Operadores.token.length; i++){
             let reg = Operadores.token[i].regex;
             for (let key in str) {
-                if(reg.test(str[key])){
-                    string.push(Operadores.token[i].value);
+                let error = false;
+                while(reg.test(str[key]) && error == false){
+                    let stringOld = str[key];
+
                     str[key] = str[key].replace(Operadores.token[i].value,' ');
+                    if(str[key] == stringOld){
+                        error = true;
+                        str[key] = stringOld;
+                    }
+                    else
+                        string.push(Operadores.token[i].value);
                 }
             }            
         }
