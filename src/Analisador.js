@@ -30,7 +30,7 @@ class Analisador{
     }    
     get operadores(){
         
-        let string = Operadores.valores(str);
+        let string = Operadores.valores(str).toString();
         logger.escreve = 'Operadores: ' + string + '';
         console.log('Operadores: ' + string + '');        
     }
@@ -48,14 +48,15 @@ class Analisador{
     }
     get numeros(){
         let reg = /\d+/;
-        let dec = /[.]+/;
+        let dec = /\d+\.\d+/;
         let inteiros = [];
         let decimais = [];
         for (let key in str) {
             if(reg.test(str[key])){
                 if(dec.test(str[key])){
-                    decimais.push(str[key]); 
-                    str[key] = str[key].replace(str[key],'');
+                    let txt = dec.exec(str[key]);
+                    decimais.push(txt); 
+                    str[key] = str[key].replace(dec,'');
                 }
                 else{
                     let txt = reg.exec(str[key]);

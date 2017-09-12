@@ -9,4 +9,5 @@
 
 OPERADORES: +-*/%= == != > < >= <= && || " *= /= += -= & | ++ -- ? :
 DELIMITADORES: ( ) ; [ ] { } " ' . , // /* */
+PALAVRAS RESERVADAS
 

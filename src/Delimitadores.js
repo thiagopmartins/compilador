@@ -24,8 +24,10 @@ class Delimitadores{
         let string = [];
         for(let i = 0; i < this.token.length; i++){
             let reg = this.token[i].regex;
+            let tot = 0;
             for (let key in str) {
                 let error = false;
+                
                 while(reg.test(str[key]) && error == false){
                     let stringOld = str[key];
 
@@ -35,9 +37,12 @@ class Delimitadores{
                         str[key] = stringOld;
                     }
                     else
-                        string.push(this.token[i].value);
-                }
-            }            
+                        tot ++;
+                }              
+            }    
+            if(tot > 0){
+                string.push('\n' + this.token[i].value + ' ' + tot + 'x' );
+            }                      
         }
         Analisador.conteudoStr = str;
         return string;        
