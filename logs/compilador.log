@@ -1886,3 +1886,273 @@ d]
 , 41x
 [2017-09-12 14:09:09.178] [INFO] compilador - Operadores: !=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,-,/,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>
 [2017-09-12 14:09:09.179] [INFO] compilador - Finalizando análise em 12 ms
+[2017-09-13 16:05:25.734] [INFO] compilador - Iniciando apligação 13/09/2017 16:05:25
+[2017-09-13 16:05:39.251] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:05:39.333] [INFO] compilador - Numeros: 
+[2017-09-13 16:05:39.349] [INFO] compilador - Decimais: 
+[2017-09-13 16:05:39.350] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:05:39.352] [INFO] compilador - Operadores: 
+[2017-09-13 16:05:39.353] [INFO] compilador - Finalizando análise em 102 ms
+[2017-09-13 16:05:44.363] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:05:44.407] [INFO] compilador - Numeros: 
+[2017-09-13 16:05:44.408] [INFO] compilador - Decimais: 
+[2017-09-13 16:05:44.408] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:05:44.409] [INFO] compilador - Operadores: 
+[2017-09-13 16:05:44.409] [INFO] compilador - Finalizando análise em 46 ms
+[2017-09-13 16:07:56.391] [INFO] compilador - Iniciando apligação 13/09/2017 16:07:56
+[2017-09-13 16:08:02.675] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:08:02.760] [INFO] compilador - Numeros: 
+[2017-09-13 16:08:02.763] [INFO] compilador - Decimais: 
+[2017-09-13 16:08:02.764] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:08:02.765] [INFO] compilador - Operadores: 
+[2017-09-13 16:08:02.768] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 16:08:02.768] [INFO] compilador - Finalizando análise em 93 ms
+[2017-09-13 16:08:07.211] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:08:07.240] [INFO] compilador - Numeros: 
+[2017-09-13 16:08:07.240] [INFO] compilador - Decimais: 
+[2017-09-13 16:08:07.241] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:08:07.241] [INFO] compilador - Operadores: 
+[2017-09-13 16:08:07.242] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 16:08:07.242] [INFO] compilador - Finalizando análise em 31 ms
+[2017-09-13 16:08:25.604] [INFO] compilador - Iniciando apligação 13/09/2017 16:08:25
+[2017-09-13 16:08:30.069] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:08:30.108] [INFO] compilador - Numeros: 
+[2017-09-13 16:08:30.110] [INFO] compilador - Decimais: 
+[2017-09-13 16:08:30.111] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:08:30.112] [INFO] compilador - Operadores: 
+[2017-09-13 16:08:30.113] [INFO] compilador - Palavras Reservadas: public
+[2017-09-13 16:08:30.113] [INFO] compilador - Finalizando análise em 44 ms
+[2017-09-13 16:08:32.804] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:08:32.831] [INFO] compilador - Numeros: 
+[2017-09-13 16:08:32.832] [INFO] compilador - Decimais: 
+[2017-09-13 16:08:32.833] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:08:32.834] [INFO] compilador - Operadores: 
+[2017-09-13 16:08:32.834] [INFO] compilador - Palavras Reservadas: public
+[2017-09-13 16:08:32.834] [INFO] compilador - Finalizando análise em 31 ms
+[2017-09-13 16:44:02.268] [INFO] compilador - Iniciando apligação 13/09/2017 16:44:02
+[2017-09-13 16:44:10.539] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:44:10.621] [INFO] compilador - Numeros: 
+[2017-09-13 16:44:10.631] [INFO] compilador - Decimais: 
+[2017-09-13 16:44:10.632] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:44:10.633] [INFO] compilador - Operadores: 
+[2017-09-13 16:44:10.634] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 16:44:10.634] [INFO] compilador - Finalizando análise em 96 ms
+[2017-09-13 16:44:11.010] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:44:11.041] [INFO] compilador - Numeros: 
+[2017-09-13 16:44:11.041] [INFO] compilador - Decimais: 
+[2017-09-13 16:44:11.042] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:44:11.042] [INFO] compilador - Operadores: 
+[2017-09-13 16:44:11.042] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 16:44:11.043] [INFO] compilador - Finalizando análise em 33 ms
+[2017-09-13 16:44:12.402] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:44:12.409] [INFO] compilador - Numeros: 
+[2017-09-13 16:44:12.410] [INFO] compilador - Decimais: 
+[2017-09-13 16:44:12.410] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:44:12.410] [INFO] compilador - Operadores: 
+[2017-09-13 16:44:12.411] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 16:44:12.411] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-13 16:44:41.497] [INFO] compilador - Iniciando apligação 13/09/2017 16:44:41
+[2017-09-13 16:44:44.611] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:44:44.619] [INFO] compilador - Numeros: 
+[2017-09-13 16:44:44.623] [INFO] compilador - Decimais: 
+[2017-09-13 16:44:44.624] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:44:44.626] [INFO] compilador - Operadores: 
+[2017-09-13 16:44:44.627] [INFO] compilador - Palavras Reservadas: public
+[2017-09-13 16:44:44.627] [INFO] compilador - Finalizando análise em 16 ms
+[2017-09-13 16:44:46.674] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:44:46.680] [INFO] compilador - Numeros: 
+[2017-09-13 16:44:46.681] [INFO] compilador - Decimais: 
+[2017-09-13 16:44:46.681] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:44:46.681] [INFO] compilador - Operadores: 
+[2017-09-13 16:44:46.682] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 16:44:46.682] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-13 16:44:55.746] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:44:55.756] [INFO] compilador - Numeros: 
+[2017-09-13 16:44:55.756] [INFO] compilador - Decimais: 
+[2017-09-13 16:44:55.756] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:44:55.757] [INFO] compilador - Operadores: 
+[2017-09-13 16:44:55.757] [INFO] compilador - Palavras Reservadas: public
+[2017-09-13 16:44:55.758] [INFO] compilador - Finalizando análise em 12 ms
+[2017-09-13 16:44:59.107] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:44:59.123] [INFO] compilador - Numeros: 3
+[2017-09-13 16:44:59.123] [INFO] compilador - Decimais: 
+[2017-09-13 16:44:59.124] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:44:59.124] [INFO] compilador - Operadores: 
+[2017-09-13 16:44:59.125] [INFO] compilador - Palavras Reservadas: public
+[2017-09-13 16:44:59.125] [INFO] compilador - Finalizando análise em 18 ms
+[2017-09-13 16:45:03.498] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:45:03.504] [INFO] compilador - Numeros: 
+[2017-09-13 16:45:03.505] [INFO] compilador - Decimais: 
+[2017-09-13 16:45:03.505] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:45:03.506] [INFO] compilador - Operadores: 
+[2017-09-13 16:45:03.506] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 16:45:03.507] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-13 16:45:28.778] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 16:45:28.784] [INFO] compilador - Numeros: 
+[2017-09-13 16:45:28.785] [INFO] compilador - Decimais: 
+[2017-09-13 16:45:28.786] [INFO] compilador - Delimitadores: 
+[2017-09-13 16:45:28.786] [INFO] compilador - Operadores: 
+[2017-09-13 16:45:28.787] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 16:45:28.787] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-13 17:02:01.327] [INFO] compilador - Iniciando apligação 13/09/2017 17:02:01
+[2017-09-13 17:02:05.239] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-13 17:02:05.246] [INFO] compilador - Numeros: 900,750,700,500,770,500
+[2017-09-13 17:02:05.246] [INFO] compilador - Decimais: 
+[2017-09-13 17:02:05.249] [INFO] compilador - Delimitadores: 
+( 46x,
+) 46x,
+; 25x,
+{ 20x,
+} 20x,
+' 46x,
+. 34x,
+, 41x
+[2017-09-13 17:02:05.251] [INFO] compilador - Operadores: !=,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,-,/,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>
+[2017-09-13 17:02:05.270] [INFO] compilador - Palavras Reservadas: true,true,true,true,true,true,true,true,true,true,false,false,false,false,new,new,new,if,if,if,if,if,null,null,null,null,null,null,null,null,null
+[2017-09-13 17:02:05.271] [INFO] compilador - Finalizando análise em 33 ms
+[2017-09-13 17:02:14.906] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\index.html
+[2017-09-13 17:02:14.938] [INFO] compilador - Numeros: 8,1,6,6,9,3,12,12,4,25,1,1,1,2,8,1,1,50,1,12,1,3,1,3,3,1,9,0,3,1,10,2,12,5,5,2,1,3,12,6,6,12,12,12
+[2017-09-13 17:02:14.938] [INFO] compilador - Decimais: 1.0
+[2017-09-13 17:02:14.941] [INFO] compilador - Delimitadores: 
+( 1x,
+) 1x,
+; 1x,
+" 362x,
+' 12x,
+. 13x,
+, 3x,
+// 1x
+[2017-09-13 17:02:14.945] [INFO] compilador - Operadores: --,--,:,:,:,?,+,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<,<
+[2017-09-13 17:02:14.949] [INFO] compilador - Palavras Reservadas: for,for,for,for,for,for,for,for,for,for,for,do,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class,class
+[2017-09-13 17:02:14.950] [INFO] compilador - Finalizando análise em 44 ms
+[2017-09-13 17:02:31.166] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\package.json
+[2017-09-13 17:02:31.218] [INFO] compilador - Numeros: 
+[2017-09-13 17:02:31.219] [INFO] compilador - Decimais: 1.0,1.6,0.0,3.2,0.0,4.17,1.0
+[2017-09-13 17:02:31.219] [INFO] compilador - Delimitadores: 
+[ 1x,
+] 1x,
+{ 4x,
+} 4x,
+" 74x,
+. 9x,
+, 18x
+[2017-09-13 17:02:31.221] [INFO] compilador - Operadores: :,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,-
+[2017-09-13 17:02:31.221] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 17:02:31.222] [INFO] compilador - Finalizando análise em 56 ms
+[2017-09-13 17:05:40.213] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\package.json
+[2017-09-13 17:05:40.268] [INFO] compilador - Numeros: 
+[2017-09-13 17:05:40.268] [INFO] compilador - Decimais: 1.0,1.6,0.0,3.2,0.0,4.17,1.0
+[2017-09-13 17:05:40.269] [INFO] compilador - Delimitadores: 
+[ 1x,
+] 1x,
+{ 4x,
+} 4x,
+" 74x,
+. 9x,
+, 18x
+[2017-09-13 17:05:40.270] [INFO] compilador - Operadores: :,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,-
+[2017-09-13 17:05:40.271] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 17:05:40.271] [INFO] compilador - Finalizando análise em 58 ms
+[2017-09-13 17:06:18.948] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\package.json
+[2017-09-13 17:06:18.999] [INFO] compilador - Numeros: 
+[2017-09-13 17:06:18.999] [INFO] compilador - Decimais: 
+[2017-09-13 17:06:19.000] [INFO] compilador - Delimitadores: 
+// 1x
+[2017-09-13 17:06:19.000] [INFO] compilador - Operadores: 
+[2017-09-13 17:06:19.001] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 17:06:19.001] [INFO] compilador - Finalizando análise em 53 ms
+[2017-09-13 17:06:42.699] [INFO] compilador - Iniciando apligação 13/09/2017 17:06:42
+[2017-09-13 17:07:35.662] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 17:07:35.699] [INFO] compilador - Numeros: 
+[2017-09-13 17:07:35.702] [INFO] compilador - Decimais: 
+[2017-09-13 17:07:35.703] [INFO] compilador - Delimitadores: 
+( 1x,
+) 1x,
+{ 1x,
+} 1x
+[2017-09-13 17:07:35.704] [INFO] compilador - Operadores: 
+[2017-09-13 17:07:35.706] [INFO] compilador - Palavras Reservadas: public
+[2017-09-13 17:07:35.706] [INFO] compilador - Finalizando análise em 44 ms
+[2017-09-13 17:07:45.430] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 17:07:45.460] [INFO] compilador - Numeros: 
+[2017-09-13 17:07:45.461] [INFO] compilador - Decimais: 
+[2017-09-13 17:07:45.461] [INFO] compilador - Delimitadores: 
+( 1x,
+) 1x,
+{ 1x,
+} 1x
+[2017-09-13 17:07:45.462] [INFO] compilador - Operadores: 
+[2017-09-13 17:07:45.462] [INFO] compilador - Palavras Reservadas: public,void,int
+[2017-09-13 17:07:45.463] [INFO] compilador - Finalizando análise em 33 ms
+[2017-09-13 17:07:53.845] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 17:07:53.876] [INFO] compilador - Numeros: 9
+[2017-09-13 17:07:53.877] [INFO] compilador - Decimais: 
+[2017-09-13 17:07:53.877] [INFO] compilador - Delimitadores: 
+( 1x,
+) 1x,
+{ 1x,
+} 1x
+[2017-09-13 17:07:53.878] [INFO] compilador - Operadores: 
+[2017-09-13 17:07:53.878] [INFO] compilador - Palavras Reservadas: public,void,int
+[2017-09-13 17:07:53.879] [INFO] compilador - Finalizando análise em 34 ms
+[2017-09-13 17:08:15.317] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 17:08:15.348] [INFO] compilador - Numeros: 9,1,2
+[2017-09-13 17:08:15.349] [INFO] compilador - Decimais: 
+[2017-09-13 17:08:15.349] [INFO] compilador - Delimitadores: 
+( 1x,
+) 1x,
+; 2x,
+{ 1x,
+} 1x
+[2017-09-13 17:08:15.350] [INFO] compilador - Operadores: =,=
+[2017-09-13 17:08:15.350] [INFO] compilador - Palavras Reservadas: public,void,int,int,int
+[2017-09-13 17:08:15.352] [INFO] compilador - Finalizando análise em 34 ms
+[2017-09-13 17:16:53.039] [INFO] compilador - Iniciando apligação 13/09/2017 17:16:52
+[2017-09-13 17:16:56.564] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 17:16:56.594] [INFO] compilador - Numeros: 
+[2017-09-13 17:16:56.597] [INFO] compilador - Decimais: 
+[2017-09-13 17:16:56.598] [INFO] compilador - Delimitadores: 
+[2017-09-13 17:16:56.599] [INFO] compilador - Operadores: 
+[2017-09-13 17:16:56.601] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 17:19:21.459] [INFO] compilador - Iniciando apligação 13/09/2017 17:19:21
+[2017-09-13 17:19:23.363] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 17:19:23.394] [INFO] compilador - Numeros: 
+[2017-09-13 17:19:23.397] [INFO] compilador - Decimais: 
+[2017-09-13 17:19:23.397] [INFO] compilador - Delimitadores: 
+[2017-09-13 17:19:23.399] [INFO] compilador - Operadores: 
+[2017-09-13 17:19:23.400] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 17:20:12.573] [INFO] compilador - Iniciando apligação 13/09/2017 17:20:12
+[2017-09-13 17:20:16.035] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 17:20:16.065] [INFO] compilador - Numeros: 
+[2017-09-13 17:20:16.068] [INFO] compilador - Decimais: 
+[2017-09-13 17:20:16.069] [INFO] compilador - Delimitadores: 
+[2017-09-13 17:20:16.070] [INFO] compilador - Operadores: 
+[2017-09-13 17:20:16.071] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 17:20:48.553] [INFO] compilador - Iniciando apligação 13/09/2017 17:20:48
+[2017-09-13 17:20:53.020] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 17:20:53.057] [INFO] compilador - Numeros: 
+[2017-09-13 17:20:53.062] [INFO] compilador - Decimais: 
+[2017-09-13 17:20:53.063] [INFO] compilador - Delimitadores: 
+[2017-09-13 17:20:53.064] [INFO] compilador - Operadores: 
+[2017-09-13 17:20:53.065] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 17:21:16.598] [INFO] compilador - Iniciando apligação 13/09/2017 17:21:16
+[2017-09-13 17:21:19.131] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 17:21:19.137] [INFO] compilador - Numeros: 321321312
+[2017-09-13 17:21:19.140] [INFO] compilador - Decimais: 
+[2017-09-13 17:21:19.141] [INFO] compilador - Delimitadores: 
+[2017-09-13 17:21:19.142] [INFO] compilador - Operadores: 
+[2017-09-13 17:21:19.144] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 17:21:19.145] [INFO] compilador - Finalizando análise em 13 ms
+[2017-09-13 17:21:24.082] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 17:21:24.089] [INFO] compilador - Numeros: 
+[2017-09-13 17:21:24.089] [INFO] compilador - Decimais: 
+[2017-09-13 17:21:24.090] [INFO] compilador - Delimitadores: 
+[2017-09-13 17:21:24.090] [INFO] compilador - Operadores: 
+[2017-09-13 17:21:24.090] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 17:21:29.427] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-13 17:21:29.433] [INFO] compilador - Numeros: 
+[2017-09-13 17:21:29.434] [INFO] compilador - Decimais: 
+[2017-09-13 17:21:29.434] [INFO] compilador - Delimitadores: 
+[2017-09-13 17:21:29.435] [INFO] compilador - Operadores: 
+[2017-09-13 17:21:29.435] [INFO] compilador - Palavras Reservadas: 
+[2017-09-13 17:21:29.436] [INFO] compilador - Finalizando análise em 9 ms

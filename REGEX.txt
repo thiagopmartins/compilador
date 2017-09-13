@@ -9,5 +9,7 @@
 
 OPERADORES: +-*/%= == != > < >= <= && || " *= /= += -= & | ++ -- ? :
 DELIMITADORES: ( ) ; [ ] { } " ' . , // /* */
-PALAVRAS RESERVADAS
+PALAVRAS RESERVADAS: public static void boolean private protected true false new for while do if else
+break continue final return int float char class extends implements package import abstract switch case double long
+default interface try catch this null rip throw super
 

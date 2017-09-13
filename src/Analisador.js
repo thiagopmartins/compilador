@@ -2,6 +2,8 @@ const Log = require('./Log.js');
 const Editor = require('./Editor.js');
 const Operadores = require('./Operadores.js');
 const Delimitadores = require('./Delimitadores.js');
+const PalavrasReservadas = require('./PalavrasReservadas.js');
+const ErroLexico = require('./ErroLexico.js');
 
 let logger;
 let str;
@@ -17,20 +19,28 @@ class Analisador{
         this.numeros;
         this.delimitadores;
         this.operadores;
+        this.palavrasReservadas;
+        this.erroLexico;
         
     }
     static set conteudoStr(valor){
         this.str = valor;
     }
+    get erroLexico(){
+        let string = ErroLexico.valores(str);  
+    }  
     get delimitadores(){
-        
         let string = Delimitadores.valores(str);
         logger.escreve = 'Delimitadores: ' + string ;
         console.log('Delimitadores: ' + string + '');        
+    }   
+    get palavrasReservadas(){  
+        let string = PalavrasReservadas.valores(str);
+        logger.escreve = 'Palavras Reservadas: ' + string + '';
+        console.log('Palavras Reservadas: ' + string + '');        
     }    
     get operadores(){
-        
-        let string = Operadores.valores(str).toString();
+        let string = Operadores.valores(str);
         logger.escreve = 'Operadores: ' + string + '';
         console.log('Operadores: ' + string + '');        
     }
