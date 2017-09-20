@@ -4,6 +4,7 @@ const Operadores = require('./Operadores.js');
 const Delimitadores = require('./Delimitadores.js');
 const PalavrasReservadas = require('./PalavrasReservadas.js');
 const ErroLexico = require('./ErroLexico.js');
+const Outros = require('./Outros.js');
 
 let logger;
 let str;
@@ -13,21 +14,25 @@ class Analisador{
         logger = new Log();
         let editor = new Editor();
         str = conteudo;
-        //this.comentarios;
-        //this.texto;
+        this.comentarios;
+        this.texto;
         str = str.split(/\s+/g);
+        this.erroLexico;
         this.numeros;
         this.delimitadores;
         this.operadores;
         this.palavrasReservadas;
-        this.erroLexico;
-        
+        this.outros;
     }
     static set conteudoStr(valor){
         this.str = valor;
     }
     get erroLexico(){
-        let string = ErroLexico.valores(str);  
+        let string = ErroLexico.valores(str);
+        if(string !== undefined){
+            logger.escreve = 'Erro: ' + string ;
+            throw new Error(string);
+        }
     }  
     get delimitadores(){
         let string = Delimitadores.valores(str);
@@ -44,14 +49,24 @@ class Analisador{
         logger.escreve = 'Operadores: ' + string + '';
         console.log('Operadores: ' + string + '');        
     }
+    get outros(){
+        let string = [];
+        for (var key in str) {
+            if(/\s+\w+/.test(str[key])){
+                string.push(str[key]);
+            }     
+        }
+        logger.escreve = 'Variaveis: ' + string + '';
+        console.log('Variaveis: ' + string + '');   
+    }    
     get texto(){
-        let reg = /^"([\w])+?"$/;
+        let reg = /["']\w+.*["']/;
         let string = [];
         while(reg.test(str)){ 
             let txt = reg.exec(str);
-           
-            str = str.replace(txt,'');
-            string.push(txt);
+            txt = txt.toString().split(/["']/);
+            str = str.replace(txt[1],'');
+            string.push(txt[1]);
         }
         logger.escreve = 'Textos: ' + string;
         console.log('Textos: ' + string);
@@ -82,16 +97,21 @@ class Analisador{
         console.log('Decimais: ' + decimais);     
     }    
     get comentarios(){
-        let reg = /\/{2}.*|\/\*[\s\w]+?\*\//;
+    let reg = /\/{2}.|\/\*[\s\w\-+*/.!@#$%¨&*();\.,\[\]}{}'"=<>]+\*\//;
         let string = [];
-        
-        while(reg.test(str)){       
+
+        while(reg.test(str)){   
             let txt = reg.exec(str);
             string.push(txt);
-            str = str.replace(txt,'');
+            console.log('TESTE' + txt);
+            if(/\/{2}/.test(str))
+                str = str.replace(txt,'//');
+            else
+                str = str.replace(txt,'/**/');
         }
-        logger.escreve = 'Comentarios: ' + string;
-        console.log('Comentarios: ' + string);
-    }    
+        
+        //logger.escreve = 'Comentarios: ' + string;
+        //console.log('Comentarios: ' + string);
+    }  
 }
 module.exports = Analisador;

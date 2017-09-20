@@ -48,20 +48,26 @@ $('#salva').onclick = (event) =>{
         fileName = file;
         conteudo = editor.conteudo;
         $('#salva').classList.add('disabled'); 
-        Materialize.toast('Arquivo salvo com sucesso!', 4000);
+        Materialize.toast('<span class="toast-sucess">Arquivo salvo com sucesso!', 4000);
         $('#nomeTexto').innerHTML = 'Arquivo: ' + fileName;
     });
 };    
 $('#analisa').onclick = () =>{
     if(fileName === undefined)
         fileName = 'Desconhecido';
-    let timeInicio = new Date().getTime();
-    logger.escreve = 'Iniciando análise léxica arquivo: ' + fileName;
-    let analise = new Analisador();
-    analise.analiseLexica(editor.conteudo);
-    let timeFinal = new Date().getTime();
-    logger.escreve = 'Finalizando análise em ' + (timeFinal - timeInicio) + ' ms';
-    Materialize.toast('Análise realizada.', 4000);         
+    try {
+        let timeInicio = new Date().getTime();
+        logger.escreve = 'Iniciando análise léxica arquivo: ' + fileName;
+        let analise = new Analisador();
+        analise.analiseLexica(editor.conteudo);
+        let timeFinal = new Date().getTime();
+        logger.escreve = 'Finalizando análise em ' + (timeFinal - timeInicio) + ' ms';
+        Materialize.toast('<span class="toast-sucess">Análise realizada.', 4000);       
+    } 
+    catch (error) {
+        Materialize.toast('<span class="toast-error">Análise finalizada com erro.</span>', 4000);  
+        throw new Error(error);
+    }            
 };    
 $('#limpa').onclick = () =>{
     editor.conteudo = "";

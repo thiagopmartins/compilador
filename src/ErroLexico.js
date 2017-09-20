@@ -8,7 +8,7 @@ class ErroLexico{
         return tokens;
     }
     static valores(str){
-        let string = [];
+        let string;
         for(let i = 0; i < this.token.length; i++){
             let reg = this.token[i].regex;
             let tot = 0;
@@ -24,13 +24,12 @@ class ErroLexico{
                         str[key] = stringOld;
                     }
                     else{
-                        throw new Error('Caracter ' + this.token[i].value + ' não permitido');
+                        string = 'Caracter ' + this.token[i].value + ' não permitido';
                     }
                 }              
             }                        
-        }
-        Analisador.conteudoStr = str;
-        return string;        
+        } 
+        return string;   
     }
 }
 module.exports = ErroLexico;

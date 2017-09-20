@@ -17,7 +17,7 @@ const tokens = [
     {regex: /([*/]{1})(\d*)/,value: '*/'}
 ];
 class Delimitadores{
-    static get token(){
+    static get token(){ 
         return tokens;
     }
     static valores(str){
@@ -37,12 +37,9 @@ class Delimitadores{
                         str[key] = stringOld;
                     }
                     else
-                        tot ++;
+                        string.push(this.token[i].value);                    
                 }              
-            }    
-            if(tot > 0){
-                string.push('\n' + this.token[i].value + ' ' + tot + 'x' );
-            }                      
+            }                   
         }
         Analisador.conteudoStr = str;
         return string;        

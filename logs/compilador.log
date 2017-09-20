@@ -1,0 +1,16 @@
+[2017-09-19 17:03:22.419] [INFO] compilador - Iniciando apligação 19/09/2017 17:03:18
+[2017-09-19 17:03:38.529] [INFO] compilador - Iniciando análise léxica arquivo: G:\Gerador-Electron-master\main.js
+[2017-09-19 17:03:38.542] [INFO] compilador - Numeros: 900,750,700,500,700,500,770,500
+[2017-09-19 17:03:38.545] [INFO] compilador - Decimais: 
+[2017-09-19 17:03:38.548] [INFO] compilador - Delimitadores: 
+( 56x,
+) 56x,
+; 30x,
+{ 25x,
+} 25x,
+' 56x,
+. 42x,
+, 55x
+[2017-09-19 17:03:38.550] [INFO] compilador - Operadores: !=,==,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,-,/,/,/,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>,>,>
+[2017-09-19 17:03:38.555] [INFO] compilador - Palavras Reservadas: null,null,null,null,new,true,true,null,if,if,if,null,if,null,new,true,false,false,true,true,true,null,if,null,new,true,false,false,true,true,true,null,if,null,new,true,false,false,true,true,true,null
+[2017-09-19 17:03:38.555] [INFO] compilador - Finalizando análise em 26 ms

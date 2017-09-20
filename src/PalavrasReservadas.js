@@ -53,10 +53,9 @@ class PalavrasReservadas{
     }
     static valores(str){
         let string = [];
-        for(let i = 0; i < this.token.length; i++){
-            let reg = this.token[i].regex;
-            let tot = 0;
-            for (let key in str) {
+        for (let key in str) {
+            for(let i = 0; i < this.token.length; i++){
+                let reg = this.token[i].regex;
                 let error = false;
                 
                 while(reg.test(str[key]) && error == false){
