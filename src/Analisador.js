@@ -51,8 +51,9 @@ class Analisador{
     }
     get outros(){
         let string = [];
+        str = str.toString().split(/\s+/g);
         for (var key in str) {
-            if(/\s+\w+/.test(str[key])){
+            if(/\w/.test(str[key])){
                 string.push(str[key]);
             }     
         }
@@ -72,8 +73,8 @@ class Analisador{
         console.log('Textos: ' + string);
     }
     get numeros(){
-        let reg = /\d+/;
-        let dec = /\d+\.\d+/;
+        let reg = /\W\d+/;
+        let dec = /\W\d+\.\d+/;
         let inteiros = [];
         let decimais = [];
         for (let key in str) {

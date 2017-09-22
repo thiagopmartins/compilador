@@ -14,3 +14,582 @@
 [2017-09-19 17:03:38.550] [INFO] compilador - Operadores: !=,==,==,==,==,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,-,-,/,/,/,/,/,/,/,/,/,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>,>,>,>,>,>
 [2017-09-19 17:03:38.555] [INFO] compilador - Palavras Reservadas: null,null,null,null,new,true,true,null,if,if,if,null,if,null,new,true,false,false,true,true,true,null,if,null,new,true,false,false,true,true,true,null,if,null,new,true,false,false,true,true,true,null
 [2017-09-19 17:03:38.555] [INFO] compilador - Finalizando análise em 26 ms
+[2017-09-22 15:38:21.994] [INFO] compilador - Iniciando apligação 22/09/2017 15:38:20
+[2017-09-22 15:38:24.661] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:38:24.667] [INFO] compilador - Textos: 
+[2017-09-22 15:38:24.681] [INFO] compilador - Erro: Caracter @ não permitido
+[2017-09-22 15:38:31.964] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:38:31.970] [INFO] compilador - Textos: 
+[2017-09-22 15:38:31.970] [INFO] compilador - Erro: Caracter @ não permitido
+[2017-09-22 15:38:34.908] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:38:34.914] [INFO] compilador - Textos: 
+[2017-09-22 15:38:34.914] [INFO] compilador - Numeros: 1321312
+[2017-09-22 15:38:34.915] [INFO] compilador - Decimais: 
+[2017-09-22 15:38:34.915] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:38:34.916] [INFO] compilador - Operadores: 
+[2017-09-22 15:38:34.917] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:38:34.917] [INFO] compilador - Variaveis: 
+[2017-09-22 15:38:34.917] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-22 15:39:06.500] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:39:06.507] [INFO] compilador - Textos: 
+[2017-09-22 15:39:06.508] [INFO] compilador - Numeros: 
+[2017-09-22 15:39:06.509] [INFO] compilador - Decimais: 
+[2017-09-22 15:39:06.510] [INFO] compilador - Delimitadores: (,),{,}
+[2017-09-22 15:39:06.512] [INFO] compilador - Operadores: 
+[2017-09-22 15:39:06.513] [INFO] compilador - Palavras Reservadas: public,int
+[2017-09-22 15:39:06.513] [INFO] compilador - Variaveis: 
+[2017-09-22 15:39:06.514] [INFO] compilador - Finalizando análise em 14 ms
+[2017-09-22 15:39:21.069] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:39:21.076] [INFO] compilador - Textos: 
+[2017-09-22 15:39:21.077] [INFO] compilador - Numeros: 
+[2017-09-22 15:39:21.077] [INFO] compilador - Decimais: 
+[2017-09-22 15:39:21.078] [INFO] compilador - Delimitadores: (,),{,}
+[2017-09-22 15:39:21.078] [INFO] compilador - Operadores: 
+[2017-09-22 15:39:21.079] [INFO] compilador - Palavras Reservadas: public,int
+[2017-09-22 15:39:21.079] [INFO] compilador - Variaveis: 
+[2017-09-22 15:39:21.080] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-22 15:39:24.975] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:39:24.983] [INFO] compilador - Textos: 
+[2017-09-22 15:39:24.983] [INFO] compilador - Numeros: 
+[2017-09-22 15:39:24.984] [INFO] compilador - Decimais: 
+[2017-09-22 15:39:24.986] [INFO] compilador - Delimitadores: (,),{,}
+[2017-09-22 15:39:24.986] [INFO] compilador - Operadores: 
+[2017-09-22 15:39:24.989] [INFO] compilador - Palavras Reservadas: public,int
+[2017-09-22 15:39:24.990] [INFO] compilador - Variaveis: 
+[2017-09-22 15:39:24.991] [INFO] compilador - Finalizando análise em 16 ms
+[2017-09-22 15:39:31.412] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:39:31.423] [INFO] compilador - Textos: aewqeqwewqeqw
+[2017-09-22 15:39:31.424] [INFO] compilador - Numeros: 
+[2017-09-22 15:39:31.424] [INFO] compilador - Decimais: 
+[2017-09-22 15:39:31.424] [INFO] compilador - Delimitadores: (,),{,},','
+[2017-09-22 15:39:31.425] [INFO] compilador - Operadores: 
+[2017-09-22 15:39:31.425] [INFO] compilador - Palavras Reservadas: public,int
+[2017-09-22 15:39:31.426] [INFO] compilador - Variaveis: 
+[2017-09-22 15:39:31.426] [INFO] compilador - Finalizando análise em 14 ms
+[2017-09-22 15:39:36.805] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:39:36.813] [INFO] compilador - Textos: 
+[2017-09-22 15:39:36.814] [INFO] compilador - Numeros: 
+[2017-09-22 15:39:36.814] [INFO] compilador - Decimais: 
+[2017-09-22 15:39:36.815] [INFO] compilador - Delimitadores: (,),{,}
+[2017-09-22 15:39:36.815] [INFO] compilador - Operadores: 
+[2017-09-22 15:39:36.815] [INFO] compilador - Palavras Reservadas: public,int
+[2017-09-22 15:39:36.816] [INFO] compilador - Variaveis: 
+[2017-09-22 15:39:36.816] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-22 15:39:53.076] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:39:53.083] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 15:39:53.083] [INFO] compilador - Numeros: 900,650
+[2017-09-22 15:39:53.084] [INFO] compilador - Decimais: 
+[2017-09-22 15:39:53.084] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 15:39:53.085] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 15:39:53.088] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 15:39:53.088] [INFO] compilador - Variaveis: path join __dirname ,mainWindow loadURL url format  ,path join __dirname ,mainWindow on    ,mainWindow maximize   , const,globalShortcut register    ,console log     ,app on    ,app on    , process platform,app quit   ,app on    , mainWindow
+[2017-09-22 15:39:53.089] [INFO] compilador - Finalizando análise em 12 ms
+[2017-09-22 15:40:01.868] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:40:01.876] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 15:40:01.876] [INFO] compilador - Numeros: 900,650
+[2017-09-22 15:40:01.877] [INFO] compilador - Decimais: 
+[2017-09-22 15:40:01.877] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 15:40:01.878] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 15:40:01.879] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 15:40:01.879] [INFO] compilador - Variaveis: path join __dirname ,mainWindow loadURL url format  ,path join __dirname ,mainWindow on    ,mainWindow maximize   , const,globalShortcut register    ,console log     ,app on    ,app on    , process platform,app quit   ,app on    , mainWindow
+[2017-09-22 15:40:01.879] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-22 15:40:05.052] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:40:05.060] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 15:40:05.061] [INFO] compilador - Numeros: 900,650
+[2017-09-22 15:40:05.061] [INFO] compilador - Decimais: 
+[2017-09-22 15:40:05.062] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 15:40:05.063] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 15:40:05.064] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 15:40:05.065] [INFO] compilador - Variaveis: path join __dirname ,mainWindow loadURL url format  ,path join __dirname ,mainWindow on    ,mainWindow maximize   , const,globalShortcut register    ,console log     ,app on    ,app on    , process platform,app quit   ,app on    , mainWindow
+[2017-09-22 15:40:05.065] [INFO] compilador - Finalizando análise em 13 ms
+[2017-09-22 15:40:14.556] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:40:14.564] [INFO] compilador - Textos: 
+[2017-09-22 15:40:14.564] [INFO] compilador - Numeros: 
+[2017-09-22 15:40:14.564] [INFO] compilador - Decimais: 
+[2017-09-22 15:40:14.565] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:40:14.566] [INFO] compilador - Operadores: 
+[2017-09-22 15:40:14.567] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:40:14.568] [INFO] compilador - Variaveis: 
+[2017-09-22 15:40:14.568] [INFO] compilador - Finalizando análise em 12 ms
+[2017-09-22 15:40:19.260] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:40:19.266] [INFO] compilador - Textos: 
+[2017-09-22 15:40:19.266] [INFO] compilador - Numeros: 
+[2017-09-22 15:40:19.267] [INFO] compilador - Decimais: 
+[2017-09-22 15:40:19.267] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:40:19.267] [INFO] compilador - Operadores: 
+[2017-09-22 15:40:19.267] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:40:19.268] [INFO] compilador - Variaveis: 
+[2017-09-22 15:40:19.268] [INFO] compilador - Finalizando análise em 8 ms
+[2017-09-22 15:40:38.842] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:40:38.848] [INFO] compilador - Textos: 
+[2017-09-22 15:40:38.849] [INFO] compilador - Numeros: 
+[2017-09-22 15:40:38.849] [INFO] compilador - Decimais: 
+[2017-09-22 15:40:38.849] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:40:38.850] [INFO] compilador - Operadores: 
+[2017-09-22 15:40:38.850] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:40:38.850] [INFO] compilador - Variaveis: 
+[2017-09-22 15:40:38.851] [INFO] compilador - Finalizando análise em 9 ms
+[2017-09-22 15:40:43.314] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:40:43.323] [INFO] compilador - Textos: 
+[2017-09-22 15:40:43.324] [INFO] compilador - Numeros: 
+[2017-09-22 15:40:43.324] [INFO] compilador - Decimais: 
+[2017-09-22 15:40:43.324] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:40:43.324] [INFO] compilador - Operadores: 
+[2017-09-22 15:40:43.324] [INFO] compilador - Palavras Reservadas: int
+[2017-09-22 15:40:43.325] [INFO] compilador - Variaveis: 
+[2017-09-22 15:40:43.325] [INFO] compilador - Finalizando análise em 11 ms
+[2017-09-22 15:41:08.218] [INFO] compilador - Iniciando apligação 22/09/2017 15:41:07
+[2017-09-22 15:41:10.987] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:41:10.997] [INFO] compilador - Textos: 
+[2017-09-22 15:41:10.998] [INFO] compilador - Numeros: 
+[2017-09-22 15:41:10.998] [INFO] compilador - Decimais: 
+[2017-09-22 15:41:10.999] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:41:11.000] [INFO] compilador - Operadores: 
+[2017-09-22 15:41:11.001] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:41:11.002] [INFO] compilador - Variaveis: 
+[2017-09-22 15:41:11.002] [INFO] compilador - Finalizando análise em 15 ms
+[2017-09-22 15:41:29.689] [INFO] compilador - Iniciando apligação 22/09/2017 15:41:29
+[2017-09-22 15:41:31.022] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:41:31.034] [INFO] compilador - Textos: 
+[2017-09-22 15:41:31.035] [INFO] compilador - Numeros: 
+[2017-09-22 15:41:31.035] [INFO] compilador - Decimais: 
+[2017-09-22 15:41:31.036] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:41:31.037] [INFO] compilador - Operadores: 
+[2017-09-22 15:41:31.038] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:41:31.039] [INFO] compilador - Variaveis: 
+[2017-09-22 15:41:31.039] [INFO] compilador - Finalizando análise em 17 ms
+[2017-09-22 15:41:38.998] [INFO] compilador - Iniciando apligação 22/09/2017 15:41:38
+[2017-09-22 15:41:40.579] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:41:40.590] [INFO] compilador - Textos: 
+[2017-09-22 15:41:40.591] [INFO] compilador - Numeros: 
+[2017-09-22 15:41:40.592] [INFO] compilador - Decimais: 
+[2017-09-22 15:41:40.592] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:41:40.593] [INFO] compilador - Operadores: 
+[2017-09-22 15:41:40.594] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:41:40.595] [INFO] compilador - Variaveis: 
+[2017-09-22 15:41:40.595] [INFO] compilador - Finalizando análise em 16 ms
+[2017-09-22 15:41:53.032] [INFO] compilador - Iniciando apligação 22/09/2017 15:41:52
+[2017-09-22 15:41:53.404] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:41:53.414] [INFO] compilador - Textos: 
+[2017-09-22 15:41:53.415] [INFO] compilador - Numeros: 
+[2017-09-22 15:41:53.415] [INFO] compilador - Decimais: 
+[2017-09-22 15:41:53.416] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:41:53.417] [INFO] compilador - Operadores: 
+[2017-09-22 15:41:53.418] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:41:53.419] [INFO] compilador - Variaveis: 
+[2017-09-22 15:41:53.419] [INFO] compilador - Finalizando análise em 15 ms
+[2017-09-22 15:42:06.923] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:42:08.147] [INFO] compilador - Textos: 
+[2017-09-22 15:42:08.148] [INFO] compilador - Numeros: 
+[2017-09-22 15:42:08.149] [INFO] compilador - Decimais: 
+[2017-09-22 15:42:08.149] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:42:08.152] [INFO] compilador - Operadores: 
+[2017-09-22 15:42:08.152] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:42:08.153] [INFO] compilador - Variaveis: 
+[2017-09-22 15:42:08.154] [INFO] compilador - Finalizando análise em 1231 ms
+[2017-09-22 15:42:21.307] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:42:21.315] [INFO] compilador - Textos: 
+[2017-09-22 15:42:21.315] [INFO] compilador - Numeros: 
+[2017-09-22 15:42:21.316] [INFO] compilador - Decimais: 
+[2017-09-22 15:42:21.316] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:42:21.316] [INFO] compilador - Operadores: :
+[2017-09-22 15:42:21.317] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:42:21.318] [INFO] compilador - Variaveis: 
+[2017-09-22 15:42:21.319] [INFO] compilador - Finalizando análise em 12 ms
+[2017-09-22 15:43:37.436] [INFO] compilador - Iniciando apligação 22/09/2017 15:43:37
+[2017-09-22 15:43:38.651] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:43:38.685] [INFO] compilador - Textos: 
+[2017-09-22 15:43:38.687] [INFO] compilador - Numeros: 
+[2017-09-22 15:43:38.688] [INFO] compilador - Decimais: 
+[2017-09-22 15:43:38.689] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:43:38.690] [INFO] compilador - Operadores: 
+[2017-09-22 15:43:38.691] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:43:38.692] [INFO] compilador - Variaveis: 
+[2017-09-22 15:43:38.692] [INFO] compilador - Finalizando análise em 41 ms
+[2017-09-22 15:43:48.783] [INFO] compilador - Iniciando apligação 22/09/2017 15:43:48
+[2017-09-22 15:43:50.003] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:43:50.011] [INFO] compilador - Textos: 
+[2017-09-22 15:43:50.014] [INFO] compilador - Numeros: 
+[2017-09-22 15:43:50.015] [INFO] compilador - Decimais: 
+[2017-09-22 15:43:50.016] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:43:50.017] [INFO] compilador - Operadores: 
+[2017-09-22 15:43:50.018] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:43:50.018] [INFO] compilador - Variaveis: 
+[2017-09-22 15:43:50.019] [INFO] compilador - Finalizando análise em 16 ms
+[2017-09-22 15:44:12.315] [INFO] compilador - Iniciando apligação 22/09/2017 15:44:12
+[2017-09-22 15:44:13.532] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:44:13.568] [INFO] compilador - Textos: 
+[2017-09-22 15:44:13.571] [INFO] compilador - Numeros: 
+[2017-09-22 15:44:13.572] [INFO] compilador - Decimais: 
+[2017-09-22 15:44:13.573] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:44:13.573] [INFO] compilador - Operadores: 
+[2017-09-22 15:44:13.574] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:44:13.576] [INFO] compilador - Variaveis: teste
+[2017-09-22 15:44:13.576] [INFO] compilador - Finalizando análise em 45 ms
+[2017-09-22 15:44:24.829] [INFO] compilador - Iniciando apligação 22/09/2017 15:44:24
+[2017-09-22 15:44:28.538] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:44:28.562] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 15:44:28.564] [INFO] compilador - Numeros: 900,650
+[2017-09-22 15:44:28.564] [INFO] compilador - Decimais: 
+[2017-09-22 15:44:28.566] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 15:44:28.568] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 15:44:28.586] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 15:44:28.586] [INFO] compilador - Variaveis: const, ,app ,BrowserWindow ,ipcMain ,globalShortcut, , ,require    ,const, ,require    ,const, ,require    ,const, ,require     ,let,mainWindow, ,  ,function,createWindow,  , ,mainWindow, , ,BrowserWindow  ,width , ,height , ,autoHideMenuBar ,  ,icon ,path join __dirname ,   ,   ,mainWindow loadURL url format  ,pathname ,path join __dirname ,    ,protocol ,   ,slashes , ,    ,mainWindow on    ,  ,  , ,mainWindow, ,  ,   ,mainWindow maximize   , const,ret, ,globalShortcut register    ,  ,  , ,console log     ,    , ,app on    ,createWindow  ,app on    ,  ,  , , , process platform,  ,   , ,app quit   , ,   ,app on    ,  ,  , , , mainWindow,  ,  , ,createWindow   , ,   
+[2017-09-22 15:44:28.587] [INFO] compilador - Finalizando análise em 50 ms
+[2017-09-22 15:45:20.525] [INFO] compilador - Iniciando apligação 22/09/2017 15:45:20
+[2017-09-22 15:45:23.689] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:45:23.740] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 15:45:23.742] [INFO] compilador - Numeros: 900,650
+[2017-09-22 15:45:23.743] [INFO] compilador - Decimais: 
+[2017-09-22 15:45:23.747] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 15:45:23.749] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 15:45:23.753] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 15:45:23.754] [INFO] compilador - Variaveis: const,,,app,,BrowserWindow,,ipcMain,,globalShortcut,,,,,require,,const,,,require,,const,,,require,,const,,,require,,let,mainWindow,,,,,function,createWindow,,,,,mainWindow,,,,,BrowserWindow,,width,,,,height,,,,autoHideMenuBar,,,,icon,,path,join,__dirname,,,,,,mainWindow,loadURL,url,format,,pathname,,path,join,__dirname,,,,protocol,,,,slashes,,,,,,mainWindow,on,,,,,,,,mainWindow,,,,,,,mainWindow,maximize,,,const,ret,,,globalShortcut,register,,,,,,,,console,log,,,,,,app,on,,createWindow,,app,on,,,,,,,,,,,process,platform,,,,,,,app,quit,,,,,,app,on,,,,,,,,,,,mainWindow,,,,,,,createWindow,,,,,
+[2017-09-22 15:45:23.754] [INFO] compilador - Finalizando análise em 65 ms
+[2017-09-22 15:46:01.177] [INFO] compilador - Iniciando apligação 22/09/2017 15:46:01
+[2017-09-22 15:46:04.442] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:46:04.506] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 15:46:04.507] [INFO] compilador - Numeros: 900,650
+[2017-09-22 15:46:04.507] [INFO] compilador - Decimais: 
+[2017-09-22 15:46:04.509] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 15:46:04.510] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 15:46:04.514] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 15:46:04.515] [INFO] compilador - Variaveis: const,,,app,,BrowserWindow,,ipcMain,,globalShortcut,,,,,require,,const,,,require,,const,,,require,,const,,,require,,let,mainWindow,,,,,function,createWindow,,,,,mainWindow,,,,,BrowserWindow,,width,,,,height,,,,autoHideMenuBar,,,,icon,,path,join,__dirname,,,,,,mainWindow,loadURL,url,format,,pathname,,path,join,__dirname,,,,protocol,,,,slashes,,,,,,mainWindow,on,,,,,,,,mainWindow,,,,,,,mainWindow,maximize,,,const,ret,,,globalShortcut,register,,,,,,,,console,log,,,,,,app,on,,createWindow,,app,on,,,,,,,,,,,process,platform,,,,,,,app,quit,,,,,,app,on,,,,,,,,,,,mainWindow,,,,,,,createWindow,,,,
+[2017-09-22 15:46:04.515] [INFO] compilador - Finalizando análise em 73 ms
+[2017-09-22 15:46:25.399] [INFO] compilador - Iniciando apligação 22/09/2017 15:46:25
+[2017-09-22 15:46:28.073] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:46:28.098] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 15:46:28.099] [INFO] compilador - Numeros: 900,650
+[2017-09-22 15:46:28.099] [INFO] compilador - Decimais: 
+[2017-09-22 15:46:28.100] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 15:46:28.102] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 15:46:28.105] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 15:46:28.105] [INFO] compilador - Variaveis: const,,,app,,BrowserWindow,,ipcMain,,globalShortcut,,,,,require,,const,,,require,,const,,,require,,const,,,require,,let,mainWindow,,,,,function,createWindow,,,,,mainWindow,,,,,BrowserWindow,,width,,,,height,,,,autoHideMenuBar,,,,icon,,path,join,__dirname,,,,,,mainWindow,loadURL,url,format,,pathname,,path,join,__dirname,,,,protocol,,,,slashes,,,,,,mainWindow,on,,,,,,,,mainWindow,,,,,,,mainWindow,maximize,,,const,ret,,,globalShortcut,register,,,,,,,,console,log,,,,,,app,on,,createWindow,,app,on,,,,,,,,,,,process,platform,,,,,,,app,quit,,,,,,app,on,,,,,,,,,,,mainWindow,,,,,,,createWindow,,,,
+[2017-09-22 15:46:28.106] [INFO] compilador - Finalizando análise em 33 ms
+[2017-09-22 15:46:40.291] [INFO] compilador - Iniciando apligação 22/09/2017 15:46:40
+[2017-09-22 15:46:40.945] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:46:40.972] [INFO] compilador - Textos: 
+[2017-09-22 15:46:40.974] [INFO] compilador - Numeros: 
+[2017-09-22 15:46:40.975] [INFO] compilador - Decimais: 
+[2017-09-22 15:46:40.976] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:46:40.978] [INFO] compilador - Operadores: 
+[2017-09-22 15:46:40.979] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:46:40.980] [INFO] compilador - Variaveis: 
+[2017-09-22 15:46:40.980] [INFO] compilador - Finalizando análise em 35 ms
+[2017-09-22 15:46:44.921] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:46:44.934] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 15:46:44.935] [INFO] compilador - Numeros: 900,650
+[2017-09-22 15:46:44.935] [INFO] compilador - Decimais: 
+[2017-09-22 15:46:44.936] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 15:46:44.937] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 15:46:44.939] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 15:46:44.940] [INFO] compilador - Variaveis: const,,,app,,BrowserWindow,,ipcMain,,globalShortcut,,,,,require,,const,,,require,,const,,,require,,const,,,require,,let,mainWindow,,,,,function,createWindow,,,,,mainWindow,,,,,BrowserWindow,,width,,,,height,,,,autoHideMenuBar,,,,icon,,path,join,__dirname,,,,,,mainWindow,loadURL,url,format,,pathname,,path,join,__dirname,,,,protocol,,,,slashes,,,,,,mainWindow,on,,,,,,,,mainWindow,,,,,,,mainWindow,maximize,,,const,ret,,,globalShortcut,register,,,,,,,,console,log,,,,,,app,on,,createWindow,,app,on,,,,,,,,,,,process,platform,,,,,,,app,quit,,,,,,app,on,,,,,,,,,,,mainWindow,,,,,,,createWindow,,,,,
+[2017-09-22 15:46:44.940] [INFO] compilador - Finalizando análise em 19 ms
+[2017-09-22 15:46:57.155] [INFO] compilador - Iniciando apligação 22/09/2017 15:46:57
+[2017-09-22 15:46:57.730] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:46:57.761] [INFO] compilador - Textos: 
+[2017-09-22 15:46:57.766] [INFO] compilador - Numeros: 
+[2017-09-22 15:46:57.767] [INFO] compilador - Decimais: 
+[2017-09-22 15:46:57.768] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:46:57.769] [INFO] compilador - Operadores: 
+[2017-09-22 15:46:57.771] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:46:57.771] [INFO] compilador - Variaveis: 
+[2017-09-22 15:46:57.772] [INFO] compilador - Finalizando análise em 42 ms
+[2017-09-22 15:47:01.153] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:47:01.165] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 15:47:01.166] [INFO] compilador - Numeros: 900,650
+[2017-09-22 15:47:01.166] [INFO] compilador - Decimais: 
+[2017-09-22 15:47:01.167] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 15:47:01.168] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 15:47:01.170] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 15:47:01.171] [INFO] compilador - Variaveis: 
+[2017-09-22 15:47:01.171] [INFO] compilador - Finalizando análise em 18 ms
+[2017-09-22 15:57:02.706] [INFO] compilador - Iniciando apligação 22/09/2017 15:57:02
+[2017-09-22 15:57:05.595] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:57:05.710] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 15:57:05.712] [INFO] compilador - Numeros: 900,650
+[2017-09-22 15:57:05.715] [INFO] compilador - Decimais: 
+[2017-09-22 15:57:05.717] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 15:57:05.720] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 15:57:05.723] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 15:57:05.724] [INFO] compilador - Variaveis: const,,,app,,BrowserWindow,,ipcMain,,globalShortcut,,,,,require,,const,,,require,,const,,,require,,const,,,require,,let,mainWindow,,,,,function,createWindow,,,,,mainWindow,,,,,BrowserWindow,,width,,,,height,,,,autoHideMenuBar,,,,icon,,path,join,__dirname,,,,,,mainWindow,loadURL,url,format,,pathname,,path,join,__dirname,,,,protocol,,,,slashes,,,,,,mainWindow,on,,,,,,,,mainWindow,,,,,,,mainWindow,maximize,,,const,ret,,,globalShortcut,register,,,,,,,,console,log,,,,,,app,on,,createWindow,,app,on,,,,,,,,,,,process,platform,,,,,,,app,quit,,,,,,app,on,,,,,,,,,,,mainWindow,,,,,,,createWindow,,,,,
+[2017-09-22 15:57:05.724] [INFO] compilador - Finalizando análise em 130 ms
+[2017-09-22 15:58:15.704] [INFO] compilador - Iniciando apligação 22/09/2017 15:58:15
+[2017-09-22 15:58:16.621] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:58:16.675] [INFO] compilador - Textos: 
+[2017-09-22 15:58:16.679] [INFO] compilador - Numeros: 
+[2017-09-22 15:58:16.680] [INFO] compilador - Decimais: 
+[2017-09-22 15:58:16.681] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:58:16.682] [INFO] compilador - Operadores: 
+[2017-09-22 15:58:16.683] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:58:16.684] [INFO] compilador - Variaveis: 
+[2017-09-22 15:58:16.684] [INFO] compilador - Finalizando análise em 63 ms
+[2017-09-22 15:58:42.053] [INFO] compilador - Iniciando apligação 22/09/2017 15:58:41
+[2017-09-22 15:58:43.894] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:58:43.906] [INFO] compilador - Textos: 
+[2017-09-22 15:58:43.909] [INFO] compilador - Numeros: 
+[2017-09-22 15:58:43.909] [INFO] compilador - Decimais: 
+[2017-09-22 15:58:43.910] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:58:43.912] [INFO] compilador - Operadores: 
+[2017-09-22 15:58:43.913] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:58:43.914] [INFO] compilador - Variaveis: teste
+[2017-09-22 15:58:43.914] [INFO] compilador - Finalizando análise em 20 ms
+[2017-09-22 15:58:49.510] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:58:49.520] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 15:58:49.521] [INFO] compilador - Numeros: 900,650
+[2017-09-22 15:58:49.522] [INFO] compilador - Decimais: 
+[2017-09-22 15:58:49.523] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 15:58:49.524] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 15:58:49.526] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 15:58:49.527] [INFO] compilador - Variaveis: const,,,app,,BrowserWindow,,ipcMain,,globalShortcut,,,require,,const,,,require,,const,,,require,,const,,,require,,let,mainWindow,,,function,createWindow,,,mainWindow,,,BrowserWindow,,width,,height,,autoHideMenuBar,,icon,,path,join,__dirname,,mainWindow,loadURL,url,format,,pathname,,path,join,__dirname,,protocol,,slashes,,mainWindow,on,,mainWindow,,,mainWindow,maximize,const,ret,,,globalShortcut,register,,console,log,,app,on,,createWindow,,app,on,process,platform,,,app,quit,,app,on,mainWindow,,,createWindow
+[2017-09-22 15:58:49.527] [INFO] compilador - Finalizando análise em 18 ms
+[2017-09-22 15:59:04.637] [INFO] compilador - Iniciando apligação 22/09/2017 15:59:04
+[2017-09-22 15:59:05.790] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 15:59:05.804] [INFO] compilador - Textos: 
+[2017-09-22 15:59:05.807] [INFO] compilador - Numeros: 
+[2017-09-22 15:59:05.808] [INFO] compilador - Decimais: 
+[2017-09-22 15:59:05.808] [INFO] compilador - Delimitadores: 
+[2017-09-22 15:59:05.809] [INFO] compilador - Operadores: 
+[2017-09-22 15:59:05.811] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 15:59:05.812] [INFO] compilador - Variaveis: teste
+[2017-09-22 15:59:05.813] [INFO] compilador - Finalizando análise em 23 ms
+[2017-09-22 15:59:09.847] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:59:09.858] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 15:59:09.859] [INFO] compilador - Numeros: 900,650
+[2017-09-22 15:59:09.859] [INFO] compilador - Decimais: 
+[2017-09-22 15:59:09.861] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 15:59:09.862] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 15:59:09.864] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 15:59:09.865] [INFO] compilador - Variaveis: const,,,app,,BrowserWindow,,ipcMain,,globalShortcut,,,require,,const,,,require,,const,,,require,,const,,,require,,let,mainWindow,,,function,createWindow,,,mainWindow,,,BrowserWindow,,width,,height,,autoHideMenuBar,,icon,,path,join,__dirname,,mainWindow,loadURL,url,format,,pathname,,path,join,__dirname,,protocol,,slashes,,mainWindow,on,,mainWindow,,,mainWindow,maximize,const,ret,,,globalShortcut,register,,console,log,,app,on,,createWindow,,app,on,process,platform,,,app,quit,,app,on,mainWindow,,,createWindow
+[2017-09-22 15:59:09.865] [INFO] compilador - Finalizando análise em 18 ms
+[2017-09-22 15:59:19.982] [INFO] compilador - Iniciando apligação 22/09/2017 15:59:19
+[2017-09-22 15:59:24.070] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 15:59:24.103] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 15:59:24.104] [INFO] compilador - Numeros: 900,650
+[2017-09-22 15:59:24.105] [INFO] compilador - Decimais: 
+[2017-09-22 15:59:24.106] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 15:59:24.108] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 15:59:24.116] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 15:59:24.118] [INFO] compilador - Variaveis: const,,,app,,BrowserWindow,,ipcMain,,globalShortcut,,,require,,const,,,require,,const,,,require,,const,,,require,,let,mainWindow,,,function,createWindow,,,mainWindow,,,BrowserWindow,,width,,height,,autoHideMenuBar,,icon,,path,join,__dirname,,mainWindow,loadURL,url,format,,pathname,,path,join,__dirname,,protocol,,slashes,,mainWindow,on,,mainWindow,,,mainWindow,maximize,const,ret,,,globalShortcut,register,,console,log,,app,on,,createWindow,,app,on,process,platform,,,app,quit,,app,on,mainWindow,,,createWindow
+[2017-09-22 15:59:24.119] [INFO] compilador - Finalizando análise em 48 ms
+[2017-09-22 16:00:15.796] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:00:15.843] [INFO] compilador - Textos: 
+[2017-09-22 16:00:15.844] [INFO] compilador - Numeros: 3123213213
+[2017-09-22 16:00:15.844] [INFO] compilador - Decimais: 
+[2017-09-22 16:00:15.845] [INFO] compilador - Delimitadores: (,),{,}
+[2017-09-22 16:00:15.845] [INFO] compilador - Operadores: 
+[2017-09-22 16:00:15.845] [INFO] compilador - Palavras Reservadas: public
+[2017-09-22 16:00:15.846] [INFO] compilador - Variaveis: ,,a,
+[2017-09-22 16:00:15.846] [INFO] compilador - Finalizando análise em 50 ms
+[2017-09-22 16:00:44.029] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:00:44.069] [INFO] compilador - Textos: 
+[2017-09-22 16:00:44.070] [INFO] compilador - Numeros: 
+[2017-09-22 16:00:44.070] [INFO] compilador - Decimais: 
+[2017-09-22 16:00:44.071] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:00:44.072] [INFO] compilador - Operadores: 
+[2017-09-22 16:00:44.072] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:00:44.073] [INFO] compilador - Variaveis: 
+[2017-09-22 16:00:44.080] [INFO] compilador - Finalizando análise em 51 ms
+[2017-09-22 16:00:46.845] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:00:46.856] [INFO] compilador - Textos: 
+[2017-09-22 16:00:46.857] [INFO] compilador - Numeros: 
+[2017-09-22 16:00:46.857] [INFO] compilador - Decimais: 
+[2017-09-22 16:00:46.857] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:00:46.858] [INFO] compilador - Operadores: 
+[2017-09-22 16:00:46.859] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:00:46.859] [INFO] compilador - Variaveis: 
+[2017-09-22 16:00:46.859] [INFO] compilador - Finalizando análise em 14 ms
+[2017-09-22 16:00:50.237] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:00:50.249] [INFO] compilador - Textos: 
+[2017-09-22 16:00:50.249] [INFO] compilador - Numeros: 
+[2017-09-22 16:00:50.249] [INFO] compilador - Decimais: 
+[2017-09-22 16:00:50.250] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:00:50.250] [INFO] compilador - Operadores: 
+[2017-09-22 16:00:50.250] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:00:50.250] [INFO] compilador - Variaveis: ,e
+[2017-09-22 16:00:50.251] [INFO] compilador - Finalizando análise em 14 ms
+[2017-09-22 16:00:54.380] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:00:54.391] [INFO] compilador - Textos: 
+[2017-09-22 16:00:54.392] [INFO] compilador - Numeros: 
+[2017-09-22 16:00:54.392] [INFO] compilador - Decimais: 
+[2017-09-22 16:00:54.393] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:00:54.394] [INFO] compilador - Operadores: 
+[2017-09-22 16:00:54.394] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:00:54.395] [INFO] compilador - Variaveis: ,e,
+[2017-09-22 16:00:54.395] [INFO] compilador - Finalizando análise em 15 ms
+[2017-09-22 16:01:21.620] [INFO] compilador - Iniciando apligação 22/09/2017 16:01:21
+[2017-09-22 16:01:23.310] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 16:01:23.366] [INFO] compilador - Textos: 
+[2017-09-22 16:01:23.369] [INFO] compilador - Numeros: 
+[2017-09-22 16:01:23.369] [INFO] compilador - Decimais: 
+[2017-09-22 16:01:23.370] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:01:23.371] [INFO] compilador - Operadores: 
+[2017-09-22 16:01:23.372] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:02:18.989] [INFO] compilador - Iniciando apligação 22/09/2017 16:02:18
+[2017-09-22 16:02:20.277] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 16:02:20.318] [INFO] compilador - Textos: 
+[2017-09-22 16:02:20.321] [INFO] compilador - Numeros: 
+[2017-09-22 16:02:20.321] [INFO] compilador - Decimais: 
+[2017-09-22 16:02:20.322] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:02:20.324] [INFO] compilador - Operadores: 
+[2017-09-22 16:02:20.326] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:02:36.991] [INFO] compilador - Iniciando apligação 22/09/2017 16:02:36
+[2017-09-22 16:02:41.301] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 16:02:41.313] [INFO] compilador - Textos: 
+[2017-09-22 16:02:41.316] [INFO] compilador - Numeros: 
+[2017-09-22 16:02:41.317] [INFO] compilador - Decimais: 
+[2017-09-22 16:02:41.317] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:02:41.318] [INFO] compilador - Operadores: 
+[2017-09-22 16:02:41.319] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:02:41.320] [INFO] compilador - Variaveis: ewqweqwewq
+[2017-09-22 16:02:41.320] [INFO] compilador - Finalizando análise em 19 ms
+[2017-09-22 16:02:46.342] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 16:02:46.352] [INFO] compilador - Textos: 
+[2017-09-22 16:02:46.353] [INFO] compilador - Numeros: 
+[2017-09-22 16:02:46.353] [INFO] compilador - Decimais: 
+[2017-09-22 16:02:46.354] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:02:46.354] [INFO] compilador - Operadores: 
+[2017-09-22 16:02:46.355] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:02:46.356] [INFO] compilador - Variaveis: ewqweqwewq,ewqeq
+[2017-09-22 16:02:46.357] [INFO] compilador - Finalizando análise em 15 ms
+[2017-09-22 16:03:16.319] [INFO] compilador - Iniciando apligação 22/09/2017 16:03:16
+[2017-09-22 16:03:18.668] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:03:18.681] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 16:03:18.682] [INFO] compilador - Numeros: 900,650
+[2017-09-22 16:03:18.682] [INFO] compilador - Decimais: 
+[2017-09-22 16:03:18.684] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 16:03:18.685] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 16:03:18.689] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 16:03:18.690] [INFO] compilador - Variaveis: const,,,app,,BrowserWindow,,ipcMain,,globalShortcut,,,require,,const,,,require,,const,,,require,,const,,,require,,let,mainWindow,,,function,createWindow,,,mainWindow,,,BrowserWindow,,width,,height,,autoHideMenuBar,,icon,,path,join,__dirname,,mainWindow,loadURL,url,format,,pathname,,path,join,__dirname,,protocol,,slashes,,mainWindow,on,,mainWindow,,,mainWindow,maximize,const,ret,,,globalShortcut,register,,console,log,,app,on,,createWindow,,app,on,process,platform,,,app,quit,,app,on,mainWindow,,,createWindow
+[2017-09-22 16:03:18.690] [INFO] compilador - Finalizando análise em 22 ms
+[2017-09-22 16:03:45.470] [INFO] compilador - Iniciando apligação 22/09/2017 16:03:45
+[2017-09-22 16:03:48.052] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:03:48.069] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 16:03:48.071] [INFO] compilador - Numeros: 900,650
+[2017-09-22 16:03:48.072] [INFO] compilador - Decimais: 
+[2017-09-22 16:03:48.074] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 16:03:48.076] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 16:03:48.080] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 16:03:48.081] [INFO] compilador - Variaveis: const,,,app,,BrowserWindow,,ipcMain,,globalShortcut,,,require,,const,,,require,,const,,,require,,const,,,require,,let,mainWindow,,,function,createWindow,,,mainWindow,,,BrowserWindow,,width,,height,,autoHideMenuBar,,icon,,path,join,__dirname,,mainWindow,loadURL,url,format,,pathname,,path,join,__dirname,,protocol,,slashes,,mainWindow,on,,mainWindow,,,mainWindow,maximize,const,ret,,,globalShortcut,register,,console,log,,app,on,,createWindow,,app,on,process,platform,,,app,quit,,app,on,mainWindow,,,createWindow
+[2017-09-22 16:03:48.082] [INFO] compilador - Finalizando análise em 30 ms
+[2017-09-22 16:04:02.051] [INFO] compilador - Iniciando apligação 22/09/2017 16:04:02
+[2017-09-22 16:04:02.563] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 16:04:02.578] [INFO] compilador - Textos: 
+[2017-09-22 16:04:02.581] [INFO] compilador - Numeros: 
+[2017-09-22 16:04:02.582] [INFO] compilador - Decimais: 
+[2017-09-22 16:04:02.583] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:04:02.584] [INFO] compilador - Operadores: 
+[2017-09-22 16:04:02.585] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:04:02.586] [INFO] compilador - Variaveis: 
+[2017-09-22 16:04:02.587] [INFO] compilador - Finalizando análise em 24 ms
+[2017-09-22 16:04:06.467] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:04:06.480] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 16:04:06.481] [INFO] compilador - Numeros: 900,650
+[2017-09-22 16:04:06.481] [INFO] compilador - Decimais: 
+[2017-09-22 16:04:06.482] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 16:04:06.483] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 16:04:06.486] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 16:04:06.487] [INFO] compilador - Variaveis: const,,,app,,BrowserWindow,,ipcMain,,globalShortcut,,,require,,const,,,require,,const,,,require,,const,,,require,,let,mainWindow,,,function,createWindow,,,mainWindow,,,BrowserWindow,,width,,height,,autoHideMenuBar,,icon,,path,join,__dirname,,mainWindow,loadURL,url,format,,pathname,,path,join,__dirname,,protocol,,slashes,,mainWindow,on,,mainWindow,,,mainWindow,maximize,const,ret,,,globalShortcut,register,,console,log,,app,on,,createWindow,,app,on,process,platform,,,app,quit,,app,on,mainWindow,,,createWindow
+[2017-09-22 16:04:06.487] [INFO] compilador - Finalizando análise em 20 ms
+[2017-09-22 16:04:40.857] [INFO] compilador - Iniciando apligação 22/09/2017 16:04:40
+[2017-09-22 16:04:44.306] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:04:44.412] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 16:04:44.414] [INFO] compilador - Numeros: 900,650
+[2017-09-22 16:04:44.415] [INFO] compilador - Decimais: 
+[2017-09-22 16:04:44.416] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 16:04:44.422] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 16:04:44.432] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 16:04:44.434] [INFO] compilador - Variaveis: const,,,app,,BrowserWindow,,ipcMain,,globalShortcut,,,require,,const,,,require,,const,,,require,,const,,,require,,let,mainWindow,,,function,createWindow,,,mainWindow,,,BrowserWindow,,width,,height,,autoHideMenuBar,,icon,,path,join,__dirname,,mainWindow,loadURL,url,format,,pathname,,path,join,__dirname,,protocol,,slashes,,mainWindow,on,,mainWindow,,,mainWindow,maximize,const,ret,,,globalShortcut,register,,console,log,,app,on,,createWindow,,app,on,process,platform,,,app,quit,,app,on,mainWindow,,,createWindow
+[2017-09-22 16:04:44.434] [INFO] compilador - Finalizando análise em 128 ms
+[2017-09-22 16:05:41.763] [INFO] compilador - Iniciando apligação 22/09/2017 16:05:41
+[2017-09-22 16:05:44.795] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\package.json
+[2017-09-22 16:05:44.847] [INFO] compilador - Textos: name,compilador,version,1.0.0,description,Compilador,main,main.js,scripts,start,electron .,repository,keywords,Electron,quick,start,tutorial,demo,author,Thiago Martins,license,devDependencies,electron,dependencies,ace-builds,hammer,0.0.5,jquery,jsonfile-promised,0.0.1,lodash,log4js,materialize
+[2017-09-22 16:05:44.848] [INFO] compilador - Numeros: 
+[2017-09-22 16:05:44.848] [INFO] compilador - Decimais: 1.6,1.2,3.2,4.17,2.3,1.0
+[2017-09-22 16:05:44.850] [INFO] compilador - Delimitadores: [,],{,{,{,{,},},},},",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",",.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2017-09-22 16:05:44.853] [INFO] compilador - Operadores: :,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+[2017-09-22 16:05:44.856] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:05:44.857] [INFO] compilador - Variaveis: 2,8,1,4,3,0
+[2017-09-22 16:05:44.857] [INFO] compilador - Finalizando análise em 62 ms
+[2017-09-22 16:06:06.947] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:06:06.961] [INFO] compilador - Textos: electron,path,path,url,url,fs,fs,img/logo.png,index.html,file:,closed,CommandOrControl+x,Função de salvar,ready,window-all-closed,darwin,activate
+[2017-09-22 16:06:06.962] [INFO] compilador - Numeros: 900,650
+[2017-09-22 16:06:06.962] [INFO] compilador - Decimais: 
+[2017-09-22 16:06:06.963] [INFO] compilador - Delimitadores: (,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,(,),),),),),),),),),),),),),),),),),),),),),),),),),;,;,;,;,;,;,;,;,;,;,;,;,;,;,{,{,{,{,{,{,{,{,{,{,},},},},},},},},},},',',',',',',',',',',',',',',',',',',',',',',',',',',',',.,.,.,.,.,.,.,.,.,.,.,.,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/*,*/
+[2017-09-22 16:06:06.963] [INFO] compilador - Operadores: !=,==,:,:,:,:,:,:,:,=,=,=,=,=,=,=,=,=,=,=,=,=,=,>,>,>,>
+[2017-09-22 16:06:06.964] [INFO] compilador - Palavras Reservadas: null,new,true,true,null,if,if,null
+[2017-09-22 16:06:06.965] [INFO] compilador - Variaveis: const,,,app,,BrowserWindow,,ipcMain,,globalShortcut,,,require,,const,,,require,,const,,,require,,const,,,require,,let,mainWindow,,,function,createWindow,,,mainWindow,,,BrowserWindow,,width,,height,,autoHideMenuBar,,icon,,path,join,__dirname,,mainWindow,loadURL,url,format,,pathname,,path,join,__dirname,,protocol,,slashes,,mainWindow,on,,mainWindow,,,mainWindow,maximize,const,ret,,,globalShortcut,register,,console,log,,app,on,,createWindow,,app,on,process,platform,,,app,quit,,app,on,mainWindow,,,createWindow
+[2017-09-22 16:06:06.965] [INFO] compilador - Finalizando análise em 18 ms
+[2017-09-22 16:06:25.298] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:06:25.313] [INFO] compilador - Textos: 
+[2017-09-22 16:06:25.313] [INFO] compilador - Numeros: 
+[2017-09-22 16:06:25.313] [INFO] compilador - Decimais: 1.20
+[2017-09-22 16:06:25.314] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:06:25.314] [INFO] compilador - Operadores: 
+[2017-09-22 16:06:25.314] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:06:25.315] [INFO] compilador - Variaveis: 
+[2017-09-22 16:06:25.316] [INFO] compilador - Finalizando análise em 18 ms
+[2017-09-22 16:06:37.586] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:06:37.600] [INFO] compilador - Textos: 
+[2017-09-22 16:06:37.601] [INFO] compilador - Numeros: 
+[2017-09-22 16:06:37.601] [INFO] compilador - Decimais: 1.20
+[2017-09-22 16:06:37.602] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:06:37.602] [INFO] compilador - Operadores: +
+[2017-09-22 16:06:37.602] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:06:37.603] [INFO] compilador - Variaveis: 
+[2017-09-22 16:06:37.603] [INFO] compilador - Finalizando análise em 17 ms
+[2017-09-22 16:06:44.836] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:06:44.849] [INFO] compilador - Textos: 
+[2017-09-22 16:06:44.849] [INFO] compilador - Numeros: 
+[2017-09-22 16:06:44.850] [INFO] compilador - Decimais: 1.20
+[2017-09-22 16:06:44.850] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:06:44.850] [INFO] compilador - Operadores: 
+[2017-09-22 16:06:44.851] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:06:44.852] [INFO] compilador - Variaveis: eeeweqweweqw
+[2017-09-22 16:06:44.852] [INFO] compilador - Finalizando análise em 16 ms
+[2017-09-22 16:06:49.483] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:06:49.497] [INFO] compilador - Textos: 
+[2017-09-22 16:06:49.497] [INFO] compilador - Numeros: 
+[2017-09-22 16:06:49.498] [INFO] compilador - Decimais: 1.20
+[2017-09-22 16:06:49.498] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:06:49.499] [INFO] compilador - Operadores: 
+[2017-09-22 16:06:49.499] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:06:49.499] [INFO] compilador - Variaveis: eeeweqweweqw,
+[2017-09-22 16:06:49.499] [INFO] compilador - Finalizando análise em 16 ms
+[2017-09-22 16:06:54.443] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:06:54.457] [INFO] compilador - Textos: 
+[2017-09-22 16:06:54.457] [INFO] compilador - Numeros: 1
+[2017-09-22 16:06:54.457] [INFO] compilador - Decimais: 
+[2017-09-22 16:06:54.458] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:06:54.458] [INFO] compilador - Operadores: 
+[2017-09-22 16:06:54.459] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:06:54.459] [INFO] compilador - Variaveis: eeeweqweweqw
+[2017-09-22 16:06:54.460] [INFO] compilador - Finalizando análise em 17 ms
+[2017-09-22 16:06:58.251] [INFO] compilador - Iniciando análise léxica arquivo: G:\compilador\main.js
+[2017-09-22 16:06:58.265] [INFO] compilador - Textos: 
+[2017-09-22 16:06:58.266] [INFO] compilador - Numeros: 1
+[2017-09-22 16:06:58.267] [INFO] compilador - Decimais: 
+[2017-09-22 16:06:58.268] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:06:58.268] [INFO] compilador - Operadores: 
+[2017-09-22 16:06:58.268] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:06:58.269] [INFO] compilador - Variaveis: eeeweqweweqw,
+[2017-09-22 16:06:58.269] [INFO] compilador - Finalizando análise em 18 ms
+[2017-09-22 16:07:27.551] [INFO] compilador - Iniciando apligação 22/09/2017 16:07:27
+[2017-09-22 16:07:29.636] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 16:07:29.693] [INFO] compilador - Textos: 
+[2017-09-22 16:07:29.696] [INFO] compilador - Numeros: 
+[2017-09-22 16:07:29.697] [INFO] compilador - Decimais: 
+[2017-09-22 16:07:29.700] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:07:29.701] [INFO] compilador - Operadores: 
+[2017-09-22 16:07:29.703] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:07:29.703] [INFO] compilador - Variaveis: dads232
+[2017-09-22 16:07:29.707] [INFO] compilador - Finalizando análise em 71 ms
+[2017-09-22 16:07:32.778] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
+[2017-09-22 16:07:32.792] [INFO] compilador - Textos: 
+[2017-09-22 16:07:32.792] [INFO] compilador - Numeros: 
+[2017-09-22 16:07:32.793] [INFO] compilador - Decimais: 
+[2017-09-22 16:07:32.793] [INFO] compilador - Delimitadores: 
+[2017-09-22 16:07:32.793] [INFO] compilador - Operadores: 
+[2017-09-22 16:07:32.794] [INFO] compilador - Palavras Reservadas: 
+[2017-09-22 16:07:32.794] [INFO] compilador - Variaveis: 312321
+[2017-09-22 16:07:32.794] [INFO] compilador - Finalizando análise em 16 ms
