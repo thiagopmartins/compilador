@@ -35,8 +35,9 @@ class Analisador{
         }
     }  
     get delimitadores(){
-        let string = Delimitadores.valores(str);
-        logger.escreve = 'Delimitadores: ' + string ;
+        let array = Delimitadores.valores(str);
+        let string = array.join(' ');
+        logger.escreve = 'Delimitadores: ' + string;
         console.log('Delimitadores: ' + string + '');        
     }   
     get palavrasReservadas(){  
@@ -45,7 +46,8 @@ class Analisador{
         console.log('Palavras Reservadas: ' + string + '');        
     }    
     get operadores(){
-        let string = Operadores.valores(str);
+        let array = Operadores.valores(str);
+        let string = array.join(' ');
         logger.escreve = 'Operadores: ' + string + '';
         console.log('Operadores: ' + string + '');        
     }
@@ -73,24 +75,26 @@ class Analisador{
         console.log('Textos: ' + string);
     }
     get numeros(){
-        let reg = /\W\d+/;
-        let dec = /\W\d+\.\d+/;
+        let reg = /\d+/;
+        let dec = /\d+\.\d+/;
+        let palavra = /[a-zA-Z]+/
         let inteiros = [];
         let decimais = [];
         for (let key in str) {
-            if(reg.test(str[key])){
-                if(dec.test(str[key])){
-                    let txt = dec.exec(str[key]);
-                    decimais.push(txt); 
-                    str[key] = str[key].replace(dec,'');
-                }
-                else{
-                    let txt = reg.exec(str[key]);
-                    str[key] = str[key].replace(reg,'');
-                    inteiros.push(txt);                    
-                }
+            if(!palavra.test(str[key]))
+                while(reg.test(str[key])){
+                    if(dec.test(str[key])){
+                        let txt = dec.exec(str[key]);
+                        decimais.push(txt); 
+                        str[key] = str[key].replace(dec,' ');
+                    }
+                    else{
+                        let txt = reg.exec(str[key]);
+                        str[key] = str[key].replace(reg,' ');
+                        inteiros.push(txt);                    
+                    }
 
-            }
+                }
         }
         logger.escreve = 'Numeros: ' + inteiros;
         console.log('Numeros: ' + inteiros);
@@ -104,7 +108,6 @@ class Analisador{
         while(reg.test(str)){   
             let txt = reg.exec(str);
             string.push(txt);
-            console.log('TESTE' + txt);
             if(/\/{2}/.test(str))
                 str = str.replace(txt,'//');
             else
