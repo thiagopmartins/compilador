@@ -18,10 +18,10 @@ class Analisador{
         this.texto;
         str = str.split(/\s+/g);
         this.erroLexico;
-        this.numeros;
         this.delimitadores;
         this.operadores;
         this.palavrasReservadas;
+        this.numeros;
         this.outros;
     }
     static set conteudoStr(valor){
@@ -54,6 +54,7 @@ class Analisador{
     get outros(){
         let string = [];
         str = str.toString().split(/\s+/g);
+        str = str.toString().split(/,/g);
         for (var key in str) {
             if(/\w/.test(str[key])){
                 string.push(str[key]);
@@ -63,7 +64,7 @@ class Analisador{
         console.log('Variaveis: ' + string + '');   
     }    
     get texto(){
-        let reg = /["']\w+.*["']/;
+        let reg = /["'][\w\-+*/.!@#$%¨&*();\.,\[\]}{}'"=<>]+["']/;
         let string = [];
         while(reg.test(str)){ 
             let txt = reg.exec(str);
@@ -104,7 +105,6 @@ class Analisador{
     get comentarios(){
     let reg = /\/{2}.|\/\*[\s\w\-+*/.!@#$%¨&*();\.,\[\]}{}'"=<>]+\*\//;
         let string = [];
-
         while(reg.test(str)){   
             let txt = reg.exec(str);
             string.push(txt);

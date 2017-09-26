@@ -10,14 +10,11 @@ class Outros{
         let string = [];
         for(let i = 0; i < this.token.length; i++){
             let reg = this.token[i].regex;
-            let tot = 0;
             for (let key in str) {
-                
                 while(reg.test(str[key])){
                     let stringOld = str[key];
-
+                    console.log('Valor: ', stringOld.length());
                     string.push('\n' + stringOld );
-                    tot ++;
                 }              
             }    
                               
