@@ -18,10 +18,11 @@ class Analisador{
         this.texto;
         str = str.split(/\s+/g);
         this.erroLexico;
+        this.numeros;
         this.delimitadores;
         this.operadores;
         this.palavrasReservadas;
-        this.numeros;
+        
         this.outros;
     }
     static set conteudoStr(valor){

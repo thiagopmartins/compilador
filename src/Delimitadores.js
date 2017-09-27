@@ -11,6 +11,7 @@ const tokens = [
     {regex: /(["]{1})(\d*)/,value: '"'},
     {regex: /([']{1})(\d*)/,value: '\''},
     {regex: /([,]{1})(\d*)/,value: ','},
+    {regex: /([.]{1})/,value: '.'},
     {regex: /([/]{2})(\d*)/,value: '//'},
     {regex: /([/*]{1})(\d*)/,value: '/*'},
     {regex: /([*/]{1})(\d*)/,value: '*/'}
