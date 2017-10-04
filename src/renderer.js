@@ -2,7 +2,7 @@ const { ipcRenderer } = require('electron');
 const fs = require('fs');
 const Log = require('./Log.js');
 const Editor = require('./Editor.js');
-const Analisador = require('./analisador.js');
+const AnalisadorLexico = require('./analisador-lexico/AnalisadorLexico.js');
 const { dialog } = require('electron').remote;
 
 
@@ -52,17 +52,17 @@ $('#salva').onclick = (event) =>{
         $('#nomeTexto').innerHTML = 'Arquivo: ' + fileName;
     });
 };    
-$('#analisa').onclick = () =>{
+$('#analise-lexica').onclick = () =>{
     if(fileName === undefined)
         fileName = 'Desconhecido';
     try {
         let timeInicio = new Date().getTime();
         logger.escreve = 'Iniciando análise léxica arquivo: ' + fileName;
-        let analise = new Analisador();
+        let analise = new AnalisadorLexico();
         analise.analiseLexica(editor.conteudo);
         let timeFinal = new Date().getTime();
         logger.escreve = 'Finalizando análise em ' + (timeFinal - timeInicio) + ' ms';
-        Materialize.toast('<span class="toast-sucess">Análise realizada.', 4000);       
+        Materialize.toast('<span class="toast-sucess">Análise Léxica realizada com sucesso.', 4000);       
     } 
     catch (error) {
         Materialize.toast('<span class="toast-error">Análise finalizada com erro.</span>', 4000);  

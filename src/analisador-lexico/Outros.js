@@ -1,4 +1,4 @@
-const Analisador = require('./Analisador.js');
+const Analisador = require('./AnalisadorLexico.js');
 const tokens = [
     {regex: /\w/,value: ''}
 ];

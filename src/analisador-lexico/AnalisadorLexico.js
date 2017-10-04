@@ -1,5 +1,5 @@
-const Log = require('./Log.js');
-const Editor = require('./Editor.js');
+const Log = require('../Log.js');
+const Editor = require('../Editor.js');
 const Operadores = require('./Operadores.js');
 const Delimitadores = require('./Delimitadores.js');
 const PalavrasReservadas = require('./PalavrasReservadas.js');
@@ -9,8 +9,9 @@ const Outros = require('./Outros.js');
 let logger;
 let str;
 
-class Analisador{
+class AnalisadorLexico{
     analiseLexica(conteudo){
+        console.clear();
         logger = new Log();
         let editor = new Editor();
         str = conteudo;
@@ -22,7 +23,6 @@ class Analisador{
         this.delimitadores;
         this.operadores;
         this.palavrasReservadas;
-        
         this.outros;
     }
     static set conteudoStr(valor){
@@ -114,9 +114,6 @@ class Analisador{
             else
                 str = str.replace(txt,'/**/');
         }
-        
-        //logger.escreve = 'Comentarios: ' + string;
-        //console.log('Comentarios: ' + string);
     }  
 }
-module.exports = Analisador;
+module.exports = AnalisadorLexico;

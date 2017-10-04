@@ -41,13 +41,16 @@ body{
 .disabled > i{color: #cfd8dc;}
 #salva{color:#81d4fa !important;}
 #novo{color:#ffe082 !important;}
-#analisa{color:#a5d6a7 !important;}
+#analise-lexica{color:#a5d6a7 !important;}
 #limpa{color:#ef9a9a !important;}
+#analise-sintatica{color:#ce93d8 !important;}
+#analise-semantica{color:#ffcc80 !important;}
+
 ul{margin-top: 7px !important;}
 
 #toast-container {
     position:fixed;
     top: -20px !important;
     right: auto !important;
-    left:300px;
+    left:400px;
   }

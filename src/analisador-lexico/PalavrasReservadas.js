@@ -1,5 +1,5 @@
 
-const Analisador = require('./Analisador.js');
+const Analisador = require('./AnalisadorLexico.js');
 const tokens = [
     {regex: /\bpublic\b/,value: 'public'},
     {regex: /\bstatic\b/,value: 'static'},
