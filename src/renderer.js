@@ -3,7 +3,9 @@ const fs = require('fs');
 const Log = require('./Log.js');
 const Editor = require('./Editor.js');
 const AnalisadorLexico = require('./analisador-lexico/AnalisadorLexico.js');
+const AnalisadorSintatico = require('./analisador-sintatico/AnalisadorSintatico.js')
 const { dialog } = require('electron').remote;
+const request = require('request');
 
 
 
@@ -16,7 +18,7 @@ let editor
 window.onload = function(){
     let data = new Date();
     logger = new Log();
-    logger.escreve = 'Iniciando apligação ' + data.toLocaleString();
+    logger.escreve = 'Iniciando aplicação ' + data.toLocaleString();
     editor = new Editor();
     conteudo = "";
     $('#nomeTexto').innerHTML = 'Arquivo: Novo Texto';            
@@ -62,13 +64,34 @@ $('#analise-lexica').onclick = () =>{
         analise.analiseLexica(editor.conteudo);
         let timeFinal = new Date().getTime();
         logger.escreve = 'Finalizando análise em ' + (timeFinal - timeInicio) + ' ms';
-        Materialize.toast('<span class="toast-sucess">Análise Léxica realizada com sucesso.', 4000);       
+        Materialize.toast('<span class="toast-sucess">Análise Léxica finalizada em ' + (timeFinal - timeInicio) + ' ms.', 4000);       
     } 
     catch (error) {
-        Materialize.toast('<span class="toast-error">Análise finalizada com erro.</span>', 4000);  
+        Materialize.toast('<span class="toast-error">Análise Léxica finalizada com erro.</span>', 4000);  
         throw new Error(error);
     }            
-};    
+};  
+$('#analise-sintatica').onclick = () =>{
+    if(fileName === undefined)
+        fileName = 'Desconhecido';    
+    try {
+        let timeInicio = new Date().getTime();
+        logger.escreve = 'Iniciando análise sintática arquivo: ' + fileName;
+        let analise = new AnalisadorSintatico(editor.conteudo);
+        let timeFinal = new Date().getTime();
+        logger.escreve = 'Nãp foram encontrados erros sintáticos.';
+        logger.escreve = 'Finalizando análise sintática em ' + (timeFinal - timeInicio) + ' ms';
+        Materialize.toast('<span class="toast-sucess">Análise Sintática finalizada em ' + (timeFinal - timeInicio) + ' ms.', 4000);        
+    } 
+    catch (error) {
+        Materialize.toast('<span class="toast-error">Análise Sintática finalizada com erro.</span>', 4000);  
+        logger.escreveError = error;
+        throw new Error(error);
+    }            
+};  
+$('#analise-semantica').onclick = () =>{
+    
+}  
 $('#limpa').onclick = () =>{
     editor.conteudo = "";
     if(conteudo == editor.conteudo)

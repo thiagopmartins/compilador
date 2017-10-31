@@ -12,6 +12,9 @@ class Log{
     set escreve(texto){  
         logger.info(texto);
     }
+    set escreveError(texto){  
+        logger.error(texto);
+    }
 }
 module.exports = Log;
 
