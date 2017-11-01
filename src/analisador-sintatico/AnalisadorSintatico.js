@@ -3,14 +3,18 @@ const Editor = require('../Editor.js');
 
 let logger;
 let str;
+let erros = [];
 
 class AnalisadorSintatico{
 
     constructor(conteudo){
         console.clear();
+        erros = [];
         logger = new Log();
         let editor = new Editor();
         str = conteudo;
+        this.aspas;
+        console.log('passou aspas');
         this.texto;
         console.log('passou texto');
         this.comentarios;
@@ -21,12 +25,14 @@ class AnalisadorSintatico{
         console.log('passou chaves');
         this.colchetes;
         console.log('passou colchetes');
-        this.aspas;
-        console.log('passou aspas');
+        this.resultado();
+        
+        
     }
     get comentarios(){
         let reg = /\/{2}.|\/\*[\s\w\-+*/.!@#$%¨&*();\.,\[\]}{}'"=<>]+\*\//;
         let string = [];
+       
         while(reg.test(str)){   
             let txt = reg.exec(str);
             string.push(txt);
@@ -41,9 +47,8 @@ class AnalisadorSintatico{
         let string = [];
         while(reg.test(str)){ 
             let txt = reg.exec(str);
-            txt = txt.toString().split(/["']/);
-            str = str.replace(txt[1],'');
-            string.push(txt[1]);
+            str = str.replace(txt,'');
+            string.push(str);
         }
     }
     get aspas(){
@@ -63,9 +68,9 @@ class AnalisadorSintatico{
             }
             console.log(tokens[1].value);            
             if(tokens[0].value % 2 != 0)
-                throw new Error(`Esta faltando fechar aspas ${tokens[0].string}`);
+                throw new Error(`Esta faltando fechar aspas ${tokens[0].string}\n`);
             else if(tokens[1].value % 2 != 0)
-                throw new Error(`Esta faltando fechar aspas ${tokens[1].string}`);            
+                throw new Error(`Esta faltando fechar aspas ${tokens[1].string}\n`);            
         }
             
     }
@@ -74,24 +79,24 @@ class AnalisadorSintatico{
             {regex: /([(]{1})(\d*)/,value: 0, string: '('},
             {regex: /([)]{1})(\d*)/,value: 0, string: ')'}
         ]; 
-        this.resultado(tokens);       
+        this.analisar(tokens);       
     }
     get chaves(){    
         const tokens = [
             {regex: /([{]{1})(\d*)/,value: 0, string: '{'},
             {regex: /([}]{1})(\d*)/,value: 0, string: '}'}
         ];
-        this.resultado(tokens);        
+        this.analisar(tokens);        
     } 
     get colchetes(){    
         const tokens = [
             {regex: /([\[]{1})(\d*)/,value: 0, string: '['},
             {regex: /([\]]{1})(\d*)/,value: 0, string: ']'}
         ];
-        this.resultado(tokens); 
+        this.analisar(tokens); 
         
     }  
-    resultado(tokens){
+    analisar(tokens){
         let cont = 0;
         for(let k = 0; k < str.length; k++){
             for(let i = 0; i < tokens.length; i++){
@@ -103,10 +108,17 @@ class AnalisadorSintatico{
         }
         cont = tokens[0].value - tokens[1].value;
         if(tokens[0].value > tokens[1].value)
-            throw new Error(`Esta faltando ${cont} caractere  ${tokens[1].string}`);
+            erros.push(`Esta faltando ${cont} caractere  ${tokens[1].string}`);
         else if(tokens[0].value < tokens[1].value)
-            throw new Error(`Esta faltando ${cont*(-1)} caractere ${tokens[0].string}`);        
-    }         
+            erros.push(`Esta faltando ${cont * (-1)} caractere  ${tokens[0].string}`);   
+    } 
+    resultado(){
+        console.log(erros);
+        if(erros.length > 0)
+            for(let erro of erros)
+                logger.escreveError = erro;
+            throw new Error('Ocorreu um erro na análise sintática, verifique o log para mais detalhes.');
+    }    
 }
 
 module.exports = AnalisadorSintatico; 

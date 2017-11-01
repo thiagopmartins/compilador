@@ -79,7 +79,7 @@ $('#analise-sintatica').onclick = () =>{
         logger.escreve = 'Iniciando análise sintática arquivo: ' + fileName;
         let analise = new AnalisadorSintatico(editor.conteudo);
         let timeFinal = new Date().getTime();
-        logger.escreve = 'Nãp foram encontrados erros sintáticos.';
+        logger.escreve = 'Não foram encontrados erros sintáticos.';
         logger.escreve = 'Finalizando análise sintática em ' + (timeFinal - timeInicio) + ' ms';
         Materialize.toast('<span class="toast-sucess">Análise Sintática finalizada em ' + (timeFinal - timeInicio) + ' ms.', 4000);        
     } 
