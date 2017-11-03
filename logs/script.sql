@@ -1,0 +1,61 @@
+USE [NDD_COLD_EXPORT_NFCe_488]
+GO
+
+/****** Object:  Table [dbo].[TBCOLD400]    Script Date: 03/11/2017 16:57:13 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[TBCOLD400](
+	[OID] [bigint] IDENTITY(1,1) NOT NULL,
+	[IDE_SERIE] [int] NOT NULL,
+	[IDE_NNF] [int] NOT NULL,
+	[IDE_DHEMI] [datetime] NOT NULL,
+	[EMIT_CNPJ] [varchar](20) NOT NULL,
+	[DEST_CNPJ] [varchar](20) NULL,
+	[DEST_CPF] [varchar](20) NULL,
+	[IDE_CUF] [varchar](3) NOT NULL,
+	[IDE_MOD] [varchar](6) NOT NULL,
+	[IDE_CNF] [int] NOT NULL,
+	[EMIT_IE] [varchar](14) NOT NULL,
+	[DEST_IE] [varchar](14) NULL,
+	[DEST_ENDERDEST_UF] [varchar](4) NULL,
+	[TOTAL_ICMSTOT_VBC] [decimal](18, 2) NOT NULL,
+	[TOTAL_ICMSTOT_VBCST] [decimal](18, 2) NOT NULL,
+	[TOTAL_ICMSTOT_VPROD] [decimal](18, 2) NOT NULL,
+	[TOTAL_ICMSTOT_VICMS] [decimal](18, 2) NOT NULL,
+	[TOTAL_ICMSTOT_VST] [decimal](18, 2) NOT NULL,
+	[TOTAL_ICMSTOT_VNF] [decimal](18, 2) NOT NULL,
+	[TOTAL_ICMSTOT_VDESC] [decimal](18, 2) NOT NULL,
+	[IDE_ID] [varchar](47) NOT NULL,
+	[IDE_TPEMIS] [varchar](6) NOT NULL,
+	[STATUSNFE] [int] NULL,
+	[XML_AUT] [varchar](max) NULL,
+	[XML_CANC] [varchar](max) NULL,
+	[XML_NFE] [varchar](max) NULL,
+	[XML_DADOSADIC] [varchar](max) NULL,
+	[DOC_NFE] [varchar](max) NOT NULL,
+	[DOCSEQUENCE] [smallint] NOT NULL DEFAULT ((1)),
+	[EXTRADOCS] [varchar](max) NULL,
+	[IDEID1] [bigint] NULL,
+	[IDEID2] [bigint] NULL,
+	[IDEID3] [bigint] NULL,
+	[IDE_ID_RELATED] [varchar](48) NULL,
+	[FORMULARYNAME] [varchar](50) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[OID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+

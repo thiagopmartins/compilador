@@ -6,3 +6,104 @@
     at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:120:19)
     at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-03 16:34:34.969] [INFO] compilador - Iniciando aplicação 03/11/2017 16:34:34
+[2017-11-03 16:34:44.737] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 16:34:44.751] [ERROR] compilador - Esta faltando 1 caractere  )
+[2017-11-03 16:34:44.757] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-03 16:34:50.561] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 16:34:50.603] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-03 16:34:56.096] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 16:34:56.106] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-03 16:39:23.581] [INFO] compilador - Iniciando aplicação 03/11/2017 16:39:23
+[2017-11-03 16:43:27.259] [INFO] compilador - Iniciando aplicação 03/11/2017 16:43:27
+[2017-11-03 16:45:00.237] [INFO] compilador - Iniciando aplicação 03/11/2017 16:45:00
+[2017-11-03 16:45:17.830] [INFO] compilador - Iniciando aplicação 03/11/2017 16:45:17
+[2017-11-03 16:45:33.709] [INFO] compilador - Iniciando aplicação 03/11/2017 16:45:33
+[2017-11-03 16:45:50.698] [INFO] compilador - Iniciando aplicação 03/11/2017 16:45:50
+[2017-11-03 16:46:21.904] [INFO] compilador - Iniciando aplicação 03/11/2017 16:46:21
+[2017-11-03 16:47:49.140] [INFO] compilador - Iniciando aplicação 03/11/2017 16:47:49
+[2017-11-03 16:54:53.565] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 16:54:53.572] [ERROR] compilador - TypeError: Cannot read property 'conteudo' of undefined
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:81:53)
+[2017-11-03 16:55:19.500] [INFO] compilador - Iniciando aplicação 03/11/2017 16:55:19
+[2017-11-03 16:55:20.644] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 16:55:20.664] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-03 16:58:35.410] [INFO] compilador - Iniciando aplicação 03/11/2017 16:58:35
+[2017-11-03 16:58:35.901] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 16:58:35.919] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-03 16:59:36.314] [INFO] compilador - Iniciando aplicação 03/11/2017 16:59:36
+[2017-11-03 16:59:42.747] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 16:59:42.761] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-03 16:59:42.761] [INFO] compilador - Finalizando análise sintática em 14 ms
+[2017-11-03 16:59:47.195] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 16:59:47.206] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-03 16:59:47.206] [INFO] compilador - Finalizando análise sintática em 11 ms
+[2017-11-03 16:59:50.069] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 16:59:50.078] [ERROR] compilador - Esta faltando 1 caractere  )
+[2017-11-03 16:59:50.080] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-03 16:59:53.667] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 16:59:53.676] [ERROR] compilador - Esta faltando 1 caractere  )
+[2017-11-03 16:59:53.678] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-03 16:59:54.332] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 16:59:54.341] [ERROR] compilador - Esta faltando 1 caractere  )
+[2017-11-03 16:59:54.342] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-03 16:59:57.395] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 16:59:57.404] [ERROR] compilador - Esta faltando 1 caractere  )
+[2017-11-03 16:59:57.404] [ERROR] compilador - Esta faltando 1 caractere  [
+[2017-11-03 16:59:57.406] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-03 17:08:40.228] [INFO] compilador - Iniciando aplicação 03/11/2017 17:08:40
+[2017-11-03 17:08:40.909] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 17:08:40.924] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-03 17:08:40.925] [INFO] compilador - Finalizando análise sintática em 15 ms
+[2017-11-03 17:08:57.188] [INFO] compilador - Iniciando aplicação 03/11/2017 17:08:57
+[2017-11-03 17:08:57.786] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 17:08:57.814] [ERROR] compilador - SyntaxError: Invalid regular expression: /(\w|\d|\s)+(+)(\w|\d|\s)+/: Nothing to repeat
+    at AnalisadorSintatico.testeOperador (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:124:24)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:29:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-03 17:09:35.765] [INFO] compilador - Iniciando aplicação 03/11/2017 17:09:35
+[2017-11-03 17:09:37.858] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 17:09:37.878] [ERROR] compilador - TypeError: tokens.test is not a function
+    at AnalisadorSintatico.testeOperador (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:127:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:29:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-03 17:10:03.877] [INFO] compilador - Iniciando aplicação 03/11/2017 17:10:03
+[2017-11-03 17:10:08.681] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 17:10:08.703] [ERROR] compilador - ReferenceError: i is not defined
+    at AnalisadorSintatico.testeOperador (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:127:26)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:29:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-03 17:10:20.474] [INFO] compilador - Iniciando aplicação 03/11/2017 17:10:20
+[2017-11-03 17:10:21.482] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 17:10:21.495] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-03 17:10:21.495] [INFO] compilador - Finalizando análise sintática em 13 ms
+[2017-11-03 17:10:25.113] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-03 17:10:25.122] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-03 17:10:25.122] [INFO] compilador - Finalizando análise sintática em 9 ms

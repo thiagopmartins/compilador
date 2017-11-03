@@ -26,6 +26,7 @@ class AnalisadorSintatico{
         this.colchetes;
         console.log('passou colchetes');
         this.resultado();
+        this.testeOperador();
         
         
     }
@@ -65,12 +66,11 @@ class AnalisadorSintatico{
                         tokens[i].value ++;
                     }
                 }    
-            }
-            console.log(tokens[1].value);            
+            }         
             if(tokens[0].value % 2 != 0)
-                throw new Error(`Esta faltando fechar aspas ${tokens[0].string}\n`);
+                erros.push(`Esta faltando fechar aspas ${tokens[0].string}`);
             else if(tokens[1].value % 2 != 0)
-                throw new Error(`Esta faltando fechar aspas ${tokens[1].string}\n`);            
+                erros.push(`Esta faltando fechar aspas ${tokens[1].string}`);            
         }
             
     }
@@ -108,17 +108,29 @@ class AnalisadorSintatico{
         }
         cont = tokens[0].value - tokens[1].value;
         if(tokens[0].value > tokens[1].value)
-            erros.push(`Esta faltando ${cont} caractere  ${tokens[1].string}`);
+            erros.push(`Está faltando ${cont} caractere  ${tokens[1].string}`);
         else if(tokens[0].value < tokens[1].value)
-            erros.push(`Esta faltando ${cont * (-1)} caractere  ${tokens[0].string}`);   
+            erros.push(`Está faltando ${cont * (-1)} caractere  ${tokens[0].string}`);   
     } 
     resultado(){
         console.log(erros);
-        if(erros.length > 0)
+        if(erros.length > 0){
             for(let erro of erros)
                 logger.escreveError = erro;
             throw new Error('Ocorreu um erro na análise sintática, verifique o log para mais detalhes.');
-    }    
+        }
+    }
+    testeOperador(){
+        const tokens = [
+            {regex: /[+]/,validator: /[\w\d\s]+[+][\w|\d|\s]+/}
+        ]
+        let reg = tokens[0].regex; 
+        if(reg.test(str)){
+            console.log(1);
+        }
+        else
+            console.log(2);
+    }   
 }
 
 module.exports = AnalisadorSintatico; 

@@ -9,6 +9,7 @@ class Editor{
             editor.setTheme("ace/theme/monokai");
             editor.session.setMode("ace/mode/javascript");    
             editor.focus(); 
+            
         }    
             
     }
@@ -18,6 +19,5 @@ class Editor{
     set conteudo(valor){
         editor.setValue(valor);
     }
-
 }
 module.exports = Editor;
