@@ -121,15 +121,55 @@ class AnalisadorSintatico{
         }
     }
     testeOperador(){
+        let caracteres = str.split(/\n+/g);
+        let error = false;
+        console.log(caracteres);
         const tokens = [
-            {regex: /[+]/,validator: /[\w\d\s]+[+][\w|\d|\s]+/}
+            {regex: /[+]/, direita:/[0-9a-zA-Z+=()\[\]]+/, max: 2},
+            {regex: /[-]/, direita:/[0-9a-zA-Z-=()\[\]]+/, max: 2},
+            {regex: /[*]/, direita:/[0-9a-zA-Z=()\[\]]+/, max: 999},
+            {regex: /[/]/, direita:/[0-9a-zA-Z=()\[\]]+/, max: 999},
+            {regex: /[%]/, direita:/[0-9a-zA-Z=()\[\]]+/, max: 999},
+            {regex: /[=]/, direita:/[0-9a-zA-Z()\[\]]+/, max: 999},
+            {regex: /[(]/, direita:/[0-9a-zA-Z()\[\]]+/, max: 999},
+            {regex: /[0-9]/, direita:/[0-9+-=/*%()\[\]]*/, max: 999},
+            {regex: /[a-zA-Z]/, direita:/[a-zA-Z+-=/*%()\[\]]*/, max: 999}
         ]
-        let reg = tokens[0].regex; 
-        if(reg.test(str)){
-            console.log(1);
+        let c = 0;
+        console.log('saas' + caracteres.length);
+        while(c < caracteres.length){
+            let i = 0;
+            let k = 0;
+            console.log(caracteres[c]);
+            caracteres[c] = caracteres[c].replace(/\s+/g, '');
+            console.log(caracteres[c]);            
+            while(k < tokens.length){
+                let reg = tokens[k].regex; 
+                let direita = tokens[k].direita; 
+                let valor = 0; 
+                while(i < caracteres[c].length){
+
+                    if(/[+-/=*%]/.test(caracteres[c])){
+                        if(reg.test(caracteres[c].charAt(i))){
+                            if(!direita.test(caracteres[c].charAt(i+1)) && valor != tokens[k].max - 1){
+                                error = true;
+                            }
+                            if(valor >= tokens[k].max){
+                                error = true;
+                            }
+                            valor ++;
+                        }
+                        else
+                            valor = 0;
+                        console.log(error);
+                       
+                    }
+                    i++; 
+                }
+                k ++; 
+            }
+            c ++;
         }
-        else
-            console.log(2);
     }   
 }
 

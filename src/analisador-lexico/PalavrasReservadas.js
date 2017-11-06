@@ -60,7 +60,7 @@ class PalavrasReservadas{
                 
                 while(reg.test(str[key]) && error == false){
                     let stringOld = str[key];
-
+                    console.log('Posicao: ' + key);
                     str[key] = str[key].replace(this.token[i].value,' ');
                     if(str[key] == stringOld){
                         error = true;
