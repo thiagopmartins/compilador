@@ -142,13 +142,15 @@ class AnalisadorSintatico{
             let k = 0;
             console.log(caracteres[c]);
             caracteres[c] = caracteres[c].replace(/\s+/g, '');
-            console.log(caracteres[c]); 
-            if(/[+-/=*%]/.test(caracteres)){           
-                while(k < tokens.length){
-                    let reg = tokens[k].regex; 
-                    let direita = tokens[k].direita; 
-                    let valor = 0; 
-                    while(i < caracteres[c].length){  
+            console.log(caracteres[c]);            
+            while(k < tokens.length){
+                let reg = tokens[k].regex; 
+                let direita = tokens[k].direita; 
+                let valor = 0; 
+                while(i < caracteres[c].length){
+                    console.log(caracteres[c].charAt(i));
+                    console.log(caracteres[c].charAt(i+1));
+                    if(/[+-/=*%]/.test(caracteres[c])){
                         if(reg.test(caracteres[c].charAt(i))){
                             console.log(caracteres[c].charAt(i));
                             console.log(caracteres[c].charAt(i+1));
@@ -163,10 +165,11 @@ class AnalisadorSintatico{
                         else
                             valor = 0;
                         console.log(error);
-                        i++; 
+                       
                     }
-                    k ++; 
+                    i++; 
                 }
+                k ++; 
             }
             c ++;
         }
