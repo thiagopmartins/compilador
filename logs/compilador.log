@@ -800,3 +800,18 @@
 [2017-11-06 17:07:14.481] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
 [2017-11-06 17:07:14.492] [INFO] compilador - Não foram encontrados erros sintáticos.
 [2017-11-06 17:07:14.492] [INFO] compilador - Finalizando análise sintática em 11 ms
+[2017-11-06 17:42:54.474] [INFO] compilador - Iniciando aplicação 06/11/2017 17:42:54
+[2017-11-06 17:43:01.490] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-06 17:43:01.506] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-06 17:43:01.507] [INFO] compilador - Finalizando análise sintática em 16 ms
+[2017-11-06 17:44:05.016] [INFO] compilador - Iniciando aplicação 06/11/2017 17:44:04
+[2017-11-06 17:44:10.842] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-06 17:44:10.859] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-06 17:44:10.860] [INFO] compilador - Finalizando análise sintática em 17 ms
+[2017-11-06 17:44:17.289] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-06 17:44:17.302] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-06 17:44:17.302] [INFO] compilador - Finalizando análise sintática em 13 ms
+[2017-11-06 17:45:13.426] [INFO] compilador - Iniciando aplicação 06/11/2017 17:45:13
+[2017-11-06 17:45:16.506] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-06 17:45:16.525] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-06 17:45:16.525] [INFO] compilador - Finalizando análise sintática em 19 ms
