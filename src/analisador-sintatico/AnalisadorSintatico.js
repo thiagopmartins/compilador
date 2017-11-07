@@ -14,19 +14,13 @@ class AnalisadorSintatico{
         let editor = new Editor();
         str = conteudo;
         this.aspas;
-        console.log('passou aspas');
         this.texto;
-        console.log('passou texto');
         this.comentarios;
-        console.log('passou comentarios');
         this.parenteses;
-        console.log('passou parenteses');
         this.chaves;
-        console.log('passou chaves');
         this.colchetes;
-        console.log('passou colchetes');
-        this.resultado();
         this.testeOperador();
+        this.resultado();
         
         
     }
@@ -125,52 +119,57 @@ class AnalisadorSintatico{
         let error = false;
         console.log(caracteres);
         const tokens = [
-            {regex: /[+]/, direita:/[0-9a-zA-Z+=()\[\]]+/, max: 2},
-            {regex: /[-]/, direita:/[0-9a-zA-Z-=()\[\]]+/, max: 2},
-            {regex: /[*]/, direita:/[0-9a-zA-Z=()\[\]]+/, max: 999},
-            {regex: /[/]/, direita:/[0-9a-zA-Z=()\[\]]+/, max: 999},
-            {regex: /[%]/, direita:/[0-9a-zA-Z=()\[\]]+/, max: 999},
-            {regex: /[=]/, direita:/[0-9a-zA-Z()\[\]]+/, max: 999},
-            {regex: /[(]/, direita:/[0-9a-zA-Z()\[\]]+/, max: 999},
-            {regex: /[0-9]/, direita:/[0-9+-=/*%()\[\]]*/, max: 999},
-            {regex: /[a-zA-Z]/, direita:/[a-zA-Z+-=/*%()\[\]]*/, max: 999}
+            {regex: /[0-9]/, direita:/[0-9+-=/*%)\];]+/, max: 999, inicializador: true},  
+            {regex: /[+]/, direita:/[0-9a-zA-Z+=()\[]+/, max: 2, inicializador: false},
+            {regex: /[-]/, direita:/[0-9a-zA-Z-=()\[]+/, max: 2, inicializador: false},
+            {regex: /[.]/, direita:/\d+/, max: 1, inicializador: false},
+            {regex: /[*]/, direita:/[0-9a-zA-Z=()\[]+/, max: 999, inicializador: false},
+            {regex: /[/]/, direita:/[0-9a-zA-Z=()\[]+/, max: 999, inicializador: false},
+            {regex: /[%]/, direita:/[0-9a-zA-Z=()\[]+/, max: 999, inicializador: false},
+            {regex: /[=]/, direita:/[0-9a-zA-Z()\[\]]+/, max: 999, inicializador: false},
+            {regex: /[(]/, direita:/[0-9a-zA-Z()\[\]]+/, max: 999, inicializador: true},
+            {regex: /[)]/, direita:/[)\]+-/*%;]+/, max: 999, inicializador: false},
+            {regex: /[\[]/, direita:/[0-9a-zA-Z()\[\]]+/, max: 999, inicializador: true},
+            {regex: /[\]]/, direita:/[)\]+-/*%;]+/, max: 999, inicializador: false},
+            {regex: /[;]/, direita:/[a-zA-Z0-9(\[{]+/, max: 999, inicializador: false}, 
+            {regex: /[a-zA-Z]/, direita:/[a-zA-Z+-=/*%)\];]+/, max: 999, inicializador: true}
         ]
         let c = 0;
-        console.log('saas' + caracteres.length);
         while(c < caracteres.length){
-            let i = 0;
+            
             let k = 0;
-            console.log(caracteres[c]);
-            caracteres[c] = caracteres[c].replace(/\s+/g, '');
-            console.log(caracteres[c]);            
-            while(k < tokens.length){
+            caracteres[c] = caracteres[c].replace(/\s+/g, '');     
+            error = false;
+            while(k < tokens.length && error == false){
                 let reg = tokens[k].regex; 
                 let direita = tokens[k].direita; 
+                let init = tokens[k].inicializador; 
                 let valor = 0; 
-                while(i < caracteres[c].length){
-                    console.log(caracteres[c].charAt(i));
-                    console.log(caracteres[c].charAt(i+1));
+                let i = 0;
+                
+                while(i < caracteres[c].length && error == false){
                     if(/[+-/=*%]/.test(caracteres[c])){
-                        if(reg.test(caracteres[c].charAt(i))){
-                            console.log(caracteres[c].charAt(i));
-                            console.log(caracteres[c].charAt(i+1));
-                            if(!direita.test(caracteres[c].charAt(i+1)) && valor != tokens[k].max - 1){
-                                error = true;
-                            }
-                            if(valor >= tokens[k].max){
-                                error = true;
-                            }
+                        if(reg.test(caracteres[c].charAt(0)) && !init)
+                            error = true;
+                        if(reg.test(caracteres[c].charAt(i))){                          
                             valor ++;
+                            if(((!direita.test(caracteres[c].charAt(i+1)) && valor <= tokens[k].max) || valor > tokens[k].max) 
+                            && i + 1 < caracteres[c].length){
+                                error = true;
+                            }  
                         }
                         else
                             valor = 0;
-                        console.log(error);
-                       
+                        if(i + 1 >= caracteres[c].length && (caracteres[c].charAt(i) != ';' && caracteres[c].charAt(i) != '{' && caracteres[c].charAt(i) != '}'))
+                            error = true;
+                        console.log('Há erro: ' + error);
                     }
                     i++; 
                 }
                 k ++; 
             }
+            if(error)
+                erros.push(`Encontrado um erro na linha ${(c+1)}: ${caracteres[c]}`)
             c ++;
         }
     }   

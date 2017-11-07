@@ -1,836 +1,257 @@
-[2017-11-01 09:30:58.466] [INFO] compilador - Iniciando aplicação 01/11/2017 09:30:58
-[2017-11-01 09:31:06.943] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-01 09:31:06.958] [ERROR] compilador - Esta faltando 2 caractere  (
-[2017-11-01 09:31:06.958] [ERROR] compilador - Esta faltando 1 caractere  [
-[2017-11-01 09:31:06.966] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
-    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:120:19)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+[2017-11-07 11:04:53.757] [INFO] compilador - Iniciando aplicação 07/11/2017 11:04:53
+[2017-11-07 11:04:58.840] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:04:58.871] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:04:58.871] [INFO] compilador - Finalizando análise sintática em 31 ms
+[2017-11-07 11:05:18.577] [INFO] compilador - Iniciando aplicação 07/11/2017 11:05:18
+[2017-11-07 11:05:19.855] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:05:19.888] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:05:19.888] [INFO] compilador - Finalizando análise sintática em 33 ms
+[2017-11-07 11:05:56.844] [INFO] compilador - Iniciando aplicação 07/11/2017 11:05:56
+[2017-11-07 11:06:00.023] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:06:00.039] [ERROR] compilador - Encontrado um erro na linha 1: a(8+8)
+[2017-11-07 11:06:00.045] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-03 16:34:34.969] [INFO] compilador - Iniciando aplicação 03/11/2017 16:34:34
-[2017-11-03 16:34:44.737] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 16:34:44.751] [ERROR] compilador - Esta faltando 1 caractere  )
-[2017-11-03 16:34:44.757] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
-    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+[2017-11-07 11:06:02.735] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:06:02.765] [ERROR] compilador - Encontrado um erro na linha 1: a(8+8);
+[2017-11-07 11:06:02.766] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-03 16:34:50.561] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 16:34:50.603] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
-    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+[2017-11-07 11:06:07.367] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:06:07.398] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:06:07.398] [INFO] compilador - Finalizando análise sintática em 32 ms
+[2017-11-07 11:06:10.263] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:06:10.293] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:06:10.294] [INFO] compilador - Finalizando análise sintática em 30 ms
+[2017-11-07 11:06:19.902] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:06:20.053] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:06:20.053] [INFO] compilador - Finalizando análise sintática em 151 ms
+[2017-11-07 11:06:22.838] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:06:22.985] [ERROR] compilador - Encontrado um erro na linha 6: a(8+8);
+[2017-11-07 11:06:22.986] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-03 16:34:56.096] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 16:34:56.106] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
-    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+[2017-11-07 11:06:44.255] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:06:44.266] [ERROR] compilador - Encontrado um erro na linha 1: 9+++9;
+[2017-11-07 11:06:44.267] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-03 16:39:23.581] [INFO] compilador - Iniciando aplicação 03/11/2017 16:39:23
-[2017-11-03 16:43:27.259] [INFO] compilador - Iniciando aplicação 03/11/2017 16:43:27
-[2017-11-03 16:45:00.237] [INFO] compilador - Iniciando aplicação 03/11/2017 16:45:00
-[2017-11-03 16:45:17.830] [INFO] compilador - Iniciando aplicação 03/11/2017 16:45:17
-[2017-11-03 16:45:33.709] [INFO] compilador - Iniciando aplicação 03/11/2017 16:45:33
-[2017-11-03 16:45:50.698] [INFO] compilador - Iniciando aplicação 03/11/2017 16:45:50
-[2017-11-03 16:46:21.904] [INFO] compilador - Iniciando aplicação 03/11/2017 16:46:21
-[2017-11-03 16:47:49.140] [INFO] compilador - Iniciando aplicação 03/11/2017 16:47:49
-[2017-11-03 16:54:53.565] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 16:54:53.572] [ERROR] compilador - TypeError: Cannot read property 'conteudo' of undefined
-    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:81:53)
-[2017-11-03 16:55:19.500] [INFO] compilador - Iniciando aplicação 03/11/2017 16:55:19
-[2017-11-03 16:55:20.644] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 16:55:20.664] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
-    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+[2017-11-07 11:06:46.086] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:06:46.108] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:06:46.108] [INFO] compilador - Finalizando análise sintática em 21 ms
+[2017-11-07 11:11:13.021] [INFO] compilador - Iniciando aplicação 07/11/2017 11:11:12
+[2017-11-07 11:11:18.119] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:11:18.135] [ERROR] compilador - Encontrado um erro na linha 1: +9;
+[2017-11-07 11:11:18.140] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-03 16:58:35.410] [INFO] compilador - Iniciando aplicação 03/11/2017 16:58:35
-[2017-11-03 16:58:35.901] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 16:58:35.919] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
-    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+[2017-11-07 11:11:21.606] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:11:21.626] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:11:21.626] [INFO] compilador - Finalizando análise sintática em 19 ms
+[2017-11-07 11:11:25.991] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:11:26.016] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:11:26.016] [INFO] compilador - Finalizando análise sintática em 25 ms
+[2017-11-07 11:11:28.558] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:11:28.573] [ERROR] compilador - Encontrado um erro na linha 1: =9+9;
+[2017-11-07 11:11:28.575] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-03 16:59:36.314] [INFO] compilador - Iniciando aplicação 03/11/2017 16:59:36
-[2017-11-03 16:59:42.747] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 16:59:42.761] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-03 16:59:42.761] [INFO] compilador - Finalizando análise sintática em 14 ms
-[2017-11-03 16:59:47.195] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 16:59:47.206] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-03 16:59:47.206] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-03 16:59:50.069] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 16:59:50.078] [ERROR] compilador - Esta faltando 1 caractere  )
-[2017-11-03 16:59:50.080] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
-    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+[2017-11-07 11:11:32.278] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:11:32.303] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:11:32.304] [INFO] compilador - Finalizando análise sintática em 25 ms
+[2017-11-07 11:11:39.422] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:11:39.444] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:11:39.445] [INFO] compilador - Finalizando análise sintática em 22 ms
+[2017-11-07 11:12:52.518] [INFO] compilador - Iniciando aplicação 07/11/2017 11:12:52
+[2017-11-07 11:12:55.703] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:12:55.741] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:12:55.742] [INFO] compilador - Finalizando análise sintática em 38 ms
+[2017-11-07 11:13:14.089] [INFO] compilador - Iniciando aplicação 07/11/2017 11:13:14
+[2017-11-07 11:13:15.950] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:13:15.983] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:13:15.983] [INFO] compilador - Finalizando análise sintática em 33 ms
+[2017-11-07 11:13:20.069] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:13:20.100] [ERROR] compilador - Encontrado um erro na linha 1: (9+9);9;
+[2017-11-07 11:13:20.102] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-03 16:59:53.667] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 16:59:53.676] [ERROR] compilador - Esta faltando 1 caractere  )
-[2017-11-03 16:59:53.678] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
-    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+[2017-11-07 11:13:23.526] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:13:23.557] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:13:23.557] [INFO] compilador - Finalizando análise sintática em 31 ms
+[2017-11-07 11:13:27.949] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:13:27.976] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:13:27.976] [INFO] compilador - Finalizando análise sintática em 27 ms
+[2017-11-07 11:13:29.525] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:13:29.534] [ERROR] compilador - Encontrado um erro na linha 1: (9+9)
+[2017-11-07 11:13:29.535] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-03 16:59:54.332] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 16:59:54.341] [ERROR] compilador - Esta faltando 1 caractere  )
-[2017-11-03 16:59:54.342] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
-    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+[2017-11-07 11:14:04.060] [INFO] compilador - Iniciando aplicação 07/11/2017 11:14:04
+[2017-11-07 11:14:08.446] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:14:08.473] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:14:08.473] [INFO] compilador - Finalizando análise sintática em 27 ms
+[2017-11-07 11:14:15.277] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:14:15.288] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8)
+[2017-11-07 11:14:15.293] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-03 16:59:57.395] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 16:59:57.404] [ERROR] compilador - Esta faltando 1 caractere  )
-[2017-11-03 16:59:57.404] [ERROR] compilador - Esta faltando 1 caractere  [
-[2017-11-03 16:59:57.406] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
-    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:119:19)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+[2017-11-07 11:14:16.630] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:14:16.668] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:14:16.668] [INFO] compilador - Finalizando análise sintática em 38 ms
+[2017-11-07 11:14:21.781] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:14:21.825] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);+9;
+[2017-11-07 11:14:21.826] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-03 17:08:40.228] [INFO] compilador - Iniciando aplicação 03/11/2017 17:08:40
-[2017-11-03 17:08:40.909] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 17:08:40.924] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-03 17:08:40.925] [INFO] compilador - Finalizando análise sintática em 15 ms
-[2017-11-03 17:08:57.188] [INFO] compilador - Iniciando aplicação 03/11/2017 17:08:57
-[2017-11-03 17:08:57.786] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 17:08:57.814] [ERROR] compilador - SyntaxError: Invalid regular expression: /(\w|\d|\s)+(+)(\w|\d|\s)+/: Nothing to repeat
-    at AnalisadorSintatico.testeOperador (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:124:24)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:29:14)
+[2017-11-07 11:14:28.357] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:14:28.410] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9;-8;
+[2017-11-07 11:14:28.411] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-03 17:09:35.765] [INFO] compilador - Iniciando aplicação 03/11/2017 17:09:35
-[2017-11-03 17:09:37.858] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 17:09:37.878] [ERROR] compilador - TypeError: tokens.test is not a function
-    at AnalisadorSintatico.testeOperador (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:127:19)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:29:14)
+[2017-11-07 11:14:38.253] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:14:38.265] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9;{
+[2017-11-07 11:14:38.267] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-03 17:10:03.877] [INFO] compilador - Iniciando aplicação 03/11/2017 17:10:03
-[2017-11-03 17:10:08.681] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 17:10:08.703] [ERROR] compilador - ReferenceError: i is not defined
-    at AnalisadorSintatico.testeOperador (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:127:26)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:29:14)
+[2017-11-07 11:15:00.401] [INFO] compilador - Iniciando aplicação 07/11/2017 11:15:00
+[2017-11-07 11:15:01.734] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:15:01.751] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9;{
+[2017-11-07 11:15:01.758] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-03 17:10:20.474] [INFO] compilador - Iniciando aplicação 03/11/2017 17:10:20
-[2017-11-03 17:10:21.482] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 17:10:21.495] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-03 17:10:21.495] [INFO] compilador - Finalizando análise sintática em 13 ms
-[2017-11-03 17:10:25.113] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-03 17:10:25.122] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-03 17:10:25.122] [INFO] compilador - Finalizando análise sintática em 9 ms
-[2017-11-06 13:06:02.819] [INFO] compilador - Iniciando aplicação 06/11/2017 13:06:02
-[2017-11-06 13:06:15.602] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:06:15.682] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:06:15.682] [INFO] compilador - Finalizando análise sintática em 80 ms
-[2017-11-06 13:06:36.793] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:06:36.800] [INFO] compilador - Textos: 
-[2017-11-06 13:06:36.801] [INFO] compilador - Numeros: 
-[2017-11-06 13:06:36.801] [INFO] compilador - Decimais: 
-[2017-11-06 13:06:36.802] [INFO] compilador - Delimitadores: 
-[2017-11-06 13:06:36.803] [INFO] compilador - Operadores: 
-[2017-11-06 13:06:36.806] [INFO] compilador - Palavras Reservadas: public
-[2017-11-06 13:06:36.807] [INFO] compilador - Variaveis: 
-[2017-11-06 13:06:36.807] [INFO] compilador - Finalizando análise em 14 ms
-[2017-11-06 13:06:45.864] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:06:45.872] [INFO] compilador - Textos: 
-[2017-11-06 13:06:45.872] [INFO] compilador - Numeros: 1
-[2017-11-06 13:06:45.873] [INFO] compilador - Decimais: 
-[2017-11-06 13:06:45.873] [INFO] compilador - Delimitadores: 
-[2017-11-06 13:06:45.874] [INFO] compilador - Operadores: 
-[2017-11-06 13:06:45.875] [INFO] compilador - Palavras Reservadas: public
-[2017-11-06 13:06:45.876] [INFO] compilador - Variaveis: 
-[2017-11-06 13:06:45.876] [INFO] compilador - Finalizando análise em 12 ms
-[2017-11-06 13:06:51.065] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:06:51.074] [INFO] compilador - Textos: 
-[2017-11-06 13:06:51.075] [INFO] compilador - Numeros: 
-[2017-11-06 13:06:51.075] [INFO] compilador - Decimais: 
-[2017-11-06 13:06:51.075] [INFO] compilador - Delimitadores: 
-[2017-11-06 13:06:51.076] [INFO] compilador - Operadores: 
-[2017-11-06 13:06:51.076] [INFO] compilador - Palavras Reservadas: 
-[2017-11-06 13:06:51.077] [INFO] compilador - Variaveis: 1public
-[2017-11-06 13:06:51.077] [INFO] compilador - Finalizando análise em 12 ms
-[2017-11-06 13:07:02.321] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:07:02.328] [INFO] compilador - Textos: 
-[2017-11-06 13:07:02.328] [INFO] compilador - Numeros: 1
-[2017-11-06 13:07:02.329] [INFO] compilador - Decimais: 
-[2017-11-06 13:07:02.329] [INFO] compilador - Delimitadores: 
-[2017-11-06 13:07:02.329] [INFO] compilador - Operadores: 
-[2017-11-06 13:07:02.330] [INFO] compilador - Palavras Reservadas: public
-[2017-11-06 13:07:02.330] [INFO] compilador - Variaveis: 
-[2017-11-06 13:07:02.330] [INFO] compilador - Finalizando análise em 9 ms
-[2017-11-06 13:07:09.033] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:07:09.040] [INFO] compilador - Textos: 
-[2017-11-06 13:07:09.040] [INFO] compilador - Numeros: 
-[2017-11-06 13:07:09.040] [INFO] compilador - Decimais: 
-[2017-11-06 13:07:09.041] [INFO] compilador - Delimitadores: 
-[2017-11-06 13:07:09.041] [INFO] compilador - Operadores: 
-[2017-11-06 13:07:09.041] [INFO] compilador - Palavras Reservadas: 
-[2017-11-06 13:07:09.042] [INFO] compilador - Variaveis: public1
-[2017-11-06 13:07:09.042] [INFO] compilador - Finalizando análise em 9 ms
-[2017-11-06 13:07:12.473] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:07:12.478] [INFO] compilador - Textos: 
-[2017-11-06 13:07:12.479] [INFO] compilador - Numeros: 1
-[2017-11-06 13:07:12.479] [INFO] compilador - Decimais: 
-[2017-11-06 13:07:12.479] [INFO] compilador - Delimitadores: 
-[2017-11-06 13:07:12.480] [INFO] compilador - Operadores: 
-[2017-11-06 13:07:12.480] [INFO] compilador - Palavras Reservadas: public
-[2017-11-06 13:07:12.480] [INFO] compilador - Variaveis: 
-[2017-11-06 13:07:12.481] [INFO] compilador - Finalizando análise em 8 ms
-[2017-11-06 13:07:17.377] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:07:17.383] [INFO] compilador - Textos: 
-[2017-11-06 13:07:17.384] [INFO] compilador - Numeros: 1
-[2017-11-06 13:07:17.385] [INFO] compilador - Decimais: 
-[2017-11-06 13:07:17.386] [INFO] compilador - Delimitadores: 
-[2017-11-06 13:07:17.386] [INFO] compilador - Operadores: 
-[2017-11-06 13:07:17.387] [INFO] compilador - Palavras Reservadas: public
-[2017-11-06 13:07:17.387] [INFO] compilador - Variaveis: a
-[2017-11-06 13:07:17.388] [INFO] compilador - Finalizando análise em 11 ms
-[2017-11-06 13:07:22.009] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:07:22.016] [INFO] compilador - Textos: 
-[2017-11-06 13:07:22.017] [INFO] compilador - Numeros: 1
-[2017-11-06 13:07:22.017] [INFO] compilador - Decimais: 
-[2017-11-06 13:07:22.018] [INFO] compilador - Delimitadores: 
-[2017-11-06 13:07:22.018] [INFO] compilador - Operadores: 
-[2017-11-06 13:07:22.019] [INFO] compilador - Palavras Reservadas: public
-[2017-11-06 13:07:22.019] [INFO] compilador - Variaveis: a,e,ewqw
-[2017-11-06 13:07:22.019] [INFO] compilador - Finalizando análise em 10 ms
-[2017-11-06 13:07:28.225] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:07:28.231] [INFO] compilador - Textos: sddsa
-[2017-11-06 13:07:28.231] [INFO] compilador - Numeros: 1
-[2017-11-06 13:07:28.232] [INFO] compilador - Decimais: 
-[2017-11-06 13:07:28.232] [INFO] compilador - Delimitadores:  "  "
-[2017-11-06 13:07:28.232] [INFO] compilador - Operadores: 
-[2017-11-06 13:07:28.233] [INFO] compilador - Palavras Reservadas: public
-[2017-11-06 13:07:28.233] [INFO] compilador - Variaveis: a,e,ewqw
-[2017-11-06 13:07:28.233] [INFO] compilador - Finalizando análise em 8 ms
-[2017-11-06 13:07:29.985] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:07:29.991] [INFO] compilador - Textos: sddsa
-[2017-11-06 13:07:29.992] [INFO] compilador - Numeros: 1
-[2017-11-06 13:07:29.992] [INFO] compilador - Decimais: 
-[2017-11-06 13:07:29.993] [INFO] compilador - Delimitadores:  "  "
-[2017-11-06 13:07:29.993] [INFO] compilador - Operadores: 
-[2017-11-06 13:07:29.994] [INFO] compilador - Palavras Reservadas: public
-[2017-11-06 13:07:29.994] [INFO] compilador - Variaveis: a,e,ewqw
-[2017-11-06 13:07:29.995] [INFO] compilador - Finalizando análise em 10 ms
-[2017-11-06 13:07:38.521] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:07:38.529] [INFO] compilador - Textos: sddsa
-[2017-11-06 13:07:38.529] [INFO] compilador - Numeros: 1
-[2017-11-06 13:07:38.529] [INFO] compilador - Decimais: 
-[2017-11-06 13:07:38.530] [INFO] compilador - Delimitadores:  "  "
-[2017-11-06 13:07:38.530] [INFO] compilador - Operadores: 
-[2017-11-06 13:07:38.531] [INFO] compilador - Palavras Reservadas: public
-[2017-11-06 13:07:38.531] [INFO] compilador - Variaveis: a,e,ewqw
-[2017-11-06 13:07:38.532] [INFO] compilador - Finalizando análise em 11 ms
-[2017-11-06 13:07:56.345] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:07:56.353] [INFO] compilador - Textos: 
-[2017-11-06 13:07:56.353] [INFO] compilador - Numeros: 
-[2017-11-06 13:07:56.354] [INFO] compilador - Decimais: 
-[2017-11-06 13:07:56.354] [INFO] compilador - Delimitadores: 
-[2017-11-06 13:07:56.355] [INFO] compilador - Operadores: +
-[2017-11-06 13:07:56.356] [INFO] compilador - Palavras Reservadas: public
-[2017-11-06 13:07:56.357] [INFO] compilador - Variaveis: 
-[2017-11-06 13:07:56.357] [INFO] compilador - Finalizando análise em 12 ms
-[2017-11-06 13:08:02.720] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:08:02.727] [INFO] compilador - Textos: 
-[2017-11-06 13:08:02.728] [INFO] compilador - Numeros: 
-[2017-11-06 13:08:02.728] [INFO] compilador - Decimais: 
-[2017-11-06 13:08:02.729] [INFO] compilador - Delimitadores: 
-[2017-11-06 13:08:02.730] [INFO] compilador - Operadores: +
-[2017-11-06 13:08:02.730] [INFO] compilador - Palavras Reservadas: public
-[2017-11-06 13:08:02.731] [INFO] compilador - Variaveis: 2
-[2017-11-06 13:08:02.731] [INFO] compilador - Finalizando análise em 11 ms
-[2017-11-06 13:08:15.896] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:08:15.904] [INFO] compilador - Textos: 
-[2017-11-06 13:08:15.905] [INFO] compilador - Numeros: 
-[2017-11-06 13:08:15.905] [INFO] compilador - Decimais: 
-[2017-11-06 13:08:15.905] [INFO] compilador - Delimitadores: 
-[2017-11-06 13:08:15.906] [INFO] compilador - Operadores: + =
-[2017-11-06 13:08:15.906] [INFO] compilador - Palavras Reservadas: public
-[2017-11-06 13:08:15.906] [INFO] compilador - Variaveis: 2,2
-[2017-11-06 13:08:15.906] [INFO] compilador - Finalizando análise em 10 ms
-[2017-11-06 13:08:22.897] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:08:22.913] [INFO] compilador - Textos: 
-[2017-11-06 13:08:22.913] [INFO] compilador - Numeros: 2,2
-[2017-11-06 13:08:22.919] [INFO] compilador - Decimais: 
-[2017-11-06 13:08:22.919] [INFO] compilador - Delimitadores: 
-[2017-11-06 13:08:22.920] [INFO] compilador - Operadores: + =
-[2017-11-06 13:08:22.921] [INFO] compilador - Palavras Reservadas: public
-[2017-11-06 13:08:22.921] [INFO] compilador - Variaveis: 
-[2017-11-06 13:08:22.922] [INFO] compilador - Finalizando análise em 26 ms
-[2017-11-06 13:15:54.935] [INFO] compilador - Iniciando aplicação 06/11/2017 13:15:54
-[2017-11-06 13:16:22.984] [INFO] compilador - Iniciando aplicação 06/11/2017 13:16:22
-[2017-11-06 13:18:02.135] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:18:02.151] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:18:02.152] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 13:18:20.756] [INFO] compilador - Iniciando aplicação 06/11/2017 13:18:20
-[2017-11-06 13:18:35.927] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:18:35.943] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:18:35.943] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 13:18:44.773] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:18:44.782] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:18:44.782] [INFO] compilador - Finalizando análise sintática em 9 ms
-[2017-11-06 13:18:57.742] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:18:57.750] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:18:57.751] [INFO] compilador - Finalizando análise sintática em 8 ms
-[2017-11-06 13:19:01.407] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:19:01.416] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:19:01.416] [INFO] compilador - Finalizando análise sintática em 9 ms
-[2017-11-06 13:19:14.990] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:19:14.999] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:19:14.999] [INFO] compilador - Finalizando análise sintática em 9 ms
-[2017-11-06 13:19:16.094] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:19:16.103] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:19:16.103] [INFO] compilador - Finalizando análise sintática em 9 ms
-[2017-11-06 13:26:29.155] [INFO] compilador - Iniciando aplicação 06/11/2017 13:26:29
-[2017-11-06 13:26:31.597] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:26:31.655] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:26:31.655] [INFO] compilador - Finalizando análise sintática em 57 ms
-[2017-11-06 13:26:42.087] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:26:42.097] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:26:42.097] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 13:26:45.284] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:26:45.294] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:26:45.295] [INFO] compilador - Finalizando análise sintática em 10 ms
-[2017-11-06 13:27:25.420] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:27:25.432] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:27:25.433] [INFO] compilador - Finalizando análise sintática em 13 ms
-[2017-11-06 13:27:39.626] [INFO] compilador - Iniciando aplicação 06/11/2017 13:27:39
-[2017-11-06 13:27:40.301] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:27:40.317] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:27:40.317] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 13:27:42.997] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:27:43.007] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:27:43.007] [INFO] compilador - Finalizando análise sintática em 10 ms
-[2017-11-06 13:28:41.167] [INFO] compilador - Iniciando aplicação 06/11/2017 13:28:41
-[2017-11-06 13:28:42.117] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:28:42.146] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:28:42.146] [INFO] compilador - Finalizando análise sintática em 29 ms
-[2017-11-06 13:28:47.588] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:28:47.597] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:28:47.598] [INFO] compilador - Finalizando análise sintática em 9 ms
-[2017-11-06 13:28:51.596] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:28:51.607] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:28:51.607] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 13:28:53.667] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:28:53.678] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:28:53.678] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 13:28:56.276] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:28:56.285] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:28:56.285] [INFO] compilador - Finalizando análise sintática em 9 ms
-[2017-11-06 13:29:32.693] [INFO] compilador - Iniciando aplicação 06/11/2017 13:29:32
-[2017-11-06 13:29:36.669] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:29:36.691] [ERROR] compilador - TypeError: caracteres.split is not a function
-    at AnalisadorSintatico.testeOperador (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:126:33)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:29:14)
+[2017-11-07 11:15:04.277] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:15:04.328] [ERROR] compilador - Está faltando 1 caractere  {
+[2017-11-07 11:15:04.329] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-06 13:29:58.169] [INFO] compilador - Iniciando aplicação 06/11/2017 13:29:58
-[2017-11-06 13:29:58.805] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:29:58.845] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:29:58.845] [INFO] compilador - Finalizando análise sintática em 39 ms
-[2017-11-06 13:30:01.596] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:30:01.608] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:30:01.608] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 13:30:07.276] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:30:07.286] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:30:07.286] [INFO] compilador - Finalizando análise sintática em 10 ms
-[2017-11-06 13:30:27.276] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:30:27.286] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:30:27.286] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 13:30:29.101] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:30:29.112] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:30:29.112] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 13:30:31.779] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:30:31.788] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:30:31.788] [INFO] compilador - Finalizando análise sintática em 9 ms
-[2017-11-06 13:30:31.973] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:30:31.981] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:30:31.982] [INFO] compilador - Finalizando análise sintática em 9 ms
-[2017-11-06 13:30:32.141] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:30:32.152] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:30:32.152] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 13:30:32.316] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:30:32.328] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:30:32.329] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 13:30:37.076] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:30:37.085] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:30:37.085] [INFO] compilador - Finalizando análise sintática em 9 ms
-[2017-11-06 13:30:38.308] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:30:38.320] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:30:38.320] [INFO] compilador - Finalizando análise sintática em 13 ms
-[2017-11-06 13:31:45.545] [INFO] compilador - Iniciando aplicação 06/11/2017 13:31:45
-[2017-11-06 13:31:48.004] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:31:48.019] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:31:48.019] [INFO] compilador - Finalizando análise sintática em 15 ms
-[2017-11-06 13:31:57.019] [INFO] compilador - Iniciando aplicação 06/11/2017 13:31:56
-[2017-11-06 13:31:59.131] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:31:59.148] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:31:59.148] [INFO] compilador - Finalizando análise sintática em 17 ms
-[2017-11-06 13:32:02.876] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:32:02.885] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:32:02.885] [INFO] compilador - Finalizando análise sintática em 10 ms
-[2017-11-06 13:32:07.035] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:32:07.045] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:32:07.045] [INFO] compilador - Finalizando análise sintática em 10 ms
-[2017-11-06 13:32:09.428] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:32:09.441] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:32:09.441] [INFO] compilador - Finalizando análise sintática em 13 ms
-[2017-11-06 13:32:14.395] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:32:14.406] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:32:14.407] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 13:32:15.027] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:32:15.043] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:32:15.043] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 13:32:25.623] [INFO] compilador - Iniciando aplicação 06/11/2017 13:32:25
-[2017-11-06 13:32:29.076] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:32:29.092] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:32:29.093] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 13:53:40.977] [INFO] compilador - Iniciando aplicação 06/11/2017 13:53:40
-[2017-11-06 13:53:43.534] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:53:43.549] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:53:43.549] [INFO] compilador - Finalizando análise sintática em 15 ms
-[2017-11-06 13:53:56.426] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 13:53:56.435] [INFO] compilador - Textos: 
-[2017-11-06 13:53:56.436] [INFO] compilador - Numeros: 432321
-[2017-11-06 13:53:56.437] [INFO] compilador - Decimais: 
-[2017-11-06 13:53:56.439] [INFO] compilador - Delimitadores: 
-[2017-11-06 13:53:56.440] [INFO] compilador - Operadores: 
-[2017-11-06 13:53:56.441] [INFO] compilador - Palavras Reservadas: 
-[2017-11-06 13:53:56.441] [INFO] compilador - Variaveis: 
-[2017-11-06 13:53:56.442] [INFO] compilador - Finalizando análise em 17 ms
-[2017-11-06 13:53:57.766] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:53:57.777] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:53:57.777] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 13:54:11.241] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:54:11.251] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:54:11.251] [INFO] compilador - Finalizando análise sintática em 10 ms
-[2017-11-06 13:54:52.824] [INFO] compilador - Iniciando aplicação 06/11/2017 13:54:52
-[2017-11-06 13:54:55.798] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:54:55.815] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:54:55.816] [INFO] compilador - Finalizando análise sintática em 17 ms
-[2017-11-06 13:55:05.102] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:55:05.113] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:55:05.113] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 13:55:18.003] [INFO] compilador - Iniciando aplicação 06/11/2017 13:55:17
-[2017-11-06 13:55:19.487] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:55:19.503] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:55:19.503] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 13:56:24.000] [INFO] compilador - Iniciando aplicação 06/11/2017 13:56:23
-[2017-11-06 13:56:26.863] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:56:26.899] [ERROR] compilador - TypeError: caracteres[0].chatAt is not a function
-    at AnalisadorSintatico.testeOperador (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:133:39)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:29:14)
+[2017-11-07 11:15:07.565] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:15:07.615] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:15:07.616] [INFO] compilador - Finalizando análise sintática em 50 ms
+[2017-11-07 11:15:22.509] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:15:22.523] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9;{}
+[2017-11-07 11:15:22.525] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-06 13:56:34.760] [INFO] compilador - Iniciando aplicação 06/11/2017 13:56:34
-[2017-11-06 13:56:36.447] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:56:36.463] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:56:36.463] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 13:59:14.407] [INFO] compilador - Iniciando aplicação 06/11/2017 13:59:14
-[2017-11-06 13:59:15.111] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:59:33.992] [INFO] compilador - Iniciando aplicação 06/11/2017 13:59:33
-[2017-11-06 13:59:41.943] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 13:59:41.960] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 13:59:41.960] [INFO] compilador - Finalizando análise sintática em 17 ms
-[2017-11-06 14:00:03.917] [INFO] compilador - Iniciando aplicação 06/11/2017 14:00:03
-[2017-11-06 14:00:05.999] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:00:06.035] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:00:06.035] [INFO] compilador - Finalizando análise sintática em 36 ms
-[2017-11-06 14:00:09.430] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:00:09.440] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:00:09.440] [INFO] compilador - Finalizando análise sintática em 10 ms
-[2017-11-06 14:00:13.894] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:00:13.909] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:00:13.909] [INFO] compilador - Finalizando análise sintática em 14 ms
-[2017-11-06 14:00:17.158] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:00:17.169] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:00:17.169] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 14:02:51.290] [INFO] compilador - Iniciando aplicação 06/11/2017 14:02:51
-[2017-11-06 14:02:53.487] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:02:53.504] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:02:53.504] [INFO] compilador - Finalizando análise sintática em 18 ms
-[2017-11-06 14:03:00.079] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:03:00.089] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:03:00.090] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 14:03:05.006] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:03:05.024] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:03:05.024] [INFO] compilador - Finalizando análise sintática em 17 ms
-[2017-11-06 14:03:10.318] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:03:10.328] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:03:10.328] [INFO] compilador - Finalizando análise sintática em 10 ms
-[2017-11-06 14:03:11.382] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:03:11.393] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:03:11.393] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 14:03:12.471] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:03:12.482] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:03:12.483] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 14:03:51.821] [INFO] compilador - Iniciando aplicação 06/11/2017 14:03:51
-[2017-11-06 14:03:53.679] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:03:53.697] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:03:53.697] [INFO] compilador - Finalizando análise sintática em 17 ms
-[2017-11-06 14:03:58.359] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:03:58.371] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:03:58.372] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 14:05:28.569] [INFO] compilador - Iniciando aplicação 06/11/2017 14:05:28
-[2017-11-06 14:05:30.023] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:05:30.054] [ERROR] compilador - TypeError: reg.test(...).charAt is not a function
-    at AnalisadorSintatico.testeOperador (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:137:44)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:29:14)
+[2017-11-07 11:15:25.220] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:15:25.276] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:15:25.276] [INFO] compilador - Finalizando análise sintática em 55 ms
+[2017-11-07 11:15:54.604] [INFO] compilador - Iniciando aplicação 07/11/2017 11:15:54
+[2017-11-07 11:15:58.950] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:15:58.967] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9;{
+[2017-11-07 11:15:58.974] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-06 14:05:57.259] [INFO] compilador - Iniciando aplicação 06/11/2017 14:05:57
-[2017-11-06 14:05:58.174] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:05:58.188] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:05:58.189] [INFO] compilador - Finalizando análise sintática em 14 ms
-[2017-11-06 14:06:04.430] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:06:04.439] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:06:04.439] [INFO] compilador - Finalizando análise sintática em 9 ms
-[2017-11-06 14:06:06.541] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:06:06.553] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:06:06.553] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 14:06:09.086] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:06:09.100] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:06:09.100] [INFO] compilador - Finalizando análise sintática em 14 ms
-[2017-11-06 14:06:13.341] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:06:13.366] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:06:13.366] [INFO] compilador - Finalizando análise sintática em 24 ms
-[2017-11-06 14:12:10.774] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:12:10.790] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:12:10.790] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 14:12:16.405] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:12:16.422] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:12:16.422] [INFO] compilador - Finalizando análise sintática em 17 ms
-[2017-11-06 14:12:20.886] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:12:20.899] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:12:20.899] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 14:12:30.704] [INFO] compilador - Iniciando aplicação 06/11/2017 14:12:30
-[2017-11-06 14:12:33.301] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:12:33.316] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:12:33.317] [INFO] compilador - Finalizando análise sintática em 15 ms
-[2017-11-06 14:12:36.892] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:12:36.903] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:12:36.903] [INFO] compilador - Finalizando análise sintática em 10 ms
-[2017-11-06 14:12:49.425] [INFO] compilador - Iniciando aplicação 06/11/2017 14:12:49
-[2017-11-06 14:12:52.094] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:12:52.111] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:12:52.111] [INFO] compilador - Finalizando análise sintática em 17 ms
-[2017-11-06 14:12:54.493] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:12:54.503] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:12:54.503] [INFO] compilador - Finalizando análise sintática em 10 ms
-[2017-11-06 14:12:58.045] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:12:58.057] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:12:58.057] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 14:13:03.813] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:13:03.825] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:13:03.825] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 14:13:08.989] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:13:09.000] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:13:09.000] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 14:13:16.851] [INFO] compilador - Iniciando aplicação 06/11/2017 14:13:16
-[2017-11-06 14:13:18.726] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:13:18.745] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:13:18.745] [INFO] compilador - Finalizando análise sintática em 18 ms
-[2017-11-06 14:13:34.184] [INFO] compilador - Iniciando aplicação 06/11/2017 14:13:34
-[2017-11-06 14:13:39.120] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:13:39.135] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:13:39.136] [INFO] compilador - Finalizando análise sintática em 15 ms
-[2017-11-06 14:13:44.101] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:13:44.112] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:13:44.112] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 14:13:47.028] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 14:13:47.042] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 14:13:47.042] [INFO] compilador - Finalizando análise sintática em 14 ms
-[2017-11-06 15:11:50.714] [INFO] compilador - Iniciando aplicação 06/11/2017 15:11:50
-[2017-11-06 15:11:53.146] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:11:53.160] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:11:53.160] [INFO] compilador - Finalizando análise sintática em 14 ms
-[2017-11-06 15:12:00.129] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:12:00.140] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:12:00.140] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 15:12:30.333] [INFO] compilador - Iniciando aplicação 06/11/2017 15:12:30
-[2017-11-06 15:12:32.473] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:12:32.489] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:12:32.489] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 15:12:35.961] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:12:35.973] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:12:35.973] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 15:13:13.929] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:13:13.941] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:13:13.941] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 15:15:00.266] [INFO] compilador - Iniciando aplicação 06/11/2017 15:15:00
-[2017-11-06 15:15:05.804] [INFO] compilador - Iniciando aplicação 06/11/2017 15:15:05
-[2017-11-06 15:15:08.313] [INFO] compilador - Iniciando análise léxica arquivo: Desconhecido
-[2017-11-06 15:15:08.322] [INFO] compilador - Textos: 
-[2017-11-06 15:15:08.323] [INFO] compilador - Numeros: 8
-[2017-11-06 15:15:08.323] [INFO] compilador - Decimais: 
-[2017-11-06 15:15:08.324] [INFO] compilador - Delimitadores: 
-[2017-11-06 15:15:08.325] [INFO] compilador - Operadores: 
-[2017-11-06 15:15:08.327] [INFO] compilador - Palavras Reservadas: 
-[2017-11-06 15:15:08.328] [INFO] compilador - Variaveis: 
-[2017-11-06 15:15:08.328] [INFO] compilador - Finalizando análise em 15 ms
-[2017-11-06 15:15:09.136] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:15:09.150] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:15:09.151] [INFO] compilador - Finalizando análise sintática em 14 ms
-[2017-11-06 15:15:12.647] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:15:12.659] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:15:12.659] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 15:15:17.200] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:15:17.212] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:15:17.212] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 15:15:36.376] [INFO] compilador - Iniciando aplicação 06/11/2017 15:15:36
-[2017-11-06 15:15:39.241] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:15:39.257] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:15:39.257] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 15:15:43.578] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:15:43.588] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:15:43.588] [INFO] compilador - Finalizando análise sintática em 10 ms
-[2017-11-06 15:16:25.920] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:16:25.932] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:16:25.932] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 15:16:55.933] [INFO] compilador - Iniciando aplicação 06/11/2017 15:16:55
-[2017-11-06 15:16:59.784] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:16:59.802] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:16:59.802] [INFO] compilador - Finalizando análise sintática em 17 ms
-[2017-11-06 15:17:07.704] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:17:07.716] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:17:07.716] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 15:17:24.416] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:17:24.431] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:17:24.431] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 15:24:18.915] [INFO] compilador - Iniciando aplicação 06/11/2017 15:24:18
-[2017-11-06 15:24:22.160] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:24:44.751] [INFO] compilador - Iniciando aplicação 06/11/2017 15:24:44
-[2017-11-06 15:24:49.664] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:24:49.673] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:24:49.673] [INFO] compilador - Finalizando análise sintática em 9 ms
-[2017-11-06 15:27:13.274] [INFO] compilador - Iniciando aplicação 06/11/2017 15:27:13
-[2017-11-06 15:27:17.142] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:27:17.162] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:27:17.163] [INFO] compilador - Finalizando análise sintática em 20 ms
-[2017-11-06 15:27:30.022] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:27:30.039] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:27:30.039] [INFO] compilador - Finalizando análise sintática em 17 ms
-[2017-11-06 15:27:35.261] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:27:35.276] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:27:35.276] [INFO] compilador - Finalizando análise sintática em 15 ms
-[2017-11-06 15:32:31.639] [INFO] compilador - Iniciando aplicação 06/11/2017 15:32:31
-[2017-11-06 15:32:33.750] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:32:33.767] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:32:33.767] [INFO] compilador - Finalizando análise sintática em 18 ms
-[2017-11-06 15:33:47.502] [INFO] compilador - Iniciando aplicação 06/11/2017 15:33:47
-[2017-11-06 15:33:49.457] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:33:49.474] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:33:49.474] [INFO] compilador - Finalizando análise sintática em 17 ms
-[2017-11-06 15:33:53.516] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:33:53.526] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:33:53.526] [INFO] compilador - Finalizando análise sintática em 10 ms
-[2017-11-06 15:33:57.005] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:33:57.015] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:33:57.015] [INFO] compilador - Finalizando análise sintática em 10 ms
-[2017-11-06 15:34:01.070] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 15:34:01.081] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 15:34:01.081] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 16:10:11.580] [INFO] compilador - Iniciando aplicação 06/11/2017 16:10:11
-[2017-11-06 16:10:14.286] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:10:14.326] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:10:14.326] [INFO] compilador - Finalizando análise sintática em 40 ms
-[2017-11-06 16:10:18.885] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:10:18.898] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:10:18.898] [INFO] compilador - Finalizando análise sintática em 13 ms
-[2017-11-06 16:10:23.509] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:10:23.520] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:10:23.520] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 16:15:38.436] [INFO] compilador - Iniciando aplicação 06/11/2017 16:15:38
-[2017-11-06 16:15:40.172] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:15:40.190] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:15:40.190] [INFO] compilador - Finalizando análise sintática em 18 ms
-[2017-11-06 16:15:44.148] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:15:44.159] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:15:44.159] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 16:15:48.164] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:15:48.177] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:15:48.177] [INFO] compilador - Finalizando análise sintática em 13 ms
-[2017-11-06 16:15:57.219] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:15:57.244] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:15:57.244] [INFO] compilador - Finalizando análise sintática em 24 ms
-[2017-11-06 16:41:07.821] [INFO] compilador - Iniciando aplicação 06/11/2017 16:41:07
-[2017-11-06 16:41:11.671] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:41:11.717] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:41:11.718] [INFO] compilador - Finalizando análise sintática em 46 ms
-[2017-11-06 16:41:19.974] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:41:19.987] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:41:19.987] [INFO] compilador - Finalizando análise sintática em 13 ms
-[2017-11-06 16:41:23.751] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:41:23.763] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:41:23.763] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 16:41:28.104] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:41:28.116] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:41:28.116] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 16:41:32.254] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:41:32.269] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:41:32.269] [INFO] compilador - Finalizando análise sintática em 14 ms
-[2017-11-06 16:42:10.683] [INFO] compilador - Iniciando aplicação 06/11/2017 16:42:10
-[2017-11-06 16:42:15.231] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:42:15.249] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:42:15.249] [INFO] compilador - Finalizando análise sintática em 19 ms
-[2017-11-06 16:42:22.886] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:42:22.900] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:42:22.901] [INFO] compilador - Finalizando análise sintática em 14 ms
-[2017-11-06 16:42:32.485] [INFO] compilador - Iniciando aplicação 06/11/2017 16:42:32
-[2017-11-06 16:42:35.599] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:42:35.618] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:42:35.618] [INFO] compilador - Finalizando análise sintática em 19 ms
-[2017-11-06 16:44:07.007] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:44:07.018] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:44:07.018] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 16:44:15.984] [INFO] compilador - Iniciando aplicação 06/11/2017 16:44:15
-[2017-11-06 16:44:25.151] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:44:25.171] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:44:25.171] [INFO] compilador - Finalizando análise sintática em 20 ms
-[2017-11-06 16:45:40.193] [INFO] compilador - Iniciando aplicação 06/11/2017 16:45:40
-[2017-11-06 16:45:42.718] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:45:42.764] [ERROR] compilador - TypeError: Cannot read property 'regex' of undefined
-    at AnalisadorSintatico.testeOperador (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:142:44)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:29:14)
+[2017-11-07 11:16:04.231] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:16:04.245] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9;{
+[2017-11-07 11:16:04.247] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-06 16:45:53.503] [INFO] compilador - Iniciando aplicação 06/11/2017 16:45:53
-[2017-11-06 16:45:57.285] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:45:57.304] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:45:57.304] [INFO] compilador - Finalizando análise sintática em 19 ms
-[2017-11-06 16:50:46.665] [INFO] compilador - Iniciando aplicação 06/11/2017 16:50:46
-[2017-11-06 16:50:50.748] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:50:50.771] [ERROR] compilador - ReferenceError: valor is not defined
-    at AnalisadorSintatico.testeOperador (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:153:39)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:29:14)
+[2017-11-07 11:16:11.846] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:16:11.901] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:16:11.901] [INFO] compilador - Finalizando análise sintática em 55 ms
+[2017-11-07 11:16:16.072] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:16:16.129] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:16:16.129] [INFO] compilador - Finalizando análise sintática em 57 ms
+[2017-11-07 11:16:47.730] [INFO] compilador - Iniciando aplicação 07/11/2017 11:16:47
+[2017-11-07 11:16:49.790] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:16:49.808] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9;{
+[2017-11-07 11:16:49.814] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-06 16:51:45.565] [INFO] compilador - Iniciando aplicação 06/11/2017 16:51:45
-[2017-11-06 16:52:19.637] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:52:19.658] [ERROR] compilador - ReferenceError: valor is not defined
-    at AnalisadorSintatico.testeOperador (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:152:35)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:29:14)
+[2017-11-07 11:16:54.023] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:16:54.036] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9;{
+[2017-11-07 11:16:54.038] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-06 16:52:38.338] [INFO] compilador - Iniciando aplicação 06/11/2017 16:52:38
-[2017-11-06 16:52:42.374] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:52:42.392] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:52:42.392] [INFO] compilador - Finalizando análise sintática em 18 ms
-[2017-11-06 16:52:46.932] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:52:46.945] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:52:46.945] [INFO] compilador - Finalizando análise sintática em 13 ms
-[2017-11-06 16:52:55.085] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:52:55.097] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:52:55.097] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 16:53:08.300] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:53:08.312] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:53:08.312] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 16:53:13.164] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:53:13.177] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:53:13.178] [INFO] compilador - Finalizando análise sintática em 13 ms
-[2017-11-06 16:53:17.564] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:53:17.577] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:53:17.577] [INFO] compilador - Finalizando análise sintática em 13 ms
-[2017-11-06 16:53:55.180] [INFO] compilador - Iniciando aplicação 06/11/2017 16:53:55
-[2017-11-06 16:53:57.726] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:53:57.745] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:53:57.745] [INFO] compilador - Finalizando análise sintática em 19 ms
-[2017-11-06 16:54:06.650] [INFO] compilador - Iniciando aplicação 06/11/2017 16:54:06
-[2017-11-06 16:54:11.756] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:54:11.775] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:54:11.775] [INFO] compilador - Finalizando análise sintática em 18 ms
-[2017-11-06 16:54:52.934] [INFO] compilador - Iniciando aplicação 06/11/2017 16:54:52
-[2017-11-06 16:54:56.731] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:54:56.764] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:54:56.764] [INFO] compilador - Finalizando análise sintática em 33 ms
-[2017-11-06 16:56:02.428] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:56:26.429] [INFO] compilador - Iniciando aplicação 06/11/2017 16:56:26
-[2017-11-06 16:56:30.963] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:56:30.971] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:56:30.972] [INFO] compilador - Finalizando análise sintática em 8 ms
-[2017-11-06 16:57:05.687] [INFO] compilador - Iniciando aplicação 06/11/2017 16:57:05
-[2017-11-06 16:57:11.859] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:57:11.868] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:57:11.868] [INFO] compilador - Finalizando análise sintática em 9 ms
-[2017-11-06 16:57:19.578] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:57:19.595] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:57:19.595] [INFO] compilador - Finalizando análise sintática em 17 ms
-[2017-11-06 16:57:23.387] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:57:23.399] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:57:23.399] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 16:57:26.074] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 16:57:26.094] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 16:57:26.094] [INFO] compilador - Finalizando análise sintática em 20 ms
-[2017-11-06 16:58:55.426] [INFO] compilador - Iniciando aplicação 06/11/2017 16:58:55
-[2017-11-06 17:00:11.561] [INFO] compilador - Iniciando aplicação 06/11/2017 17:00:11
-[2017-11-06 17:00:13.274] [INFO] compilador - Iniciando aplicação 06/11/2017 17:00:13
-[2017-11-06 17:00:17.795] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:00:17.814] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:00:17.814] [INFO] compilador - Finalizando análise sintática em 19 ms
-[2017-11-06 17:00:29.827] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:00:29.840] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:00:29.840] [INFO] compilador - Finalizando análise sintática em 13 ms
-[2017-11-06 17:00:44.622] [INFO] compilador - Iniciando aplicação 06/11/2017 17:00:44
-[2017-11-06 17:00:49.875] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:00:49.920] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:00:49.920] [INFO] compilador - Finalizando análise sintática em 45 ms
-[2017-11-06 17:01:30.983] [INFO] compilador - Iniciando aplicação 06/11/2017 17:01:30
-[2017-11-06 17:01:53.420] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:01:53.450] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:01:53.451] [INFO] compilador - Finalizando análise sintática em 31 ms
-[2017-11-06 17:02:03.420] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:02:03.436] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:02:03.436] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 17:02:06.812] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:02:06.830] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:02:06.830] [INFO] compilador - Finalizando análise sintática em 17 ms
-[2017-11-06 17:05:03.679] [INFO] compilador - Iniciando aplicação 06/11/2017 17:05:03
-[2017-11-06 17:05:05.922] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:05:05.937] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:05:05.937] [INFO] compilador - Finalizando análise sintática em 15 ms
-[2017-11-06 17:05:09.626] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:05:09.638] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:05:09.639] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 17:05:11.761] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:05:11.773] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:05:11.773] [INFO] compilador - Finalizando análise sintática em 12 ms
-[2017-11-06 17:05:33.490] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:05:33.503] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:05:33.503] [INFO] compilador - Finalizando análise sintática em 13 ms
-[2017-11-06 17:05:59.448] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:05:59.464] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:05:59.464] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 17:06:42.108] [INFO] compilador - Iniciando aplicação 06/11/2017 17:06:42
-[2017-11-06 17:06:46.067] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:06:46.083] [ERROR] compilador - Está faltando 1 caractere  )
-[2017-11-06 17:06:46.089] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
-    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:120:19)
-    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:28:14)
+[2017-11-07 11:16:57.710] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:16:57.721] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9;{;}
+[2017-11-07 11:16:57.722] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
     at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
-[2017-11-06 17:06:50.449] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:06:50.463] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:06:50.463] [INFO] compilador - Finalizando análise sintática em 14 ms
-[2017-11-06 17:07:03.914] [INFO] compilador - Iniciando aplicação 06/11/2017 17:07:03
-[2017-11-06 17:07:06.691] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:07:06.708] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:07:06.708] [INFO] compilador - Finalizando análise sintática em 17 ms
-[2017-11-06 17:07:14.481] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:07:14.492] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:07:14.492] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 17:42:54.474] [INFO] compilador - Iniciando aplicação 06/11/2017 17:42:54
-[2017-11-06 17:43:01.490] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:43:01.506] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:43:01.507] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 17:44:05.016] [INFO] compilador - Iniciando aplicação 06/11/2017 17:44:04
-[2017-11-06 17:44:10.842] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:44:10.859] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:44:10.860] [INFO] compilador - Finalizando análise sintática em 17 ms
-[2017-11-06 17:44:17.289] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:44:17.302] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:44:17.302] [INFO] compilador - Finalizando análise sintática em 13 ms
-[2017-11-06 17:45:13.426] [INFO] compilador - Iniciando aplicação 06/11/2017 17:45:13
-[2017-11-06 17:45:16.506] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:45:16.525] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:45:16.525] [INFO] compilador - Finalizando análise sintática em 19 ms
-[2017-11-06 17:46:53.723] [INFO] compilador - Iniciando aplicação 06/11/2017 17:46:53
-[2017-11-06 17:46:58.170] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:46:58.190] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:46:58.190] [INFO] compilador - Finalizando análise sintática em 19 ms
-[2017-11-06 17:47:40.185] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:47:40.198] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:47:40.198] [INFO] compilador - Finalizando análise sintática em 13 ms
-[2017-11-06 17:47:50.626] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:47:50.637] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:47:50.637] [INFO] compilador - Finalizando análise sintática em 11 ms
-[2017-11-06 17:48:01.754] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:48:01.768] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:48:01.768] [INFO] compilador - Finalizando análise sintática em 14 ms
-[2017-11-06 17:48:10.234] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:48:10.250] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:48:10.250] [INFO] compilador - Finalizando análise sintática em 16 ms
-[2017-11-06 17:48:19.146] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
-[2017-11-06 17:48:19.165] [INFO] compilador - Não foram encontrados erros sintáticos.
-[2017-11-06 17:48:19.165] [INFO] compilador - Finalizando análise sintática em 19 ms
+[2017-11-07 11:17:02.598] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:17:02.611] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9;{;
+[2017-11-07 11:17:02.613] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-07 11:17:09.630] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:17:09.642] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9;{;
+[2017-11-07 11:17:09.644] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-07 11:17:11.414] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:17:11.426] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9;{;
+[2017-11-07 11:17:11.428] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-07 11:17:14.494] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:17:14.504] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9;
+[2017-11-07 11:17:14.505] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-07 11:17:48.414] [INFO] compilador - Iniciando aplicação 07/11/2017 11:17:48
+[2017-11-07 11:17:48.957] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:17:49.008] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:17:49.008] [INFO] compilador - Finalizando análise sintática em 51 ms
+[2017-11-07 11:17:50.405] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:17:50.416] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9
+[2017-11-07 11:17:50.418] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-07 11:17:56.781] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:17:56.792] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+9{
+[2017-11-07 11:17:56.793] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-07 11:17:59.996] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:18:00.043] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:18:00.043] [INFO] compilador - Finalizando análise sintática em 47 ms
+[2017-11-07 11:18:04.349] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:18:04.404] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:18:04.404] [INFO] compilador - Finalizando análise sintática em 54 ms
+[2017-11-07 11:18:06.461] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:18:06.474] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+;{
+[2017-11-07 11:18:06.475] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-07 11:18:08.781] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:18:08.795] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9+{
+[2017-11-07 11:18:08.796] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-07 11:18:10.981] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:18:10.991] [ERROR] compilador - Encontrado um erro na linha 1: 0-9;(8+8);9{
+[2017-11-07 11:18:10.992] [ERROR] compilador - Error: Ocorreu um erro na análise sintática, verifique o log para mais detalhes.
+    at AnalisadorSintatico.resultado (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:114:19)
+    at new AnalisadorSintatico (G:\compilador\src\analisador-sintatico\AnalisadorSintatico.js:23:14)
+    at HTMLAnchorElement.$.onclick (G:\compilador\src\renderer.js:80:23)
+[2017-11-07 11:18:15.084] [INFO] compilador - Iniciando análise sintática arquivo: Desconhecido
+[2017-11-07 11:18:15.133] [INFO] compilador - Não foram encontrados erros sintáticos.
+[2017-11-07 11:18:15.133] [INFO] compilador - Finalizando análise sintática em 49 ms
