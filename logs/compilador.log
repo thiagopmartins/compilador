@@ -1,0 +1,9 @@
+[2017-11-08 11:21:41.326] [INFO] compilador - Iniciando aplicação 08/11/2017 11:21:40
+[2017-11-27 13:53:28.070] [INFO] compilador - Iniciando aplicação 27/11/2017 13:53:27
+[2017-11-27 13:55:28.477] [INFO] compilador - Iniciando aplicação 27/11/2017 13:55:28
+[2017-11-27 13:55:28.879] [INFO] compilador - Iniciando análise semântica arquivo: Desconhecido
+[2017-11-27 13:55:28.882] [INFO] compilador - Não foram encontrados erros semânticos.
+[2017-11-27 13:55:28.882] [INFO] compilador - Finalizando análise semântica em 3 ms
+[2017-11-27 13:55:31.455] [INFO] compilador - Iniciando análise semântica arquivo: Desconhecido
+[2017-11-27 13:55:31.456] [INFO] compilador - Não foram encontrados erros semânticos.
+[2017-11-27 13:55:31.456] [INFO] compilador - Finalizando análise semântica em 1 ms
